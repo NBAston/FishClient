@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_kaidi",
+    "texture": "8228deb1-16ae-4f46-b57a-7025c4ba8438",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

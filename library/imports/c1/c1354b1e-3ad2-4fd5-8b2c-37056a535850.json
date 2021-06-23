@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shuoming",
+    "texture": "7a25a667-7a92-425e-b37a-f16c3f90c1d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      544,
+      751
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      544,
+      751
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jilu",
+    "texture": "927c074a-2dec-4606-a15b-f6e6fcca16d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_kuabg",
+    "texture": "3baa0ded-381c-4cb3-968f-1e1b55bbe5b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      251,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      251,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yeb_rw",
+    "texture": "549d4a26-3e65-4cfe-883b-ab97e8d7dd00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

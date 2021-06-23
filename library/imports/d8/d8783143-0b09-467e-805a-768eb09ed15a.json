@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jiazaijindutiaoguang",
+    "texture": "7edd1354-e9d3-40e0-b3a8-77715c21d491",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

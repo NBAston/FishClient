@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_remen",
+    "texture": "7ee3b8b2-f2a8-4954-a921-f54c5d3911bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

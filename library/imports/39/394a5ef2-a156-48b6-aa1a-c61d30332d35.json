@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_zjm_chongzhi2",
+    "texture": "c04c4df8-3886-4227-9da5-33ab59b297c9",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1020,
+      1013
+    ],
+    "offset": [
+      0,
+      3.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

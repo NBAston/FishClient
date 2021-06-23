@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "missile_7",
+    "texture": "08890321-418b-4b97-8bc7-17b77f759af4",
+    "atlas": "d3a15b30-6980-4b47-a893-fc4c9b09c32c",
+    "rect": [
+      2,
+      231,
+      227,
+      618
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      227,
+      618
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

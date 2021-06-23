@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fasong",
+    "texture": "9c783472-6124-46ba-8133-a78359c2090b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

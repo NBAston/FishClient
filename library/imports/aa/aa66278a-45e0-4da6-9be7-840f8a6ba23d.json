@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "laserBorn.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tex_sdq1_1": {
+      "__uuid__": "91e190d1-d66b-4656-a4da-7ca343a68f09"
+    },
+    "tex_sdq1_2": {
+      "__uuid__": "5f7934e2-d4d1-41b9-a2ab-a7656a63e564"
+    },
+    "tex_sdq1_3": {
+      "__uuid__": "bf8916d8-65d2-4b5f-96ea-2c0f5f855a14"
+    },
+    "tex_sdq1_4": {
+      "__uuid__": "1e577cda-e78d-4391-8206-b9ff88ffcee7"
+    },
+    "tex_sdq1_5": {
+      "__uuid__": "df2bc907-aa34-4c0e-a7c7-aa7a17fc6e0d"
+    },
+    "tex_sdq2_1": {
+      "__uuid__": "4ef60fb0-671e-4796-9fe2-d045da350722"
+    },
+    "tex_sdq2_2": {
+      "__uuid__": "ff93e537-4a34-4396-b769-763cacb3f457"
+    },
+    "tex_sdq2_3": {
+      "__uuid__": "a919d07e-06ac-4d2f-80c5-01069d90a14a"
+    },
+    "tex_sdq2_4": {
+      "__uuid__": "2247fa2e-3cba-4732-81f3-25325c255fa7"
+    },
+    "tex_sdq2_5": {
+      "__uuid__": "6f6b176b-5207-4ada-9b39-4f77f721533f"
+    },
+    "tex_sdq2_6": {
+      "__uuid__": "91c743d9-21cd-4c6e-8e8b-d92700a2ca7a"
+    },
+    "tex_sdq2_7": {
+      "__uuid__": "467c2cff-aec6-47af-971c-37254ab188f8"
+    },
+    "tex_sdq2_8": {
+      "__uuid__": "e72f2081-870d-407e-9a08-3b1deba5e6b2"
+    },
+    "tex_sdq3_1": {
+      "__uuid__": "fe52364d-853b-4c72-85b3-573ccc092c03"
+    },
+    "tex_sdq3_2": {
+      "__uuid__": "a716ca2a-64c8-46f4-b8e4-28f0d2ef5108"
+    },
+    "tex_sdq3_3": {
+      "__uuid__": "d8b8bb18-083d-40ef-bdf2-c10c46ead169"
+    },
+    "tex_sdq3_4": {
+      "__uuid__": "582c8cc6-6358-41a5-a657-cf806f056c95"
+    },
+    "tex_sdq3_5": {
+      "__uuid__": "dd0f8258-4b58-4d53-a5ea-2a58c712c78d"
+    },
+    "tex_sdq3_6": {
+      "__uuid__": "7fc80739-7945-48c3-8417-73236ca1db27"
+    },
+    "tex_sdq3_7": {
+      "__uuid__": "74cb25ae-c0ae-4700-b200-8c650808c2b3"
+    },
+    "tex_sdq3_8": {
+      "__uuid__": "8aee7184-949b-4d2b-96e5-9fab484260d9"
+    },
+    "tex_sdq4_1": {
+      "__uuid__": "9e55735e-5085-4941-b5b9-343518e874af"
+    },
+    "tex_sdq4_2": {
+      "__uuid__": "b74c5b87-0891-4ddb-99ea-ccae8f37614b"
+    },
+    "tex_sdq4_3": {
+      "__uuid__": "154d4aaf-a7ea-471d-a813-65c04144acec"
+    },
+    "tex_sdq4_4": {
+      "__uuid__": "60643d10-3aee-43ca-b5cd-a244f6cb8b61"
+    },
+    "tex_sdq4_5": {
+      "__uuid__": "f84010ab-3dfa-4fb0-b0a0-679bf62729c1"
+    }
+  }
+}

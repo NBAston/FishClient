@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qidai",
+    "texture": "f72d30dc-0b8a-4e68-9133-c7ee911e9ada",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

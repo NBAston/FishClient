@@ -1,0 +1,76 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "plaza_up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "titleMask/saoguang_J": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": -887
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": 895
+            }
+          ]
+        }
+      },
+      "img_vipguang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "quartInOut"
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.3
+              },
+              "curve": [
+                0.6972977624784852,
+                0.044302925989673114,
+                0.43179001721170407,
+                0.9750602409638554
+              ]
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": -720
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

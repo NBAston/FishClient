@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_anniu2",
+    "texture": "b9306342-b320-42a2-a0e4-e2fc653dec80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      269,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      269,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

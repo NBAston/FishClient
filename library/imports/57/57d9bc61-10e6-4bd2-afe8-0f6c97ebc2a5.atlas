@@ -1,0 +1,41 @@
+
+fx_by_mhzp_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_cloud_201
+  rotate: false
+  xy: 516, 533
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_earth_124
+  rotate: false
+  xy: 2, 416
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+img_huaban1
+  rotate: false
+  xy: 2, 2
+  size: 301, 412
+  orig: 301, 412
+  offset: 0, 0
+  index: -1
+img_huaban2
+  rotate: false
+  xy: 516, 791
+  size: 381, 137
+  orig: 381, 137
+  offset: 0, 0
+  index: -1
+monk_mystic
+  rotate: false
+  xy: 305, 158
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

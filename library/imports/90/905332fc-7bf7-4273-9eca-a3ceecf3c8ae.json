@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qipaoer",
+    "texture": "8e3d31bf-2bf6-40ab-896c-6c4ad285a79e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

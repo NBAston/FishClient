@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_renwubiaoti",
+    "texture": "9a11a29a-78cd-4c40-a12c-34b76225627e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      349,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      349,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_by_mhzp_03",
+    "texture": "b0804e7d-3c0b-44d2-b282-1f7ffd9c2117",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      205,
+      227
+    ],
+    "offset": [
+      -23.5,
+      12.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

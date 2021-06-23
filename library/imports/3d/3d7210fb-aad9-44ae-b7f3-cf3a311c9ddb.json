@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_teshuyujiner",
+    "texture": "57cfa790-1ff3-409e-a3f7-4c4dddbea2d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      252,
+      91
+    ],
+    "offset": [
+      -2,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

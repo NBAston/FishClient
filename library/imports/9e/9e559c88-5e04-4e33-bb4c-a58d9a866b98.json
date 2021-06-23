@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "explosionAndLightning.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "effectTitle_1": {
+      "__uuid__": "cc6edc98-fa0c-4f94-88df-bb23e5e1521c"
+    },
+    "effectTitle_2": {
+      "__uuid__": "0b5dbb1b-a0e5-405e-9c14-5fc99890b69d"
+    },
+    "effectTitle_3": {
+      "__uuid__": "2c63fa90-4943-4812-835c-41a943b649c4"
+    },
+    "effectTitle_4": {
+      "__uuid__": "183f3fe1-ac3a-460f-b5e5-02050b7ea3b1"
+    },
+    "effectTitle_5": {
+      "__uuid__": "79558eb2-e0e6-4534-92cb-328474e92d26"
+    },
+    "effectTitle_6": {
+      "__uuid__": "6e982f0a-411c-4be3-aa66-6f310708bf0e"
+    },
+    "effectTitle_7": {
+      "__uuid__": "bc683061-da83-49a1-958e-71148e3ef44a"
+    },
+    "effectTitle_8": {
+      "__uuid__": "2ae572f9-5733-4814-b806-4ea1c79869bb"
+    },
+    "img_shandian1": {
+      "__uuid__": "b83d4466-de3d-445a-9cb9-ca5fa1828d5b"
+    },
+    "img_shandian2": {
+      "__uuid__": "b02f519c-5bde-4232-b632-0642a51600bd"
+    },
+    "img_shandian3": {
+      "__uuid__": "e555847d-e15c-48cd-bc44-5636893a6fce"
+    },
+    "img_shandian4": {
+      "__uuid__": "27d47cf9-4b18-4984-82f3-d8c5759e8b93"
+    },
+    "img_shandian5": {
+      "__uuid__": "1da87ca5-43a2-493d-a5c0-cb544609c345"
+    },
+    "img_shandian6": {
+      "__uuid__": "63aeeb0b-8606-4a27-8e94-33c9986a62ef"
+    },
+    "img_shandian7": {
+      "__uuid__": "7f8e2257-32fe-4180-8f79-a862ee3e0264"
+    },
+    "img_shandian8": {
+      "__uuid__": "a78870a6-6055-42d5-afb8-f9050498829d"
+    },
+    "img_shandian_ball1": {
+      "__uuid__": "83285521-c125-4cfe-bebb-11c19adf0736"
+    },
+    "img_shandian_ball2": {
+      "__uuid__": "8f929a24-0b6d-4727-9545-f8f4ce1c3ef7"
+    },
+    "img_shandian_ball3": {
+      "__uuid__": "4560639f-a5db-4557-b88f-f02dba6391a1"
+    },
+    "img_shandian_ball4": {
+      "__uuid__": "4f518377-f630-4e82-90cd-ee709ed0d554"
+    },
+    "img_shandian_ball5": {
+      "__uuid__": "67a5bf88-5c36-458c-936c-46eaa9fcd809"
+    },
+    "img_shandian_ball6": {
+      "__uuid__": "2f99b381-e1ed-4033-a81d-7da68122996e"
+    },
+    "img_shandian_ball7": {
+      "__uuid__": "332ed2a5-b20b-4c0e-b44a-4be8b0b36d39"
+    }
+  }
+}

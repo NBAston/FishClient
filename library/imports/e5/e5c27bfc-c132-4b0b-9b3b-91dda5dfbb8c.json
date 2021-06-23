@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_shouchongfanli",
+    "texture": "29fa756c-db05-4cf4-bb65-0dfe714b26f3",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      605,
+      494
+    ],
+    "offset": [
+      -206.5,
+      6
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

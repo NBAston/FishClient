@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zuida",
+    "texture": "e7806248-aee9-4f85-9dcd-3d48a60efd0e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

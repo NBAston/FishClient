@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_guandi",
+    "texture": "c4a8ccbe-f7e4-419c-8e0d-6e35a44b2bcc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

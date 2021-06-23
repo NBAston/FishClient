@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qipaiweixuan",
+    "texture": "f18b087d-3489-43d2-b39d-f7b7900e1fc7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      326,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      326,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

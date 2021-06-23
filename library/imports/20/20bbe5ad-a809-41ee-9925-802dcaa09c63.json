@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjm_jiarufangjian",
+    "texture": "0d8a462f-1b90-475b-ac08-3e961084dccc",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      978,
+      501
+    ],
+    "offset": [
+      -21,
+      3.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

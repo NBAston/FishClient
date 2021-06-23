@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tishidian",
+    "texture": "f9979597-4f68-4b19-84a7-7d93abb095ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      27,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      27,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

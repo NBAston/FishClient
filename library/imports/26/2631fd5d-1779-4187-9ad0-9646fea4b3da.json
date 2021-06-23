@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yujishouyi",
+    "texture": "09201a3d-b493-4673-a4ce-f2031bad1a0a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

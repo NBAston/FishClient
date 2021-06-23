@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tiyu1",
+    "texture": "b31166d4-882c-45ef-af1e-06b171794360",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

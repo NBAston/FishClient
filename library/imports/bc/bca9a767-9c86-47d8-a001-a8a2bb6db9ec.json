@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_damayaoqiu",
+    "texture": "88acbd6c-bfb0-4fb7-bce4-e63d51d44b48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      207,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

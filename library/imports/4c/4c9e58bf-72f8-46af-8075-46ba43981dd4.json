@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_title_grandtotal",
+    "texture": "c8c61934-d903-42b9-aa6a-cfd199f7ccaa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+
+heijin_zjm_tgzq.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 230
+  size: 287, 126
+  orig: 287, 126
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 291, 360
+  size: 287, 125
+  orig: 287, 125
+  offset: 0, 0
+  index: -1
+Ef_Glow083
+  rotate: false
+  xy: 276, 10
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 2, 358
+  size: 287, 127
+  orig: 287, 127
+  offset: 0, 0
+  index: -1
+hongdi
+  rotate: false
+  xy: 2, 29
+  size: 237, 78
+  orig: 237, 78
+  offset: 0, 0
+  index: -1
+huidi
+  rotate: false
+  xy: 2, 109
+  size: 272, 119
+  orig: 272, 119
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 580, 385
+  size: 255, 100
+  orig: 255, 100
+  offset: 0, 0
+  index: -1
+light_01_00
+  rotate: false
+  xy: 291, 204
+  size: 230, 154
+  orig: 230, 154
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 470, 2
+  size: 200, 53
+  orig: 200, 53
+  offset: 0, 0
+  index: -1

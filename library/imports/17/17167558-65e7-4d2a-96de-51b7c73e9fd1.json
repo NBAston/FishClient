@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tex_Drop_2001",
+    "texture": "366c6f2d-f4f9-472c-bda3-8225b0fc34bc",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      60,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

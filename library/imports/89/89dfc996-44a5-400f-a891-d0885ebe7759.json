@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_ptbs_tongyong",
+    "texture": "cd300d2b-71e7-4a4e-b533-f58d3f9daff8",
+    "atlas": "",
+    "rect": [
+      2,
+      11,
+      516,
+      778
+    ],
+    "offset": [
+      -252,
+      112
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

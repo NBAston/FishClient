@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_nvhui",
+    "texture": "d728116f-81ad-4dff-86e8-834ef36277c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      109,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

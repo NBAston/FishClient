@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_quwancheng",
+    "texture": "408e7c24-21ae-4ea3-8bb0-acb0a4483d8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ty_caizhi",
+    "texture": "44384255-452e-4eee-a334-5d1713c7270a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      218,
+      60
+    ],
+    "offset": [
+      -17,
+      0
+    ],
+    "originalSize": [
+      256,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

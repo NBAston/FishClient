@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjm_haoyouyaoqing",
+    "texture": "ebdfb5ee-f698-410a-9ea3-cc5121f3a3a8",
+    "atlas": "",
+    "rect": [
+      4,
+      7,
+      488,
+      439
+    ],
+    "offset": [
+      -8,
+      29.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

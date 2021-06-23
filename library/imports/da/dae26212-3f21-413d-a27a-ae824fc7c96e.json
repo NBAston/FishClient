@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_timeyuan",
+    "texture": "63948f2d-e3d8-42e4-a8e3-c36ebf63fa50",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

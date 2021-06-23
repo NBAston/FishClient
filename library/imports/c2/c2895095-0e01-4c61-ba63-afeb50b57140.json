@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Grove_10",
+    "texture": "87a5768f-6029-4de7-b7d3-0fd142535c87",
+    "atlas": "",
+    "rect": [
+      33,
+      0,
+      298,
+      126
+    ],
+    "offset": [
+      16.5,
+      0
+    ],
+    "originalSize": [
+      331,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

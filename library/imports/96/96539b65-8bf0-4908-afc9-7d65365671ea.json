@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lianxikefu",
+    "texture": "74377531-0a0b-4ef7-a8ae-5cdd1761d08d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

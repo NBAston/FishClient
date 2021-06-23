@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yiche",
+    "texture": "c85ad0ef-3df6-47f7-863d-a4f31f780394",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      126,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

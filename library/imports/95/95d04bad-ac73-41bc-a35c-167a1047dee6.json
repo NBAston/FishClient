@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "fnt_huoyuezhi",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "5439747d-e15f-4beb-a8c5-0eba3158144c"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 36,
+    "fontSize": 32,
+    "atlasName": "D:\\svn\\切图资源\\开心黑金切图\\任务\\fnt_huoyuezhi.png",
+    "fontDefDictionary": {
+      "9": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 80
+      },
+      "32": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 10
+      },
+      "48": {
+        "rect": {
+          "x": 0,
+          "y": 36,
+          "width": 22,
+          "height": 34
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 24
+      },
+      "49": {
+        "rect": {
+          "x": 27,
+          "y": 0,
+          "width": 15,
+          "height": 33
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 17
+      },
+      "50": {
+        "rect": {
+          "x": 50,
+          "y": 37,
+          "width": 21,
+          "height": 33
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 23
+      },
+      "51": {
+        "rect": {
+          "x": 73,
+          "y": 73,
+          "width": 20,
+          "height": 34
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 22
+      },
+      "52": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 24,
+          "height": 33
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 26
+      },
+      "53": {
+        "rect": {
+          "x": 50,
+          "y": 73,
+          "width": 20,
+          "height": 34
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 22
+      },
+      "54": {
+        "rect": {
+          "x": 25,
+          "y": 72,
+          "width": 22,
+          "height": 34
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 24
+      },
+      "55": {
+        "rect": {
+          "x": 25,
+          "y": 36,
+          "width": 22,
+          "height": 33
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 24
+      },
+      "56": {
+        "rect": {
+          "x": 0,
+          "y": 73,
+          "width": 22,
+          "height": 34
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 24
+      },
+      "57": {
+        "rect": {
+          "x": 50,
+          "y": 0,
+          "width": 21,
+          "height": 34
+        },
+        "xOffset": 0,
+        "yOffset": 2,
+        "xAdvance": 23
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

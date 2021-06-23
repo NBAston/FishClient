@@ -1,0 +1,2851 @@
+{
+  "projectPath": "C:\\266\\newfish\\fishPro",
+  "mtimes": {
+    "99208572-e8ed-4a04-a58d-1debfd23376d": {
+      "assetMtime": 1603186449374,
+      "metaMtime": 1603186449380
+    },
+    "0325266b-301e-4085-97ba-9b852e39f977": {
+      "assetMtime": 1606916639969,
+      "metaMtime": 1606916639995
+    },
+    "18eef169-75d0-4406-be68-912ffc3981e7": {
+      "assetMtime": 1606916639969,
+      "metaMtime": 1606916639995
+    },
+    "0478ea4e-1df3-4e9a-b11d-e5ff230b1571": {
+      "assetMtime": 1605022688641,
+      "metaMtime": 1605022822627
+    },
+    "97e467c2-374c-43d2-9a11-0ff13d93cf5d": {
+      "assetMtime": 1605022688641,
+      "metaMtime": 1605022822627
+    },
+    "052a876a-c595-40de-a73c-718676ab141f": {
+      "assetMtime": 1605022688637,
+      "metaMtime": 1605022822547
+    },
+    "e0a9eaa6-1249-490c-a1e2-b9287110f61f": {
+      "assetMtime": 1605022688637,
+      "metaMtime": 1605022822547
+    },
+    "07551038-71c5-42ea-8d77-58c60f59b16b": {
+      "assetMtime": 1605022688638,
+      "metaMtime": 1605022822561
+    },
+    "c6579798-be4e-4f03-a289-69b5c256c86d": {
+      "assetMtime": 1605022688638,
+      "metaMtime": 1605022822561
+    },
+    "08342efd-2cb1-401b-95e1-bd1d97c80e3e": {
+      "assetMtime": 1605191026050,
+      "metaMtime": 1605191026077
+    },
+    "9e155bbc-99e1-4933-bba4-c40594d210cd": {
+      "assetMtime": 1605191026050,
+      "metaMtime": 1605191026077
+    },
+    "09dc2890-8ff6-493b-a34b-5ba334e3c026": {
+      "assetMtime": 1605618955436,
+      "metaMtime": 1605618980313
+    },
+    "3d6599d9-e043-4b69-b4a7-4e929ba40063": {
+      "assetMtime": 1605618955436,
+      "metaMtime": 1605618980313
+    },
+    "0b35aec3-b0fa-4b10-9618-77733043d59a": {
+      "assetMtime": 1605022688640,
+      "metaMtime": 1605022822603
+    },
+    "0cdebea1-13f5-48d0-8a08-76ac4001b090": {
+      "assetMtime": 1605022688640,
+      "metaMtime": 1605022822603
+    },
+    "13ee1f70-5c9b-48fd-9a74-341bb33dd292": {
+      "assetMtime": 1606553309250,
+      "metaMtime": 1606553598828
+    },
+    "188326c6-e8c7-44a9-b179-e251224513c1": {
+      "assetMtime": 1606553309250,
+      "metaMtime": 1606553598828
+    },
+    "1548077d-9cf3-4432-9f51-cbdf684e4e04": {
+      "assetMtime": 1606915906735,
+      "metaMtime": 1606915906830
+    },
+    "0a765fde-257e-4d30-9470-326931e93a54": {
+      "assetMtime": 1606915906735,
+      "metaMtime": 1606915906830
+    },
+    "1ec2bc53-e557-4ec3-a5ec-4c9f1867e5c5": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139651
+    },
+    "524286f2-a570-42e5-8f3f-e2ca7ec8fa77": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139651
+    },
+    "243be830-bb92-4030-b306-0463cd4a316b": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139692
+    },
+    "28447012-0d3f-4a65-8b1a-3bba783de38e": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139692
+    },
+    "3045b70e-dd7c-4d0b-aecd-efbee728f4b9": {
+      "assetMtime": 1603871363093,
+      "metaMtime": 1603871363125
+    },
+    "12d49633-2d7b-44e7-a461-f73e32c62988": {
+      "assetMtime": 1603871363093,
+      "metaMtime": 1603871363125
+    },
+    "31f21871-4a45-45be-92c4-48d4e1af6151": {
+      "assetMtime": 1605022688634,
+      "metaMtime": 1605022822517
+    },
+    "cebe0162-bd0b-4d59-829d-095f81e7ecb8": {
+      "assetMtime": 1605022688634,
+      "metaMtime": 1605022822517
+    },
+    "3258b48a-65c2-48f5-a65e-e617bad5aa48": {
+      "assetMtime": 1606915906734,
+      "metaMtime": 1606915906796
+    },
+    "9ea488af-23d6-4843-878d-0d2f42985a68": {
+      "assetMtime": 1606915906734,
+      "metaMtime": 1606915906796
+    },
+    "33b7a6e0-260a-4b89-a633-efe0ec32c303": {
+      "assetMtime": 1606748826145,
+      "metaMtime": 1606748878867
+    },
+    "1fca8ab1-3b4a-43e6-b61e-df06e01ebf36": {
+      "assetMtime": 1606748826145,
+      "metaMtime": 1606748878867
+    },
+    "34f63bb9-1799-47b0-b05d-94dc7ff1b55a": {
+      "assetMtime": 1606916518115,
+      "metaMtime": 1606916518154
+    },
+    "147309b2-0574-4568-a1be-f19d2ac774f5": {
+      "assetMtime": 1606916518115,
+      "metaMtime": 1606916518154
+    },
+    "39a9e1ba-9b6f-43a4-a157-bb79a410bc1d": {
+      "assetMtime": 1605618955430,
+      "metaMtime": 1605618996245
+    },
+    "7df067bb-ed7e-4e3b-a0ad-2e5374ecab43": {
+      "assetMtime": 1605618955430,
+      "metaMtime": 1605618996245
+    },
+    "3aabd1d0-7d39-4ddf-a381-f03696c8e72e": {
+      "assetMtime": 1602403530769,
+      "metaMtime": 1602403530794
+    },
+    "ae6e9f05-d44c-4ac9-ab9d-a275a3d7acc4": {
+      "assetMtime": 1602403530769,
+      "metaMtime": 1602403530794
+    },
+    "3c26fc66-4967-4610-875b-f82dea11beda": {
+      "assetMtime": 1605078901907,
+      "metaMtime": 1605078901921
+    },
+    "7def3c23-f7a4-46a9-8219-4ce9aa397773": {
+      "assetMtime": 1605078901907,
+      "metaMtime": 1605078901921
+    },
+    "3c77e202-8452-492d-8d55-ccb3621fdacc": {
+      "assetMtime": 1602384139451,
+      "metaMtime": 1602384139739
+    },
+    "9e073e77-4e0d-4a3e-8636-1012a412b04a": {
+      "assetMtime": 1602384139451,
+      "metaMtime": 1602384139739
+    },
+    "430fae93-1f70-4a0b-9a75-b684294d074d": {
+      "assetMtime": 1603871273417,
+      "metaMtime": 1603871273461
+    },
+    "42396ee7-de90-406c-8825-30ed5de0a754": {
+      "assetMtime": 1603871273417,
+      "metaMtime": 1603871273461
+    },
+    "4716500e-ed10-4c0d-b75d-d593340570e3": {
+      "assetMtime": 1605022688636,
+      "metaMtime": 1605022822532
+    },
+    "69f63937-fdd8-4b95-b719-a8e7a38f2f1f": {
+      "assetMtime": 1605022688636,
+      "metaMtime": 1605022822532
+    },
+    "476d0fff-3ad3-48ab-b74c-8945e158528e": {
+      "assetMtime": 1605068978063,
+      "metaMtime": 1605078894597
+    },
+    "535eb576-892c-40d1-8e73-c1e6cf7b7a3c": {
+      "assetMtime": 1605068978063,
+      "metaMtime": 1605078894597
+    },
+    "4946d297-51f0-43eb-8323-c3ff0979c84c": {
+      "assetMtime": 1606553605042,
+      "metaMtime": 1606553605060
+    },
+    "40dadbd8-100a-451d-9e8a-2e6486848440": {
+      "assetMtime": 1606553605042,
+      "metaMtime": 1606553605060
+    },
+    "49ee1427-7d84-4436-8053-fba157d9c330": {
+      "assetMtime": 1605618955433,
+      "metaMtime": 1605619011553
+    },
+    "f2ef7368-5ad8-48a1-b1b8-83addca4b481": {
+      "assetMtime": 1605618955433,
+      "metaMtime": 1605619011553
+    },
+    "4dae2816-66a9-4a26-ac6f-3d99350851d1": {
+      "assetMtime": 1605153656906,
+      "metaMtime": 1605154373010
+    },
+    "9d91f6f3-f204-4489-b671-17e480531bbb": {
+      "assetMtime": 1605153656906,
+      "metaMtime": 1605154373010
+    },
+    "4e00a343-c1fb-4e4f-857b-83012826dec4": {
+      "assetMtime": 1603871363093,
+      "metaMtime": 1603871363119
+    },
+    "b86e0f88-e424-4e96-9625-e1706ec8ae0e": {
+      "assetMtime": 1603871363093,
+      "metaMtime": 1603871363119
+    },
+    "51c49b16-3782-480d-960f-f5da28bf32f6": {
+      "assetMtime": 1606916739926,
+      "metaMtime": 1606916739955
+    },
+    "bdca69c4-3539-4638-abcc-14332240dad3": {
+      "assetMtime": 1606916739926,
+      "metaMtime": 1606916739955
+    },
+    "54c98d1c-0105-48b2-9915-383d5fff2572": {
+      "assetMtime": 1606480389330,
+      "metaMtime": 1606481378988
+    },
+    "3736513c-c96c-44e5-937a-33e015faaaeb": {
+      "assetMtime": 1606480389330,
+      "metaMtime": 1606481378988
+    },
+    "569d7a9a-2381-406f-ad02-081bf4105b20": {
+      "assetMtime": 1606480389320,
+      "metaMtime": 1606481378924
+    },
+    "0e654a29-b121-4085-857c-7c12222862ed": {
+      "assetMtime": 1606480389320,
+      "metaMtime": 1606481378924
+    },
+    "5a866f4d-de0e-45b6-af97-011556d672f6": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139699
+    },
+    "1dc8cfbb-8a06-40c1-b0d1-173eee4b096e": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139699
+    },
+    "5bd7acd9-3c57-4e70-8c6a-3ed46540f8a4": {
+      "assetMtime": 1603871856634,
+      "metaMtime": 1603871856671
+    },
+    "9a98aff3-0cbc-45d8-a817-aecef7a729cc": {
+      "assetMtime": 1603871856634,
+      "metaMtime": 1603871856671
+    },
+    "5f04131d-fe9e-4629-876a-504f2b249d51": {
+      "assetMtime": 1606484451565,
+      "metaMtime": 1606484451585
+    },
+    "f8004eb9-b528-40d0-89ac-4fa66935e60f": {
+      "assetMtime": 1606484451565,
+      "metaMtime": 1606484451585
+    },
+    "63f0b02f-3c07-4cfa-93cb-250e79893ba5": {
+      "assetMtime": 1605022688641,
+      "metaMtime": 1605022822621
+    },
+    "4bf72d85-2619-4bcd-85d3-e71d3023e525": {
+      "assetMtime": 1605022688641,
+      "metaMtime": 1605022822621
+    },
+    "65ab79b0-4f47-4012-85c8-efbc38044f7c": {
+      "assetMtime": 1605022688636,
+      "metaMtime": 1605022822565
+    },
+    "62910387-0eb6-4d28-8b32-aef9b41d1dd7": {
+      "assetMtime": 1605022688636,
+      "metaMtime": 1605022822565
+    },
+    "6745a99e-f7bf-4481-b34e-03eb9df45153": {
+      "assetMtime": 1605022688635,
+      "metaMtime": 1605022822510
+    },
+    "20f9d971-25cb-4b3e-9b6e-7cf6864b54dd": {
+      "assetMtime": 1605022688635,
+      "metaMtime": 1605022822510
+    },
+    "6876b4c8-08ab-4909-b9f9-acada0592183": {
+      "assetMtime": 1606748826151,
+      "metaMtime": 1606748878886
+    },
+    "9cf4ea9f-0e1a-4041-8a5f-cbb3a786531d": {
+      "assetMtime": 1606748826151,
+      "metaMtime": 1606748878886
+    },
+    "69ae9c8d-b7ed-4007-b977-fa1ec973ff52": {
+      "assetMtime": 1605022688626,
+      "metaMtime": 1605022822471
+    },
+    "6ecd98d2-cb9f-4348-9561-a3ff3f3d3215": {
+      "assetMtime": 1605022688626,
+      "metaMtime": 1605022822471
+    },
+    "6b09134d-37a3-4c0b-88e2-23133dc8e52f": {
+      "assetMtime": 1603871856634,
+      "metaMtime": 1603871856665
+    },
+    "2adcb7e7-7996-4505-bbc2-668e090dd86a": {
+      "assetMtime": 1603871856634,
+      "metaMtime": 1603871856665
+    },
+    "6cadfceb-16a0-4e50-ab04-2605cda98153": {
+      "assetMtime": 1605621582868,
+      "metaMtime": 1605621582885
+    },
+    "f91da149-750d-4137-b585-bf7a4b7a2bb8": {
+      "assetMtime": 1605621582868,
+      "metaMtime": 1605621582885
+    },
+    "6e404a66-1dfc-41a5-a1a2-71b03a40b3d3": {
+      "assetMtime": 1606480389316,
+      "metaMtime": 1606481378932
+    },
+    "9cd1a39a-e313-44a1-9011-53315a0474b1": {
+      "assetMtime": 1606480389316,
+      "metaMtime": 1606481378932
+    },
+    "6e54ed3f-8b1d-4101-bf53-33a5cc43e51f": {
+      "assetMtime": 1605022688638,
+      "metaMtime": 1605022822581
+    },
+    "4264ebe9-0bdf-4a18-a085-a178b92c1fc5": {
+      "assetMtime": 1605022688638,
+      "metaMtime": 1605022822581
+    },
+    "70ddf24c-b08e-4db7-a1cd-dc05ab066c2f": {
+      "assetMtime": 1605618955425,
+      "metaMtime": 1605619024651
+    },
+    "bc9ead10-a504-4c23-8ccc-09456e0be0c9": {
+      "assetMtime": 1605618955425,
+      "metaMtime": 1605619024651
+    },
+    "76187b12-6227-47af-a960-21b76ad7d4fe": {
+      "assetMtime": 1606916518117,
+      "metaMtime": 1606916518176
+    },
+    "2a497c8c-d899-469d-9e27-4570bd40a6f1": {
+      "assetMtime": 1606916518117,
+      "metaMtime": 1606916518176
+    },
+    "776b9c08-7905-4920-9f55-d754e114cd86": {
+      "assetMtime": 1606480389336,
+      "metaMtime": 1606481379023
+    },
+    "2c4f3f9f-70e7-4989-a622-5de21759249f": {
+      "assetMtime": 1606480389336,
+      "metaMtime": 1606481379023
+    },
+    "786afd6d-9c94-49d7-9505-432d58c2974a": {
+      "assetMtime": 1605022688643,
+      "metaMtime": 1605022822660
+    },
+    "f522b6a0-2f2d-441c-bec3-5024635e6ae4": {
+      "assetMtime": 1605022688643,
+      "metaMtime": 1605022822660
+    },
+    "7994aa1b-413b-42be-a227-11c987d5a324": {
+      "assetMtime": 1606915906740,
+      "metaMtime": 1606915906848
+    },
+    "03ff8962-8d64-4fb5-84ae-43fb118f45bf": {
+      "assetMtime": 1606915906740,
+      "metaMtime": 1606915906848
+    },
+    "7a046c25-5b93-496b-96ee-a39ea5a51b91": {
+      "assetMtime": 1603871448544,
+      "metaMtime": 1603871448558
+    },
+    "80f07876-050e-4ec2-8ea2-3cf88e306317": {
+      "assetMtime": 1603871448544,
+      "metaMtime": 1603871448558
+    },
+    "7fa0b187-2ecd-456e-84c1-9f14a2b04b99": {
+      "assetMtime": 1606916611088,
+      "metaMtime": 1606916611113
+    },
+    "5e74c540-64f9-495e-8d0e-414c674cafe9": {
+      "assetMtime": 1606916611088,
+      "metaMtime": 1606916611113
+    },
+    "828381f4-d251-42ec-979c-9621ab3a457f": {
+      "assetMtime": 1605153656913,
+      "metaMtime": 1605154373016
+    },
+    "cfa6c9f6-50e6-4ab7-9011-0530ac713ea2": {
+      "assetMtime": 1605153656913,
+      "metaMtime": 1605154373016
+    },
+    "84771653-e72c-42c0-9691-d66c8c0bac5d": {
+      "assetMtime": 1605022688643,
+      "metaMtime": 1605022822647
+    },
+    "0b515698-3370-4fdc-a384-ef4ca23643fc": {
+      "assetMtime": 1605022688643,
+      "metaMtime": 1605022822647
+    },
+    "85d3d5ea-02c3-42ef-b5e7-4b3ea9986f76": {
+      "assetMtime": 1605022688633,
+      "metaMtime": 1605022822496
+    },
+    "5f52d462-ad6a-4b97-a8e2-c04eefbf32cd": {
+      "assetMtime": 1605022688633,
+      "metaMtime": 1605022822496
+    },
+    "874d63c4-768a-4982-a0a9-c26a9335818c": {
+      "assetMtime": 1606915906746,
+      "metaMtime": 1606915906859
+    },
+    "73336317-0889-4969-9850-6fa49154f5e2": {
+      "assetMtime": 1606915906746,
+      "metaMtime": 1606915906859
+    },
+    "875e7b35-15a5-408e-b646-1c833eef1d92": {
+      "assetMtime": 1606915906735,
+      "metaMtime": 1606915906805
+    },
+    "f5c9d545-7c71-4183-a6d2-6a1285b54894": {
+      "assetMtime": 1606915906735,
+      "metaMtime": 1606915906805
+    },
+    "87cdd808-1716-4f80-87f6-be36ca9d0108": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139671
+    },
+    "1c9b5cc3-a8b6-4995-a431-35ea3b0fc8f7": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139671
+    },
+    "88943da9-bb31-45d9-bfa7-1b2012fef8a0": {
+      "assetMtime": 1605022688639,
+      "metaMtime": 1605022822589
+    },
+    "94e515b8-96fb-4c55-99de-a967f5728d98": {
+      "assetMtime": 1605022688639,
+      "metaMtime": 1605022822589
+    },
+    "88ac0e4d-4656-4818-a966-f3518a8eeee8": {
+      "assetMtime": 1605621783353,
+      "metaMtime": 1605621783372
+    },
+    "c564fbda-6dd4-481a-bd59-2363646c5c3d": {
+      "assetMtime": 1605621783353,
+      "metaMtime": 1605621783372
+    },
+    "8a6de85f-b89f-470b-9d08-115ab75af640": {
+      "assetMtime": 1605191026050,
+      "metaMtime": 1605191026084
+    },
+    "660248ff-4898-4731-96f4-d426d2c16baa": {
+      "assetMtime": 1605191026050,
+      "metaMtime": 1605191026084
+    },
+    "905332fc-7bf7-4273-9eca-a3ceecf3c8ae": {
+      "assetMtime": 1606748826150,
+      "metaMtime": 1606748878861
+    },
+    "8e3d31bf-2bf6-40ab-896c-6c4ad285a79e": {
+      "assetMtime": 1606748826150,
+      "metaMtime": 1606748878861
+    },
+    "a3dc2322-c197-4238-a618-b1ab0c111149": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139719
+    },
+    "729204ad-7b96-432c-9b76-cce5f76493a6": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139719
+    },
+    "a72c8ecf-6df9-486a-9f45-e67e78aab3a3": {
+      "assetMtime": 1606916518117,
+      "metaMtime": 1606916518184
+    },
+    "b5d538ac-d86f-4b7e-b516-8c5564e8b763": {
+      "assetMtime": 1606916518117,
+      "metaMtime": 1606916518184
+    },
+    "a7efe0ee-9d09-441a-9f89-20f70a64d0e0": {
+      "assetMtime": 1603871440746,
+      "metaMtime": 1603871440761
+    },
+    "fe0666dc-03e3-43ce-b1e7-146362d57a26": {
+      "assetMtime": 1603871440746,
+      "metaMtime": 1603871440761
+    },
+    "a87fd270-3152-4f74-ae64-06a021c92a1a": {
+      "assetMtime": 1605672299602,
+      "metaMtime": 1605673994775
+    },
+    "355f39dd-6aa6-443a-b30e-6b6e520e8e4a": {
+      "assetMtime": 1605672299602,
+      "metaMtime": 1605673994775
+    },
+    "a9e68c1f-6bbd-4b87-b4d7-4077a01b6811": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139713
+    },
+    "1a4b6dea-becb-4618-bc42-76fbdb9015ed": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139713
+    },
+    "aca34da3-f6b4-4a02-abe9-cb8a89dd2f8d": {
+      "assetMtime": 1606916639969,
+      "metaMtime": 1606916640002
+    },
+    "cf794f75-e585-4053-b994-3492c0fffb65": {
+      "assetMtime": 1606916639969,
+      "metaMtime": 1606916640002
+    },
+    "b38bbc95-0848-4f42-981d-e01859e4ade6": {
+      "assetMtime": 1606480389323,
+      "metaMtime": 1606481378961
+    },
+    "57103477-b757-4fbc-8df4-31e41e4305cd": {
+      "assetMtime": 1606480389323,
+      "metaMtime": 1606481378961
+    },
+    "b4d4660e-ece8-448d-adcc-31b4ec8a051e": {
+      "assetMtime": 1605022688625,
+      "metaMtime": 1605022822428
+    },
+    "6e7d93ce-64f2-447a-a774-08191e954384": {
+      "assetMtime": 1605022688625,
+      "metaMtime": 1605022822428
+    },
+    "bd23a3fb-0607-41b0-88e8-a02b4c2d4cf7": {
+      "assetMtime": 1606480389333,
+      "metaMtime": 1606481378997
+    },
+    "03dd2662-6b54-4512-bdc1-f670a47c1416": {
+      "assetMtime": 1606480389333,
+      "metaMtime": 1606481378997
+    },
+    "bde2fc33-4378-4389-b6eb-b9d2476618a2": {
+      "assetMtime": 1606916518117,
+      "metaMtime": 1606916518161
+    },
+    "3ded9547-f7f2-42fa-8ef0-f0fe2d791089": {
+      "assetMtime": 1606916518117,
+      "metaMtime": 1606916518161
+    },
+    "bde43713-66b2-45d0-82e1-4ab0751c323d": {
+      "assetMtime": 1602384139460,
+      "metaMtime": 1606451376755
+    },
+    "8c537566-cd8a-4dd7-bca4-8840a88588bd": {
+      "assetMtime": 1602384139460,
+      "metaMtime": 1606451376755
+    },
+    "c261d8a4-e437-4cc7-94ab-3a6e2d161032": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139553
+    },
+    "342ce5de-1afe-47c0-b980-03b24fe71d10": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139553
+    },
+    "c358d44e-b54d-4546-8a1f-630c90ddbc9b": {
+      "assetMtime": 1603880625446,
+      "metaMtime": 1603880625461
+    },
+    "a13e4df0-4a2d-40e2-9423-13a6b2ffc2d9": {
+      "assetMtime": 1603880625446,
+      "metaMtime": 1603880625461
+    },
+    "c49ef2c6-58c8-4efc-89a9-1af0818ba10c": {
+      "assetMtime": 1603878385435,
+      "metaMtime": 1603878385453
+    },
+    "abeeeb7b-c6e3-465a-8a4f-c4e2a37924e1": {
+      "assetMtime": 1603878385435,
+      "metaMtime": 1603878385453
+    },
+    "c522e61e-fff1-4d96-b566-dfb3127e2e8d": {
+      "assetMtime": 1606482775313,
+      "metaMtime": 1606482775349
+    },
+    "7bf86734-bed4-47bd-a0a3-f297552d3553": {
+      "assetMtime": 1606482775313,
+      "metaMtime": 1606482775349
+    },
+    "c5a15cde-ee0a-40b6-8f73-9226670aabef": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139637
+    },
+    "162f190b-9030-49b0-a0c9-9d0297339193": {
+      "assetMtime": 1602384139447,
+      "metaMtime": 1602384139637
+    },
+    "d2eadb2f-cf72-48e2-8994-4e03e91674e4": {
+      "assetMtime": 1603878777235,
+      "metaMtime": 1603878777255
+    },
+    "743cba4e-c2aa-493b-b196-f118911392a5": {
+      "assetMtime": 1603878777235,
+      "metaMtime": 1603878777255
+    },
+    "d73623c8-db21-445d-87f3-14a1c4c176e8": {
+      "assetMtime": 1605022688626,
+      "metaMtime": 1605022822444
+    },
+    "f28b6129-e4fa-41ae-9d6f-eec06494b3db": {
+      "assetMtime": 1605022688626,
+      "metaMtime": 1605022822444
+    },
+    "d9e6890f-133c-411b-87b6-e2b6f80c1ac8": {
+      "assetMtime": 1606480389340,
+      "metaMtime": 1606481379016
+    },
+    "c1addad2-dca3-478b-a062-d0b1904439f3": {
+      "assetMtime": 1606480389340,
+      "metaMtime": 1606481379016
+    },
+    "dae26212-3f21-413d-a27a-ae824fc7c96e": {
+      "assetMtime": 1603878972692,
+      "metaMtime": 1603878972707
+    },
+    "63948f2d-e3d8-42e4-a8e3-c36ebf63fa50": {
+      "assetMtime": 1603878972692,
+      "metaMtime": 1603878972707
+    },
+    "db847b2a-32d8-43e5-9ad2-e756d98ee2d4": {
+      "assetMtime": 1605022688640,
+      "metaMtime": 1605022822607
+    },
+    "dad87888-a8a2-4a25-b201-c3c63e256c3c": {
+      "assetMtime": 1605022688640,
+      "metaMtime": 1605022822607
+    },
+    "dd5cd2db-3c97-4c68-b4ad-1f49bcb62d84": {
+      "assetMtime": 1606916485689,
+      "metaMtime": 1606916485708
+    },
+    "10ba664f-2688-4174-b73e-42266d15fb75": {
+      "assetMtime": 1606916485689,
+      "metaMtime": 1606916485708
+    },
+    "e73f1a23-a1f2-4d2f-a1cf-51abf1dff3b6": {
+      "assetMtime": 1605022688642,
+      "metaMtime": 1605022822640
+    },
+    "17744cdc-2ac3-4b6c-84e5-3353c8c97a93": {
+      "assetMtime": 1605022688642,
+      "metaMtime": 1605022822640
+    },
+    "eaf1c6e6-c4bd-4fcc-9a8e-000c124c1500": {
+      "assetMtime": 1605022688644,
+      "metaMtime": 1605022822666
+    },
+    "1fedd3a7-6e76-44d8-8be0-85676a22580b": {
+      "assetMtime": 1605022688644,
+      "metaMtime": 1605022822666
+    },
+    "ef0b5db4-31cb-4a54-9daa-0be042a24663": {
+      "assetMtime": 1605022688646,
+      "metaMtime": 1605022822687
+    },
+    "2667796a-9339-46f6-b97a-929a39dec00c": {
+      "assetMtime": 1605022688646,
+      "metaMtime": 1605022822687
+    },
+    "f314a642-8cb8-48d6-b888-d474e920d0a4": {
+      "assetMtime": 1606916739926,
+      "metaMtime": 1606916739962
+    },
+    "fac0a43b-c495-4897-b93b-aedea3523b50": {
+      "assetMtime": 1606916739926,
+      "metaMtime": 1606916739962
+    },
+    "f4d1a253-7728-462b-8374-bd50e5614b32": {
+      "assetMtime": 1606480389326,
+      "metaMtime": 1606481378968
+    },
+    "4ec2ed29-dd25-48f6-a5ed-be4b2c918314": {
+      "assetMtime": 1606480389326,
+      "metaMtime": 1606481378968
+    },
+    "f71cc336-cc2d-41ba-a090-6a8422a55ada": {
+      "assetMtime": 1606474180175,
+      "metaMtime": 1606481336730
+    },
+    "cf1b1f54-99c0-4d53-83c0-cc06f0d9a192": {
+      "assetMtime": 1606474180175,
+      "metaMtime": 1606481336730
+    },
+    "fb702273-926b-4326-a100-a808b0661b9c": {
+      "assetMtime": 1606915906735,
+      "metaMtime": 1606915906822
+    },
+    "6f2683e5-cbc2-4a16-bfee-5b5742932541": {
+      "assetMtime": 1606915906735,
+      "metaMtime": 1606915906822
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-5",
+    "width": 85,
+    "height": 295,
+    "ver": "1.2.0",
+    "uuid": "99208572-e8ed-4a04-a58d-1debfd23376d",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "img_waikuang",
+            "uuid": "c522e61e-fff1-4d96-b566-dfb3127e2e8d",
+            "textureUuid": "7bf86734-bed4-47bd-a0a3-f297552d3553",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_73.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 975,
+              "height": 899,
+              "rotatedWidth": 975,
+              "rotatedHeight": 899
+            },
+            "rawWidth": 975,
+            "rawHeight": 899,
+            "width": 981,
+            "height": 905,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/7b/7bf86734-bed4-47bd-a0a3-f297552d3553.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 981,
+            "rotatedHeight": 905
+          },
+          {
+            "name": "img_gold3",
+            "uuid": "b38bbc95-0848-4f42-981d-e01859e4ade6",
+            "textureUuid": "57103477-b757-4fbc-8df4-31e41e4305cd",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_65.png",
+            "trim": {
+              "x": 3,
+              "y": 908,
+              "width": 134,
+              "height": 113,
+              "rotatedWidth": 134,
+              "rotatedHeight": 113
+            },
+            "rawWidth": 134,
+            "rawHeight": 113,
+            "width": 140,
+            "height": 119,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/57/57103477-b757-4fbc-8df4-31e41e4305cd.png",
+            "x": 0,
+            "y": 905,
+            "rotatedWidth": 140,
+            "rotatedHeight": 119
+          },
+          {
+            "name": "img_gold1",
+            "uuid": "6e404a66-1dfc-41a5-a1a2-71b03a40b3d3",
+            "textureUuid": "9cd1a39a-e313-44a1-9011-53315a0474b1",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_40.png",
+            "trim": {
+              "x": 143,
+              "y": 908,
+              "width": 129,
+              "height": 113,
+              "rotatedWidth": 129,
+              "rotatedHeight": 113
+            },
+            "rawWidth": 129,
+            "rawHeight": 113,
+            "width": 135,
+            "height": 119,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/9c/9cd1a39a-e313-44a1-9011-53315a0474b1.png",
+            "x": 140,
+            "y": 905,
+            "rotatedWidth": 135,
+            "rotatedHeight": 119
+          },
+          {
+            "name": "btn_shouqi",
+            "uuid": "a87fd270-3152-4f74-ae64-06a021c92a1a",
+            "textureUuid": "355f39dd-6aa6-443a-b30e-6b6e520e8e4a",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_62.png",
+            "trim": {
+              "x": 278,
+              "y": 908,
+              "width": 102,
+              "height": 113,
+              "rotatedWidth": 102,
+              "rotatedHeight": 113
+            },
+            "rawWidth": 102,
+            "rawHeight": 113,
+            "width": 108,
+            "height": 119,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/35/355f39dd-6aa6-443a-b30e-6b6e520e8e4a.png",
+            "x": 275,
+            "y": 905,
+            "rotatedWidth": 108,
+            "rotatedHeight": 119
+          },
+          {
+            "name": "img_jubaopeng2",
+            "uuid": "828381f4-d251-42ec-979c-9621ab3a457f",
+            "textureUuid": "cfa6c9f6-50e6-4ab7-9011-0530ac713ea2",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_49.png",
+            "trim": {
+              "x": 386,
+              "y": 908,
+              "width": 112,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 112
+            },
+            "rawWidth": 112,
+            "rawHeight": 28,
+            "width": 118,
+            "height": 34,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/cf/cfa6c9f6-50e6-4ab7-9011-0530ac713ea2.png",
+            "x": 383,
+            "y": 905,
+            "rotated": true,
+            "rotatedWidth": 34,
+            "rotatedHeight": 118
+          },
+          {
+            "name": "img_gold6",
+            "uuid": "bd23a3fb-0607-41b0-88e8-a02b4c2d4cf7",
+            "textureUuid": "03dd2662-6b54-4512-bdc1-f670a47c1416",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_67.png",
+            "trim": {
+              "x": 420,
+              "y": 908,
+              "width": 95,
+              "height": 111,
+              "rotatedWidth": 95,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 95,
+            "rawHeight": 111,
+            "width": 101,
+            "height": 117,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/03/03dd2662-6b54-4512-bdc1-f670a47c1416.png",
+            "x": 417,
+            "y": 905,
+            "rotatedWidth": 101,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "img_jubaopeng1",
+            "uuid": "4dae2816-66a9-4a26-ac6f-3d99350851d1",
+            "textureUuid": "9d91f6f3-f204-4489-b671-17e480531bbb",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_25.png",
+            "trim": {
+              "x": 521,
+              "y": 908,
+              "width": 111,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 28,
+            "width": 117,
+            "height": 34,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/9d/9d91f6f3-f204-4489-b671-17e480531bbb.png",
+            "x": 518,
+            "y": 905,
+            "rotated": true,
+            "rotatedWidth": 34,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "img_suoding",
+            "uuid": "a7efe0ee-9d09-441a-9f89-20f70a64d0e0",
+            "textureUuid": "fe0666dc-03e3-43ce-b1e7-146362d57a26",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_61.png",
+            "trim": {
+              "x": 984,
+              "y": 3,
+              "width": 74,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 74,
+            "rawHeight": 35,
+            "width": 80,
+            "height": 41,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/fe/fe0666dc-03e3-43ce-b1e7-146362d57a26.png",
+            "x": 981,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "img_zidong",
+            "uuid": "7a046c25-5b93-496b-96ee-a39ea5a51b91",
+            "textureUuid": "80f07876-050e-4ec2-8ea2-3cf88e306317",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_47.png",
+            "trim": {
+              "x": 984,
+              "y": 83,
+              "width": 70,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 70,
+            "rawHeight": 35,
+            "width": 76,
+            "height": 41,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/80/80f07876-050e-4ec2-8ea2-3cf88e306317.png",
+            "x": 981,
+            "y": 80,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 76
+          },
+          {
+            "name": "img_qipaoer",
+            "uuid": "905332fc-7bf7-4273-9eca-a3ceecf3c8ae",
+            "textureUuid": "8e3d31bf-2bf6-40ab-896c-6c4ad285a79e",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_58.png",
+            "trim": {
+              "x": 984,
+              "y": 159,
+              "width": 41,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 41,
+            "rawHeight": 35,
+            "width": 47,
+            "height": 41,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/8e/8e3d31bf-2bf6-40ab-896c-6c4ad285a79e.png",
+            "x": 981,
+            "y": 156,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "img_putongyu2",
+            "uuid": "63f0b02f-3c07-4cfa-93cb-250e79893ba5",
+            "textureUuid": "4bf72d85-2619-4bcd-85d3-e71d3023e525",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_33.png",
+            "trim": {
+              "x": 984,
+              "y": 206,
+              "width": 96,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 96,
+            "rawHeight": 33,
+            "width": 102,
+            "height": 39,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/4b/4bf72d85-2619-4bcd-85d3-e71d3023e525.png",
+            "x": 981,
+            "y": 203,
+            "rotated": true,
+            "rotatedWidth": 39,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "img_teshuyu2",
+            "uuid": "84771653-e72c-42c0-9691-d66c8c0bac5d",
+            "textureUuid": "0b515698-3370-4fdc-a384-ef4ca23643fc",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_50.png",
+            "trim": {
+              "x": 984,
+              "y": 308,
+              "width": 96,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 96,
+            "rawHeight": 33,
+            "width": 102,
+            "height": 39,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/0b/0b515698-3370-4fdc-a384-ef4ca23643fc.png",
+            "x": 981,
+            "y": 305,
+            "rotated": true,
+            "rotatedWidth": 39,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "img_yuyao2",
+            "uuid": "eaf1c6e6-c4bd-4fcc-9a8e-000c124c1500",
+            "textureUuid": "1fedd3a7-6e76-44d8-8be0-85676a22580b",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340437_image_82.png",
+            "trim": {
+              "x": 984,
+              "y": 410,
+              "width": 65,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 65,
+            "rawHeight": 33,
+            "width": 71,
+            "height": 39,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/1f/1fedd3a7-6e76-44d8-8be0-85676a22580b.png",
+            "x": 981,
+            "y": 407,
+            "rotated": true,
+            "rotatedWidth": 39,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "img_boss1",
+            "uuid": "6745a99e-f7bf-4481-b34e-03eb9df45153",
+            "textureUuid": "20f9d971-25cb-4b3e-9b6e-7cf6864b54dd",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_35.png",
+            "trim": {
+              "x": 984,
+              "y": 481,
+              "width": 88,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 88
+            },
+            "rawWidth": 88,
+            "rawHeight": 32,
+            "width": 94,
+            "height": 38,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/20/20f9d971-25cb-4b3e-9b6e-7cf6864b54dd.png",
+            "x": 981,
+            "y": 478,
+            "rotated": true,
+            "rotatedWidth": 38,
+            "rotatedHeight": 94
+          },
+          {
+            "name": "img_shouqijiantou",
+            "uuid": "3aabd1d0-7d39-4ddf-a381-f03696c8e72e",
+            "textureUuid": "ae6e9f05-d44c-4ac9-ab9d-a275a3d7acc4",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_17.png",
+            "trim": {
+              "x": 984,
+              "y": 575,
+              "width": 32,
+              "height": 61,
+              "rotatedWidth": 32,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 32,
+            "rawHeight": 61,
+            "width": 38,
+            "height": 67,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/ae/ae6e9f05-d44c-4ac9-ab9d-a275a3d7acc4.png",
+            "x": 981,
+            "y": 572,
+            "rotatedWidth": 38,
+            "rotatedHeight": 67
+          },
+          {
+            "name": "img_offsuoding",
+            "uuid": "8a6de85f-b89f-470b-9d08-115ab75af640",
+            "textureUuid": "660248ff-4898-4731-96f4-d426d2c16baa",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_57.png",
+            "trim": {
+              "x": 555,
+              "y": 908,
+              "width": 107,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 107
+            },
+            "rawWidth": 107,
+            "rawHeight": 29,
+            "width": 113,
+            "height": 35,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/66/660248ff-4898-4731-96f4-d426d2c16baa.png",
+            "x": 552,
+            "y": 905,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 113
+          },
+          {
+            "name": "img_shuilang",
+            "uuid": "0478ea4e-1df3-4e9a-b11d-e5ff230b1571",
+            "textureUuid": "97e467c2-374c-43d2-9a11-0ff13d93cf5d",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_1.png",
+            "trim": {
+              "x": 590,
+              "y": 908,
+              "width": 224,
+              "height": 106,
+              "rotatedWidth": 224,
+              "rotatedHeight": 106
+            },
+            "rawWidth": 226,
+            "rawHeight": 106,
+            "width": 230,
+            "height": 112,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/97/97e467c2-374c-43d2-9a11-0ff13d93cf5d.png",
+            "x": 587,
+            "y": 905,
+            "rotatedWidth": 230,
+            "rotatedHeight": 112
+          },
+          {
+            "name": "btn_jilu",
+            "uuid": "39a9e1ba-9b6f-43a4-a157-bb79a410bc1d",
+            "textureUuid": "7df067bb-ed7e-4e3b-a0ad-2e5374ecab43",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_16.png",
+            "trim": {
+              "x": 820,
+              "y": 908,
+              "width": 69,
+              "height": 105,
+              "rotatedWidth": 69,
+              "rotatedHeight": 105
+            },
+            "rawWidth": 69,
+            "rawHeight": 105,
+            "width": 75,
+            "height": 111,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/7d/7df067bb-ed7e-4e3b-a0ad-2e5374ecab43.png",
+            "x": 817,
+            "y": 905,
+            "rotatedWidth": 75,
+            "rotatedHeight": 111
+          },
+          {
+            "name": "btn_bangzhu",
+            "uuid": "c5a15cde-ee0a-40b6-8f73-9226670aabef",
+            "textureUuid": "162f190b-9030-49b0-a0c9-9d0297339193",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_74.png",
+            "trim": {
+              "x": 895,
+              "y": 908,
+              "width": 104,
+              "height": 126,
+              "rotatedWidth": 126,
+              "rotatedHeight": 104
+            },
+            "rawWidth": 104,
+            "rawHeight": 126,
+            "width": 110,
+            "height": 132,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/16/162f190b-9030-49b0-a0c9-9d0297339193.png",
+            "x": 892,
+            "y": 905,
+            "rotated": true,
+            "rotatedWidth": 132,
+            "rotatedHeight": 110
+          },
+          {
+            "name": "img_offzidong",
+            "uuid": "08342efd-2cb1-401b-95e1-bd1d97c80e3e",
+            "textureUuid": "9e155bbc-99e1-4933-bba4-c40594d210cd",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_4.png",
+            "trim": {
+              "x": 984,
+              "y": 642,
+              "width": 105,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 105
+            },
+            "rawWidth": 105,
+            "rawHeight": 29,
+            "width": 111,
+            "height": 35,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/9e/9e155bbc-99e1-4933-bba4-c40594d210cd.png",
+            "x": 981,
+            "y": 639,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 111
+          },
+          {
+            "name": "img_boss2",
+            "uuid": "4716500e-ed10-4c0d-b75d-d593340570e3",
+            "textureUuid": "69f63937-fdd8-4b95-b719-a8e7a38f2f1f",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_21.png",
+            "trim": {
+              "x": 984,
+              "y": 753,
+              "width": 72,
+              "height": 27,
+              "rotatedWidth": 27,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 27,
+            "width": 78,
+            "height": 33,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/69/69f63937-fdd8-4b95-b719-a8e7a38f2f1f.png",
+            "x": 981,
+            "y": 750,
+            "rotated": true,
+            "rotatedWidth": 33,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "img_gonudaner",
+            "uuid": "51c49b16-3782-480d-960f-f5da28bf32f6",
+            "textureUuid": "bdca69c4-3539-4638-abcc-14332240dad3",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_27.png",
+            "trim": {
+              "x": 984,
+              "y": 831,
+              "width": 19,
+              "height": 20,
+              "rotatedWidth": 20,
+              "rotatedHeight": 19
+            },
+            "rawWidth": 19,
+            "rawHeight": 20,
+            "width": 25,
+            "height": 26,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/bd/bdca69c4-3539-4638-abcc-14332240dad3.png",
+            "x": 981,
+            "y": 828,
+            "rotated": true,
+            "rotatedWidth": 26,
+            "rotatedHeight": 25
+          },
+          {
+            "name": "img_gonudan",
+            "uuid": "f314a642-8cb8-48d6-b888-d474e920d0a4",
+            "textureUuid": "fac0a43b-c495-4897-b93b-aedea3523b50",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340437_image_84.png",
+            "trim": {
+              "x": 1010,
+              "y": 831,
+              "width": 9,
+              "height": 10,
+              "rotatedWidth": 10,
+              "rotatedHeight": 9
+            },
+            "rawWidth": 9,
+            "rawHeight": 10,
+            "width": 15,
+            "height": 16,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/fa/fac0a43b-c495-4897-b93b-aedea3523b50.png",
+            "x": 1007,
+            "y": 828,
+            "rotated": true,
+            "rotatedWidth": 16,
+            "rotatedHeight": 15
+          },
+          {
+            "name": "img_qipaosan",
+            "uuid": "6876b4c8-08ab-4909-b9f9-acada0592183",
+            "textureUuid": "9cf4ea9f-0e1a-4041-8a5f-cbb3a786531d",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_36.png",
+            "trim": {
+              "x": 984,
+              "y": 856,
+              "width": 18,
+              "height": 16,
+              "rotatedWidth": 18,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 18,
+            "rawHeight": 16,
+            "width": 24,
+            "height": 22,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/9c/9cf4ea9f-0e1a-4041-8a5f-cbb3a786531d.png",
+            "x": 981,
+            "y": 853,
+            "rotatedWidth": 24,
+            "rotatedHeight": 22
+          }
+        ],
+        "width": 1024,
+        "height": 1024,
+        "name": "AutoAtlas-1",
+        "imagePath": "C:\\266\\newfish\\fishPro\\temp\\TexturePacker\\preview\\modules\\games\\fish\\res\\newpicture\\AutoAtlas.pac\\AutoAtlas-1.png"
+      },
+      {
+        "files": [
+          {
+            "name": "Tex_by_yclx_d",
+            "uuid": "5bd7acd9-3c57-4e70-8c6a-3ed46540f8a4",
+            "textureUuid": "9a98aff3-0cbc-45d8-a817-aecef7a729cc",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_31.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 921,
+              "height": 174,
+              "rotatedWidth": 921,
+              "rotatedHeight": 174
+            },
+            "rawWidth": 921,
+            "rawHeight": 174,
+            "width": 927,
+            "height": 180,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/9a/9a98aff3-0cbc-45d8-a817-aecef7a729cc.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 927,
+            "rotatedHeight": 180
+          },
+          {
+            "name": "img_treasurebowl_si",
+            "uuid": "3258b48a-65c2-48f5-a65e-e617bad5aa48",
+            "textureUuid": "9ea488af-23d6-4843-878d-0d2f42985a68",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_13.png",
+            "trim": {
+              "x": 930,
+              "y": 3,
+              "width": 321,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 321
+            },
+            "rawWidth": 321,
+            "rawHeight": 90,
+            "width": 327,
+            "height": 96,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/9e/9ea488af-23d6-4843-878d-0d2f42985a68.png",
+            "x": 927,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 327
+          },
+          {
+            "name": "img_tips",
+            "uuid": "c358d44e-b54d-4546-8a1f-630c90ddbc9b",
+            "textureUuid": "a13e4df0-4a2d-40e2-9423-13a6b2ffc2d9",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_71.png",
+            "trim": {
+              "x": 3,
+              "y": 183,
+              "width": 834,
+              "height": 104,
+              "rotatedWidth": 104,
+              "rotatedHeight": 834
+            },
+            "rawWidth": 834,
+            "rawHeight": 104,
+            "width": 840,
+            "height": 110,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/a1/a13e4df0-4a2d-40e2-9423-13a6b2ffc2d9.png",
+            "x": 0,
+            "y": 180,
+            "rotated": true,
+            "rotatedWidth": 110,
+            "rotatedHeight": 840
+          },
+          {
+            "name": "img_dibanxian",
+            "uuid": "88943da9-bb31-45d9-bfa7-1b2012fef8a0",
+            "textureUuid": "94e515b8-96fb-4c55-99de-a967f5728d98",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_55.png",
+            "trim": {
+              "x": 113,
+              "y": 330,
+              "width": 4,
+              "height": 661,
+              "rotatedWidth": 4,
+              "rotatedHeight": 661
+            },
+            "rawWidth": 4,
+            "rawHeight": 661,
+            "width": 10,
+            "height": 667,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/94/94e515b8-96fb-4c55-99de-a967f5728d98.png",
+            "x": 110,
+            "y": 327,
+            "rotatedWidth": 10,
+            "rotatedHeight": 667
+          },
+          {
+            "name": "img_gold4",
+            "uuid": "f4d1a253-7728-462b-8374-bd50e5614b32",
+            "textureUuid": "4ec2ed29-dd25-48f6-a5ed-be4b2c918314",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340437_image_85.png",
+            "trim": {
+              "x": 113,
+              "y": 183,
+              "width": 139,
+              "height": 122,
+              "rotatedWidth": 122,
+              "rotatedHeight": 139
+            },
+            "rawWidth": 139,
+            "rawHeight": 122,
+            "width": 145,
+            "height": 128,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/4e/4ec2ed29-dd25-48f6-a5ed-be4b2c918314.png",
+            "x": 110,
+            "y": 180,
+            "rotated": true,
+            "rotatedWidth": 128,
+            "rotatedHeight": 145
+          },
+          {
+            "name": "img_headkuang",
+            "uuid": "bde43713-66b2-45d0-82e1-4ab0751c323d",
+            "textureUuid": "8c537566-cd8a-4dd7-bca4-8840a88588bd",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_69.png",
+            "trim": {
+              "x": 241,
+              "y": 183,
+              "width": 642,
+              "height": 130,
+              "rotatedWidth": 642,
+              "rotatedHeight": 130
+            },
+            "rawWidth": 642,
+            "rawHeight": 130,
+            "width": 648,
+            "height": 136,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/8c/8c537566-cd8a-4dd7-bca4-8840a88588bd.png",
+            "x": 238,
+            "y": 180,
+            "rotatedWidth": 648,
+            "rotatedHeight": 136
+          },
+          {
+            "name": "img_diban3",
+            "uuid": "6e54ed3f-8b1d-4101-bf53-33a5cc43e51f",
+            "textureUuid": "4264ebe9-0bdf-4a18-a085-a178b92c1fc5",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_41.png",
+            "trim": {
+              "x": 123,
+              "y": 328,
+              "width": 714,
+              "height": 315,
+              "rotatedWidth": 714,
+              "rotatedHeight": 315
+            },
+            "rawWidth": 714,
+            "rawHeight": 315,
+            "width": 720,
+            "height": 321,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/42/4264ebe9-0bdf-4a18-a085-a178b92c1fc5.png",
+            "x": 120,
+            "y": 325,
+            "rotatedWidth": 720,
+            "rotatedHeight": 321
+          },
+          {
+            "name": "img_timeyuan",
+            "uuid": "dae26212-3f21-413d-a27a-ae824fc7c96e",
+            "textureUuid": "63948f2d-e3d8-42e4-a8e3-c36ebf63fa50",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_78.png",
+            "trim": {
+              "x": 843,
+              "y": 319,
+              "width": 84,
+              "height": 81,
+              "rotatedWidth": 81,
+              "rotatedHeight": 84
+            },
+            "rawWidth": 84,
+            "rawHeight": 81,
+            "width": 90,
+            "height": 87,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/63/63948f2d-e3d8-42e4-a8e3-c36ebf63fa50.png",
+            "x": 840,
+            "y": 316,
+            "rotated": true,
+            "rotatedWidth": 87,
+            "rotatedHeight": 90
+          },
+          {
+            "name": "btn_guanbi",
+            "uuid": "b4d4660e-ece8-448d-adcc-31b4ec8a051e",
+            "textureUuid": "6e7d93ce-64f2-447a-a774-08191e954384",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_66.png",
+            "trim": {
+              "x": 930,
+              "y": 330,
+              "width": 90,
+              "height": 94,
+              "rotatedWidth": 90,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 90,
+            "rawHeight": 94,
+            "width": 96,
+            "height": 100,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/6e/6e7d93ce-64f2-447a-a774-08191e954384.png",
+            "x": 927,
+            "y": 327,
+            "rotatedWidth": 96,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "img_goldingot",
+            "uuid": "0325266b-301e-4085-97ba-9b852e39f977",
+            "textureUuid": "18eef169-75d0-4406-be68-912ffc3981e7",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340430_image_0.png",
+            "trim": {
+              "x": 843,
+              "y": 409,
+              "width": 81,
+              "height": 49,
+              "rotatedWidth": 81,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 81,
+            "rawHeight": 49,
+            "width": 87,
+            "height": 55,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/18/18eef169-75d0-4406-be68-912ffc3981e7.png",
+            "x": 840,
+            "y": 406,
+            "rotatedWidth": 87,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "Tex_by_yclx_f",
+            "uuid": "6b09134d-37a3-4c0b-88e2-23133dc8e52f",
+            "textureUuid": "2adcb7e7-7996-4505-bbc2-668e090dd86a",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_38.png",
+            "trim": {
+              "x": 123,
+              "y": 649,
+              "width": 371,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 371
+            },
+            "rawWidth": 371,
+            "rawHeight": 94,
+            "width": 377,
+            "height": 100,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/2a/2adcb7e7-7996-4505-bbc2-668e090dd86a.png",
+            "x": 120,
+            "y": 646,
+            "rotated": true,
+            "rotatedWidth": 100,
+            "rotatedHeight": 377
+          },
+          {
+            "name": "img_zhezhao",
+            "uuid": "5f04131d-fe9e-4629-876a-504f2b249d51",
+            "textureUuid": "f8004eb9-b528-40d0-89ac-4fa66935e60f",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_32.png",
+            "trim": {
+              "x": 843,
+              "y": 464,
+              "width": 176,
+              "height": 176,
+              "rotatedWidth": 176,
+              "rotatedHeight": 176
+            },
+            "rawWidth": 176,
+            "rawHeight": 176,
+            "width": 182,
+            "height": 182,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/f8/f8004eb9-b528-40d0-89ac-4fa66935e60f.png",
+            "x": 840,
+            "y": 461,
+            "rotatedWidth": 182,
+            "rotatedHeight": 182
+          },
+          {
+            "name": "img_xuanzhong",
+            "uuid": "4946d297-51f0-43eb-8323-c3ff0979c84c",
+            "textureUuid": "40dadbd8-100a-451d-9e8a-2e6486848440",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_23.png",
+            "trim": {
+              "x": 843,
+              "y": 646,
+              "width": 239,
+              "height": 166,
+              "rotatedWidth": 166,
+              "rotatedHeight": 239
+            },
+            "rawWidth": 239,
+            "rawHeight": 166,
+            "width": 245,
+            "height": 172,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/40/40dadbd8-100a-451d-9e8a-2e6486848440.png",
+            "x": 840,
+            "y": 643,
+            "rotated": true,
+            "rotatedWidth": 172,
+            "rotatedHeight": 245
+          },
+          {
+            "name": "img_zijipaotai",
+            "uuid": "c49ef2c6-58c8-4efc-89a9-1af0818ba10c",
+            "textureUuid": "abeeeb7b-c6e3-465a-8a4f-c4e2a37924e1",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_72.png",
+            "trim": {
+              "x": 223,
+              "y": 891,
+              "width": 287,
+              "height": 130,
+              "rotatedWidth": 287,
+              "rotatedHeight": 130
+            },
+            "rawWidth": 287,
+            "rawHeight": 130,
+            "width": 293,
+            "height": 136,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/ab/abeeeb7b-c6e3-465a-8a4f-c4e2a37924e1.png",
+            "x": 220,
+            "y": 888,
+            "rotatedWidth": 293,
+            "rotatedHeight": 136
+          },
+          {
+            "name": "img_gold8",
+            "uuid": "d9e6890f-133c-411b-87b6-e2b6f80c1ac8",
+            "textureUuid": "c1addad2-dca3-478b-a062-d0b1904439f3",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_77.png",
+            "trim": {
+              "x": 516,
+              "y": 891,
+              "width": 130,
+              "height": 130,
+              "rotatedWidth": 130,
+              "rotatedHeight": 130
+            },
+            "rawWidth": 130,
+            "rawHeight": 130,
+            "width": 136,
+            "height": 136,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/c1/c1addad2-dca3-478b-a062-d0b1904439f3.png",
+            "x": 513,
+            "y": 888,
+            "rotatedWidth": 136,
+            "rotatedHeight": 136
+          },
+          {
+            "name": "img_diban2",
+            "uuid": "07551038-71c5-42ea-8d77-58c60f59b16b",
+            "textureUuid": "c6579798-be4e-4f03-a289-69b5c256c86d",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_3.png",
+            "trim": {
+              "x": 223,
+              "y": 649,
+              "width": 180,
+              "height": 234,
+              "rotatedWidth": 180,
+              "rotatedHeight": 234
+            },
+            "rawWidth": 180,
+            "rawHeight": 234,
+            "width": 186,
+            "height": 240,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/c6/c6579798-be4e-4f03-a289-69b5c256c86d.png",
+            "x": 220,
+            "y": 646,
+            "rotatedWidth": 186,
+            "rotatedHeight": 240
+          },
+          {
+            "name": "img_diban1",
+            "uuid": "052a876a-c595-40de-a73c-718676ab141f",
+            "textureUuid": "e0a9eaa6-1249-490c-a1e2-b9287110f61f",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_2.png",
+            "trim": {
+              "x": 652,
+              "y": 649,
+              "width": 182,
+              "height": 244,
+              "rotatedWidth": 182,
+              "rotatedHeight": 244
+            },
+            "rawWidth": 182,
+            "rawHeight": 244,
+            "width": 188,
+            "height": 250,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/e0/e0a9eaa6-1249-490c-a1e2-b9287110f61f.png",
+            "x": 649,
+            "y": 646,
+            "rotatedWidth": 188,
+            "rotatedHeight": 250
+          },
+          {
+            "name": "img_goldingoter",
+            "uuid": "aca34da3-f6b4-4a02-abe9-cb8a89dd2f8d",
+            "textureUuid": "cf794f75-e585-4053-b994-3492c0fffb65",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_64.png",
+            "trim": {
+              "x": 652,
+              "y": 899,
+              "width": 122,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 75,
+            "width": 128,
+            "height": 79,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/cf/cf794f75-e585-4053-b994-3492c0fffb65.png",
+            "x": 649,
+            "y": 896,
+            "rotated": true,
+            "rotatedWidth": 79,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "img_putongyu1",
+            "uuid": "0b35aec3-b0fa-4b10-9618-77733043d59a",
+            "textureUuid": "0cdebea1-13f5-48d0-8a08-76ac4001b090",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_6.png",
+            "trim": {
+              "x": 731,
+              "y": 899,
+              "width": 119,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 119
+            },
+            "rawWidth": 119,
+            "rawHeight": 40,
+            "width": 125,
+            "height": 46,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/0c/0cdebea1-13f5-48d0-8a08-76ac4001b090.png",
+            "x": 728,
+            "y": 896,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 125
+          },
+          {
+            "name": "img_gold2",
+            "uuid": "569d7a9a-2381-406f-ad02-081bf4105b20",
+            "textureUuid": "0e654a29-b121-4085-857c-7c12222862ed",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_29.png",
+            "trim": {
+              "x": 840,
+              "y": 891,
+              "width": 133,
+              "height": 126,
+              "rotatedWidth": 133,
+              "rotatedHeight": 126
+            },
+            "rawWidth": 133,
+            "rawHeight": 126,
+            "width": 139,
+            "height": 132,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/0e/0e654a29-b121-4085-857c-7c12222862ed.png",
+            "x": 837,
+            "y": 888,
+            "rotatedWidth": 139,
+            "rotatedHeight": 132
+          },
+          {
+            "name": "img_gold",
+            "uuid": "87cdd808-1716-4f80-87f6-be36ca9d0108",
+            "textureUuid": "1c9b5cc3-a8b6-4995-a431-35ea3b0fc8f7",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_54.png",
+            "trim": {
+              "x": 777,
+              "y": 899,
+              "width": 57,
+              "height": 56,
+              "rotatedWidth": 57,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 57,
+            "rawHeight": 56,
+            "width": 63,
+            "height": 62,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/1c/1c9b5cc3-a8b6-4995-a431-35ea3b0fc8f7.png",
+            "x": 774,
+            "y": 896,
+            "rotatedWidth": 63,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "img_teshuyu1",
+            "uuid": "e73f1a23-a1f2-4d2f-a1cf-51abf1dff3b6",
+            "textureUuid": "17744cdc-2ac3-4b6c-84e5-3353c8c97a93",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340437_image_81.png",
+            "trim": {
+              "x": 979,
+              "y": 891,
+              "width": 118,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 118
+            },
+            "rawWidth": 118,
+            "rawHeight": 40,
+            "width": 124,
+            "height": 46,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/17/17744cdc-2ac3-4b6c-84e5-3353c8c97a93.png",
+            "x": 976,
+            "y": 888,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 124
+          },
+          {
+            "name": "btn_yeqian1",
+            "uuid": "d73623c8-db21-445d-87f3-14a1c4c176e8",
+            "textureUuid": "f28b6129-e4fa-41ae-9d6f-eec06494b3db",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_76.png",
+            "trim": {
+              "x": 409,
+              "y": 649,
+              "width": 231,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 231
+            },
+            "rawWidth": 231,
+            "rawHeight": 60,
+            "width": 237,
+            "height": 66,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/f2/f28b6129-e4fa-41ae-9d6f-eec06494b3db.png",
+            "x": 406,
+            "y": 646,
+            "rotated": true,
+            "rotatedWidth": 66,
+            "rotatedHeight": 237
+          },
+          {
+            "name": "img_gold5",
+            "uuid": "54c98d1c-0105-48b2-9915-383d5fff2572",
+            "textureUuid": "3736513c-c96c-44e5-937a-33e015faaaeb",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_28.png",
+            "trim": {
+              "x": 475,
+              "y": 649,
+              "width": 166,
+              "height": 79,
+              "rotatedWidth": 166,
+              "rotatedHeight": 79
+            },
+            "rawWidth": 166,
+            "rawHeight": 79,
+            "width": 172,
+            "height": 85,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/37/3736513c-c96c-44e5-937a-33e015faaaeb.png",
+            "x": 472,
+            "y": 646,
+            "rotatedWidth": 172,
+            "rotatedHeight": 85
+          },
+          {
+            "name": "img_gold7",
+            "uuid": "776b9c08-7905-4920-9f55-d754e114cd86",
+            "textureUuid": "2c4f3f9f-70e7-4989-a622-5de21759249f",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_44.png",
+            "trim": {
+              "x": 475,
+              "y": 734,
+              "width": 143,
+              "height": 125,
+              "rotatedWidth": 125,
+              "rotatedHeight": 143
+            },
+            "rawWidth": 143,
+            "rawHeight": 125,
+            "width": 149,
+            "height": 131,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/2c/2c4f3f9f-70e7-4989-a622-5de21759249f.png",
+            "x": 472,
+            "y": 731,
+            "rotated": true,
+            "rotatedWidth": 131,
+            "rotatedHeight": 149
+          },
+          {
+            "name": "img_yuyao1",
+            "uuid": "786afd6d-9c94-49d7-9505-432d58c2974a",
+            "textureUuid": "f522b6a0-2f2d-441c-bec3-5024635e6ae4",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_45.png",
+            "trim": {
+              "x": 606,
+              "y": 734,
+              "width": 80,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 80
+            },
+            "rawWidth": 80,
+            "rawHeight": 40,
+            "width": 86,
+            "height": 46,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/f5/f522b6a0-2f2d-441c-bec3-5024635e6ae4.png",
+            "x": 603,
+            "y": 731,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 86
+          }
+        ],
+        "width": 1023,
+        "height": 1024,
+        "name": "AutoAtlas-2",
+        "imagePath": "C:\\266\\newfish\\fishPro\\temp\\TexturePacker\\preview\\modules\\games\\fish\\res\\newpicture\\AutoAtlas.pac\\AutoAtlas-2.png"
+      },
+      {
+        "files": [
+          {
+            "name": "img_turntable",
+            "uuid": "13ee1f70-5c9b-48fd-9a74-341bb33dd292",
+            "textureUuid": "188326c6-e8c7-44a9-b179-e251224513c1",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 737,
+              "height": 738,
+              "rotatedWidth": 737,
+              "rotatedHeight": 738
+            },
+            "rawWidth": 737,
+            "rawHeight": 738,
+            "width": 743,
+            "height": 744,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/18/188326c6-e8c7-44a9-b179-e251224513c1.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 743,
+            "rotatedHeight": 744
+          },
+          {
+            "name": "img_qipao",
+            "uuid": "33b7a6e0-260a-4b89-a633-efe0ec32c303",
+            "textureUuid": "1fca8ab1-3b4a-43e6-b61e-df06e01ebf36",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_14.png",
+            "trim": {
+              "x": 3,
+              "y": 747,
+              "width": 273,
+              "height": 158,
+              "rotatedWidth": 158,
+              "rotatedHeight": 273
+            },
+            "rawWidth": 273,
+            "rawHeight": 158,
+            "width": 279,
+            "height": 164,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/1f/1fca8ab1-3b4a-43e6-b61e-df06e01ebf36.png",
+            "x": 0,
+            "y": 744,
+            "rotated": true,
+            "rotatedWidth": 164,
+            "rotatedHeight": 279
+          },
+          {
+            "name": "btn_yeqian2",
+            "uuid": "69ae9c8d-b7ed-4007-b977-fa1ec973ff52",
+            "textureUuid": "6ecd98d2-cb9f-4348-9561-a3ff3f3d3215",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_37.png",
+            "trim": {
+              "x": 167,
+              "y": 747,
+              "width": 271,
+              "height": 70,
+              "rotatedWidth": 70,
+              "rotatedHeight": 271
+            },
+            "rawWidth": 271,
+            "rawHeight": 70,
+            "width": 277,
+            "height": 76,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/6e/6ecd98d2-cb9f-4348-9561-a3ff3f3d3215.png",
+            "x": 164,
+            "y": 744,
+            "rotated": true,
+            "rotatedWidth": 76,
+            "rotatedHeight": 277
+          },
+          {
+            "name": "img_dengdaijiaru",
+            "uuid": "430fae93-1f70-4a0b-9a75-b684294d074d",
+            "textureUuid": "42396ee7-de90-406c-8825-30ed5de0a754",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_20.png",
+            "trim": {
+              "x": 243,
+              "y": 747,
+              "width": 255,
+              "height": 75,
+              "rotatedWidth": 75,
+              "rotatedHeight": 255
+            },
+            "rawWidth": 255,
+            "rawHeight": 75,
+            "width": 261,
+            "height": 81,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/42/42396ee7-de90-406c-8825-30ed5de0a754.png",
+            "x": 240,
+            "y": 744,
+            "rotated": true,
+            "rotatedWidth": 81,
+            "rotatedHeight": 261
+          },
+          {
+            "name": "img_treasurebowl_wu",
+            "uuid": "fb702273-926b-4326-a100-a808b0661b9c",
+            "textureUuid": "6f2683e5-cbc2-4a16-bfee-5b5742932541",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340438_image_87.png",
+            "trim": {
+              "x": 324,
+              "y": 747,
+              "width": 252,
+              "height": 147,
+              "rotatedWidth": 147,
+              "rotatedHeight": 252
+            },
+            "rawWidth": 252,
+            "rawHeight": 148,
+            "width": 258,
+            "height": 153,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/6f/6f2683e5-cbc2-4a16-bfee-5b5742932541.png",
+            "x": 321,
+            "y": 744,
+            "rotated": true,
+            "rotatedWidth": 153,
+            "rotatedHeight": 258
+          },
+          {
+            "name": "img_turntableBg",
+            "uuid": "f71cc336-cc2d-41ba-a090-6a8422a55ada",
+            "textureUuid": "cf1b1f54-99c0-4d53-83c0-cc06f0d9a192",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340437_image_86.png",
+            "trim": {
+              "x": 477,
+              "y": 747,
+              "width": 248,
+              "height": 281,
+              "rotatedWidth": 281,
+              "rotatedHeight": 248
+            },
+            "rawWidth": 248,
+            "rawHeight": 281,
+            "width": 254,
+            "height": 287,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/cf/cf1b1f54-99c0-4d53-83c0-cc06f0d9a192.png",
+            "x": 474,
+            "y": 744,
+            "rotated": true,
+            "rotatedWidth": 287,
+            "rotatedHeight": 254
+          },
+          {
+            "name": "img_caidandi",
+            "uuid": "88ac0e4d-4656-4818-a966-f3518a8eeee8",
+            "textureUuid": "c564fbda-6dd4-481a-bd59-2363646c5c3d",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_56.png",
+            "trim": {
+              "x": 746,
+              "y": 3,
+              "width": 709,
+              "height": 131,
+              "rotatedWidth": 131,
+              "rotatedHeight": 709
+            },
+            "rawWidth": 709,
+            "rawHeight": 131,
+            "width": 715,
+            "height": 137,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/c5/c564fbda-6dd4-481a-bd59-2363646c5c3d.png",
+            "x": 743,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 137,
+            "rotatedHeight": 715
+          },
+          {
+            "name": "img_skillauto",
+            "uuid": "3045b70e-dd7c-4d0b-aecd-efbee728f4b9",
+            "textureUuid": "12d49633-2d7b-44e7-a461-f73e32c62988",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_11.png",
+            "trim": {
+              "x": 883,
+              "y": 3,
+              "width": 131,
+              "height": 132,
+              "rotatedWidth": 132,
+              "rotatedHeight": 131
+            },
+            "rawWidth": 131,
+            "rawHeight": 132,
+            "width": 137,
+            "height": 138,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/12/12d49633-2d7b-44e7-a461-f73e32c62988.png",
+            "x": 880,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 138,
+            "rotatedHeight": 137
+          },
+          {
+            "name": "img_skilllock",
+            "uuid": "4e00a343-c1fb-4e4f-857b-83012826dec4",
+            "textureUuid": "b86e0f88-e424-4e96-9625-e1706ec8ae0e",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_26.png",
+            "trim": {
+              "x": 883,
+              "y": 140,
+              "width": 131,
+              "height": 132,
+              "rotatedWidth": 132,
+              "rotatedHeight": 131
+            },
+            "rawWidth": 131,
+            "rawHeight": 132,
+            "width": 137,
+            "height": 138,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/b8/b86e0f88-e424-4e96-9625-e1706ec8ae0e.png",
+            "x": 880,
+            "y": 137,
+            "rotated": true,
+            "rotatedWidth": 138,
+            "rotatedHeight": 137
+          },
+          {
+            "name": "img_skillbiankuang",
+            "uuid": "c261d8a4-e437-4cc7-94ab-3a6e2d161032",
+            "textureUuid": "342ce5de-1afe-47c0-b980-03b24fe71d10",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_70.png",
+            "trim": {
+              "x": 883,
+              "y": 277,
+              "width": 131,
+              "height": 131,
+              "rotatedWidth": 131,
+              "rotatedHeight": 131
+            },
+            "rawWidth": 131,
+            "rawHeight": 131,
+            "width": 137,
+            "height": 137,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/34/342ce5de-1afe-47c0-b980-03b24fe71d10.png",
+            "x": 880,
+            "y": 274,
+            "rotatedWidth": 137,
+            "rotatedHeight": 137
+          },
+          {
+            "name": "fnt_xiangxibeishu",
+            "uuid": "31f21871-4a45-45be-92c4-48d4e1af6151",
+            "textureUuid": "cebe0162-bd0b-4d59-829d-095f81e7ecb8",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_12.png",
+            "trim": {
+              "x": 883,
+              "y": 414,
+              "width": 125,
+              "height": 69,
+              "rotatedWidth": 125,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 128,
+            "rawHeight": 76,
+            "width": 131,
+            "height": 75,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/ce/cebe0162-bd0b-4d59-829d-095f81e7ecb8.png",
+            "x": 880,
+            "y": 411,
+            "rotatedWidth": 131,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "fnt_beishu",
+            "uuid": "85d3d5ea-02c3-42ef-b5e7-4b3ea9986f76",
+            "textureUuid": "5f52d462-ad6a-4b97-a8e2-c04eefbf32cd",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_51.png",
+            "trim": {
+              "x": 883,
+              "y": 489,
+              "width": 123,
+              "height": 97,
+              "rotatedWidth": 123,
+              "rotatedHeight": 97
+            },
+            "rawWidth": 128,
+            "rawHeight": 104,
+            "width": 129,
+            "height": 103,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/5f/5f52d462-ad6a-4b97-a8e2-c04eefbf32cd.png",
+            "x": 880,
+            "y": 486,
+            "rotatedWidth": 129,
+            "rotatedHeight": 103
+          },
+          {
+            "name": "img_goldkuang",
+            "uuid": "243be830-bb92-4030-b306-0463cd4a316b",
+            "textureUuid": "28447012-0d3f-4a65-8b1a-3bba783de38e",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_10.png",
+            "trim": {
+              "x": 764,
+              "y": 718,
+              "width": 278,
+              "height": 62,
+              "rotatedWidth": 62,
+              "rotatedHeight": 278
+            },
+            "rawWidth": 278,
+            "rawHeight": 62,
+            "width": 284,
+            "height": 68,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/28/28447012-0d3f-4a65-8b1a-3bba783de38e.png",
+            "x": 761,
+            "y": 715,
+            "rotated": true,
+            "rotatedWidth": 68,
+            "rotatedHeight": 284
+          },
+          {
+            "name": "img_treasurebowl_er",
+            "uuid": "dd5cd2db-3c97-4c68-b4ad-1f49bcb62d84",
+            "textureUuid": "10ba664f-2688-4174-b73e-42266d15fb75",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340437_image_80.png",
+            "trim": {
+              "x": 883,
+              "y": 592,
+              "width": 348,
+              "height": 102,
+              "rotatedWidth": 102,
+              "rotatedHeight": 348
+            },
+            "rawWidth": 348,
+            "rawHeight": 102,
+            "width": 354,
+            "height": 108,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/10/10ba664f-2688-4174-b73e-42266d15fb75.png",
+            "x": 880,
+            "y": 589,
+            "rotated": true,
+            "rotatedWidth": 108,
+            "rotatedHeight": 354
+          },
+          {
+            "name": "img_necklace",
+            "uuid": "7fa0b187-2ecd-456e-84c1-9f14a2b04b99",
+            "textureUuid": "5e74c540-64f9-495e-8d0e-414c674cafe9",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_48.png",
+            "trim": {
+              "x": 832,
+              "y": 946,
+              "width": 78,
+              "height": 71,
+              "rotatedWidth": 78,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 78,
+            "rawHeight": 71,
+            "width": 84,
+            "height": 77,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/5e/5e74c540-64f9-495e-8d0e-414c674cafe9.png",
+            "x": 829,
+            "y": 943,
+            "rotatedWidth": 84,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "btn_tujian",
+            "uuid": "09dc2890-8ff6-493b-a34b-5ba334e3c026",
+            "textureUuid": "3d6599d9-e043-4b69-b4a7-4e929ba40063",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_5.png",
+            "trim": {
+              "x": 916,
+              "y": 946,
+              "width": 67,
+              "height": 102,
+              "rotatedWidth": 102,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 67,
+            "rawHeight": 102,
+            "width": 73,
+            "height": 108,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/3d/3d6599d9-e043-4b69-b4a7-4e929ba40063.png",
+            "x": 913,
+            "y": 943,
+            "rotated": true,
+            "rotatedWidth": 108,
+            "rotatedHeight": 73
+          }
+        ],
+        "width": 1021,
+        "height": 1023,
+        "name": "AutoAtlas-3",
+        "imagePath": "C:\\266\\newfish\\fishPro\\temp\\TexturePacker\\preview\\modules\\games\\fish\\res\\newpicture\\AutoAtlas.pac\\AutoAtlas-3.png"
+      },
+      {
+        "files": [
+          {
+            "name": "tex_pen",
+            "uuid": "874d63c4-768a-4982-a0a9-c26a9335818c",
+            "textureUuid": "73336317-0889-4969-9850-6fa49154f5e2",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_52.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 566,
+              "height": 500,
+              "rotatedWidth": 566,
+              "rotatedHeight": 500
+            },
+            "rawWidth": 728,
+            "rawHeight": 641,
+            "width": 572,
+            "height": 506,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/73/73336317-0889-4969-9850-6fa49154f5e2.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 572,
+            "rotatedHeight": 506
+          },
+          {
+            "name": "img_treasurebowl",
+            "uuid": "7994aa1b-413b-42be-a227-11c987d5a324",
+            "textureUuid": "03ff8962-8d64-4fb5-84ae-43fb118f45bf",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_46.png",
+            "trim": {
+              "x": 575,
+              "y": 3,
+              "width": 555,
+              "height": 434,
+              "rotatedWidth": 434,
+              "rotatedHeight": 555
+            },
+            "rawWidth": 566,
+            "rawHeight": 436,
+            "width": 561,
+            "height": 440,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/03/03ff8962-8d64-4fb5-84ae-43fb118f45bf.png",
+            "x": 572,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 440,
+            "rotatedHeight": 561
+          },
+          {
+            "name": "img_jubaopeng",
+            "uuid": "ef0b5db4-31cb-4a54-9daa-0be042a24663",
+            "textureUuid": "2667796a-9339-46f6-b97a-929a39dec00c",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340437_image_83.png",
+            "trim": {
+              "x": 3,
+              "y": 509,
+              "width": 315,
+              "height": 289,
+              "rotatedWidth": 315,
+              "rotatedHeight": 289
+            },
+            "rawWidth": 315,
+            "rawHeight": 289,
+            "width": 321,
+            "height": 295,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/26/2667796a-9339-46f6-b97a-929a39dec00c.png",
+            "x": 0,
+            "y": 506,
+            "rotatedWidth": 321,
+            "rotatedHeight": 295
+          },
+          {
+            "name": "img_treasurebowl_san",
+            "uuid": "1548077d-9cf3-4432-9f51-cbdf684e4e04",
+            "textureUuid": "0a765fde-257e-4d30-9470-326931e93a54",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_8.png",
+            "trim": {
+              "x": 324,
+              "y": 509,
+              "width": 483,
+              "height": 195,
+              "rotatedWidth": 195,
+              "rotatedHeight": 483
+            },
+            "rawWidth": 487,
+            "rawHeight": 195,
+            "width": 489,
+            "height": 201,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/0a/0a765fde-257e-4d30-9470-326931e93a54.png",
+            "x": 321,
+            "y": 506,
+            "rotated": true,
+            "rotatedWidth": 201,
+            "rotatedHeight": 489
+          },
+          {
+            "name": "img_timedi",
+            "uuid": "d2eadb2f-cf72-48e2-8994-4e03e91674e4",
+            "textureUuid": "743cba4e-c2aa-493b-b196-f118911392a5",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_75.png",
+            "trim": {
+              "x": 3,
+              "y": 804,
+              "width": 213,
+              "height": 75,
+              "rotatedWidth": 213,
+              "rotatedHeight": 75
+            },
+            "rawWidth": 213,
+            "rawHeight": 75,
+            "width": 219,
+            "height": 81,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/74/743cba4e-c2aa-493b-b196-f118911392a5.png",
+            "x": 0,
+            "y": 801,
+            "rotatedWidth": 219,
+            "rotatedHeight": 81
+          },
+          {
+            "name": "img_paobeikuang1",
+            "uuid": "3c77e202-8452-492d-8d55-ccb3621fdacc",
+            "textureUuid": "9e073e77-4e0d-4a3e-8636-1012a412b04a",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_19.png",
+            "trim": {
+              "x": 222,
+              "y": 804,
+              "width": 205,
+              "height": 65,
+              "rotatedWidth": 65,
+              "rotatedHeight": 205
+            },
+            "rawWidth": 205,
+            "rawHeight": 65,
+            "width": 211,
+            "height": 71,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/9e/9e073e77-4e0d-4a3e-8636-1012a412b04a.png",
+            "x": 219,
+            "y": 801,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 211
+          },
+          {
+            "name": "img_paobeikuang2",
+            "uuid": "5a866f4d-de0e-45b6-af97-011556d672f6",
+            "textureUuid": "1dc8cfbb-8a06-40c1-b0d1-173eee4b096e",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_30.png",
+            "trim": {
+              "x": 3,
+              "y": 885,
+              "width": 205,
+              "height": 65,
+              "rotatedWidth": 205,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 205,
+            "rawHeight": 65,
+            "width": 211,
+            "height": 71,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/1d/1dc8cfbb-8a06-40c1-b0d1-173eee4b096e.png",
+            "x": 0,
+            "y": 882,
+            "rotatedWidth": 211,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "btn_chongzhi",
+            "uuid": "6cadfceb-16a0-4e50-ab04-2605cda98153",
+            "textureUuid": "f91da149-750d-4137-b585-bf7a4b7a2bb8",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_39.png",
+            "trim": {
+              "x": 3,
+              "y": 956,
+              "width": 56,
+              "height": 95,
+              "rotatedWidth": 95,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 56,
+            "rawHeight": 95,
+            "width": 62,
+            "height": 101,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/f9/f91da149-750d-4137-b585-bf7a4b7a2bb8.png",
+            "x": 0,
+            "y": 953,
+            "rotated": true,
+            "rotatedWidth": 101,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "img_jibifly",
+            "uuid": "a72c8ecf-6df9-486a-9f45-e67e78aab3a3",
+            "textureUuid": "b5d538ac-d86f-4b7e-b516-8c5564e8b763",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_60.png",
+            "trim": {
+              "x": 104,
+              "y": 956,
+              "width": 65,
+              "height": 69,
+              "rotatedWidth": 69,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 65,
+            "rawHeight": 69,
+            "width": 71,
+            "height": 75,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/b5/b5d538ac-d86f-4b7e-b516-8c5564e8b763.png",
+            "x": 101,
+            "y": 953,
+            "rotated": true,
+            "rotatedWidth": 75,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "img_sidai4",
+            "uuid": "476d0fff-3ad3-48ab-b74c-8945e158528e",
+            "textureUuid": "535eb576-892c-40d1-8e73-c1e6cf7b7a3c",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_22.png",
+            "trim": {
+              "x": 525,
+              "y": 564,
+              "width": 494,
+              "height": 143,
+              "rotatedWidth": 494,
+              "rotatedHeight": 143
+            },
+            "rawWidth": 494,
+            "rawHeight": 143,
+            "width": 500,
+            "height": 149,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/53/535eb576-892c-40d1-8e73-c1e6cf7b7a3c.png",
+            "x": 522,
+            "y": 561,
+            "rotatedWidth": 500,
+            "rotatedHeight": 149
+          },
+          {
+            "name": "img_treasurebowl_yi",
+            "uuid": "875e7b35-15a5-408e-b646-1c833eef1d92",
+            "textureUuid": "f5c9d545-7c71-4183-a6d2-6a1285b54894",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_53.png",
+            "trim": {
+              "x": 525,
+              "y": 713,
+              "width": 458,
+              "height": 142,
+              "rotatedWidth": 458,
+              "rotatedHeight": 142
+            },
+            "rawWidth": 458,
+            "rawHeight": 142,
+            "width": 464,
+            "height": 148,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/f5/f5c9d545-7c71-4183-a6d2-6a1285b54894.png",
+            "x": 522,
+            "y": 710,
+            "rotatedWidth": 464,
+            "rotatedHeight": 148
+          },
+          {
+            "name": "img_sidai3",
+            "uuid": "3c26fc66-4967-4610-875b-f82dea11beda",
+            "textureUuid": "7def3c23-f7a4-46a9-8219-4ce9aa397773",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_18.png",
+            "trim": {
+              "x": 525,
+              "y": 861,
+              "width": 325,
+              "height": 87,
+              "rotatedWidth": 325,
+              "rotatedHeight": 87
+            },
+            "rawWidth": 325,
+            "rawHeight": 87,
+            "width": 331,
+            "height": 93,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/7d/7def3c23-f7a4-46a9-8219-4ce9aa397773.png",
+            "x": 522,
+            "y": 858,
+            "rotatedWidth": 331,
+            "rotatedHeight": 93
+          },
+          {
+            "name": "img_langhua",
+            "uuid": "db847b2a-32d8-43e5-9ad2-e756d98ee2d4",
+            "textureUuid": "dad87888-a8a2-4a25-b201-c3c63e256c3c",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_79.png",
+            "trim": {
+              "x": 856,
+              "y": 861,
+              "width": 84,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 84
+            },
+            "rawWidth": 84,
+            "rawHeight": 94,
+            "width": 90,
+            "height": 100,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/da/dad87888-a8a2-4a25-b201-c3c63e256c3c.png",
+            "x": 853,
+            "y": 858,
+            "rotated": true,
+            "rotatedWidth": 100,
+            "rotatedHeight": 90
+          },
+          {
+            "name": "btn_shezhi",
+            "uuid": "49ee1427-7d84-4436-8053-fba157d9c330",
+            "textureUuid": "f2ef7368-5ad8-48a1-b1b8-83addca4b481",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_24.png",
+            "trim": {
+              "x": 856,
+              "y": 951,
+              "width": 69,
+              "height": 100,
+              "rotatedWidth": 100,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 69,
+            "rawHeight": 100,
+            "width": 75,
+            "height": 106,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/f2/f2ef7368-5ad8-48a1-b1b8-83addca4b481.png",
+            "x": 853,
+            "y": 948,
+            "rotated": true,
+            "rotatedWidth": 106,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "img_jibisi",
+            "uuid": "76187b12-6227-47af-a960-21b76ad7d4fe",
+            "textureUuid": "2a497c8c-d899-469d-9e27-4570bd40a6f1",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_43.png",
+            "trim": {
+              "x": 956,
+              "y": 861,
+              "width": 67,
+              "height": 58,
+              "rotatedWidth": 58,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 67,
+            "rawHeight": 58,
+            "width": 73,
+            "height": 64,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/2a/2a497c8c-d899-469d-9e27-4570bd40a6f1.png",
+            "x": 953,
+            "y": 858,
+            "rotated": true,
+            "rotatedWidth": 64,
+            "rotatedHeight": 73
+          },
+          {
+            "name": "img_jibiwu",
+            "uuid": "bde2fc33-4378-4389-b6eb-b9d2476618a2",
+            "textureUuid": "3ded9547-f7f2-42fa-8ef0-f0fe2d791089",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340436_image_68.png",
+            "trim": {
+              "x": 962,
+              "y": 934,
+              "width": 66,
+              "height": 55,
+              "rotatedWidth": 55,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 55,
+            "width": 72,
+            "height": 61,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/3d/3ded9547-f7f2-42fa-8ef0-f0fe2d791089.png",
+            "x": 959,
+            "y": 931,
+            "rotated": true,
+            "rotatedWidth": 61,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "btn_quit",
+            "uuid": "70ddf24c-b08e-4db7-a1cd-dc05ab066c2f",
+            "textureUuid": "bc9ead10-a504-4c23-8ccc-09456e0be0c9",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340434_image_42.png",
+            "trim": {
+              "x": 525,
+              "y": 954,
+              "width": 67,
+              "height": 95,
+              "rotatedWidth": 95,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 67,
+            "rawHeight": 95,
+            "width": 73,
+            "height": 101,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/bc/bc9ead10-a504-4c23-8ccc-09456e0be0c9.png",
+            "x": 522,
+            "y": 951,
+            "rotated": true,
+            "rotatedWidth": 101,
+            "rotatedHeight": 73
+          },
+          {
+            "name": "img_jibisan",
+            "uuid": "34f63bb9-1799-47b0-b05d-94dc7ff1b55a",
+            "textureUuid": "147309b2-0574-4568-a1be-f19d2ac774f5",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340432_image_15.png",
+            "trim": {
+              "x": 626,
+              "y": 954,
+              "width": 66,
+              "height": 61,
+              "rotatedWidth": 66,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 66,
+            "rawHeight": 61,
+            "width": 72,
+            "height": 67,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/14/147309b2-0574-4568-a1be-f19d2ac774f5.png",
+            "x": 623,
+            "y": 951,
+            "rotatedWidth": 72,
+            "rotatedHeight": 67
+          }
+        ],
+        "width": 1022,
+        "height": 1024,
+        "name": "AutoAtlas-4",
+        "imagePath": "C:\\266\\newfish\\fishPro\\temp\\TexturePacker\\preview\\modules\\games\\fish\\res\\newpicture\\AutoAtlas.pac\\AutoAtlas-4.png"
+      },
+      {
+        "files": [
+          {
+            "name": "img_add",
+            "uuid": "a3dc2322-c197-4238-a618-b1ab0c111149",
+            "textureUuid": "729204ad-7b96-432c-9b76-cce5f76493a6",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_59.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 79,
+              "height": 89,
+              "rotatedWidth": 79,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 79,
+            "rawHeight": 89,
+            "width": 85,
+            "height": 95,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/72/729204ad-7b96-432c-9b76-cce5f76493a6.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 85,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "img_less",
+            "uuid": "a9e68c1f-6bbd-4b87-b4d7-4077a01b6811",
+            "textureUuid": "1a4b6dea-becb-4618-bc42-76fbdb9015ed",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340435_image_63.png",
+            "trim": {
+              "x": 3,
+              "y": 98,
+              "width": 79,
+              "height": 89,
+              "rotatedWidth": 79,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 79,
+            "rawHeight": 89,
+            "width": 85,
+            "height": 95,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/1a/1a4b6dea-becb-4618-bc42-76fbdb9015ed.png",
+            "x": 0,
+            "y": 95,
+            "rotatedWidth": 85,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "img_beishudizuo",
+            "uuid": "1ec2bc53-e557-4ec3-a5ec-4c9f1867e5c5",
+            "textureUuid": "524286f2-a570-42e5-8f3f-e2ca7ec8fa77",
+            "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340431_image_9.png",
+            "trim": {
+              "x": 3,
+              "y": 193,
+              "width": 99,
+              "height": 69,
+              "rotatedWidth": 69,
+              "rotatedHeight": 99
+            },
+            "rawWidth": 99,
+            "rawHeight": 69,
+            "width": 105,
+            "height": 75,
+            "originalPath": "C:/266/newfish/fishPro/library/imports/52/524286f2-a570-42e5-8f3f-e2ca7ec8fa77.png",
+            "x": 0,
+            "y": 190,
+            "rotated": true,
+            "rotatedWidth": 75,
+            "rotatedHeight": 105
+          }
+        ],
+        "width": 85,
+        "height": 295,
+        "name": "AutoAtlas-5",
+        "imagePath": "C:\\266\\newfish\\fishPro\\temp\\TexturePacker\\preview\\modules\\games\\fish\\res\\newpicture\\AutoAtlas.pac\\AutoAtlas-5.png"
+      }
+    ],
+    "unpackedTextures": [
+      {
+        "name": "img_diban",
+        "uuid": "65ab79b0-4f47-4012-85c8-efbc38044f7c",
+        "textureUuid": "62910387-0eb6-4d28-8b32-aef9b41d1dd7",
+        "path": "C:\\266\\newfish\\fishPro\\temp\\trimImages\\spritesheet_js_1606981340433_image_34.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 1500,
+          "height": 875,
+          "rotatedWidth": 1500,
+          "rotatedHeight": 875
+        },
+        "rawWidth": 1500,
+        "rawHeight": 875,
+        "width": 1506,
+        "height": 881,
+        "originalPath": "C:/266/newfish/fishPro/library/imports/62/62910387-0eb6-4d28-8b32-aef9b41d1dd7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_huobao",
+    "texture": "168889b3-56a9-4ab5-adf3-3d1457c64d61",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_caidandi",
+    "texture": "c564fbda-6dd4-481a-bd59-2363646c5c3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      709,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      709,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

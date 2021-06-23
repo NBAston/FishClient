@@ -1,0 +1,428 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_ptbs_longxi",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "bmhMXOKkj0IA28DnR6KJO26HlPQ",
+      "spine": "3.6.53",
+      "width": 542.36,
+      "height": 542.36,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "glow_01",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.2,
+        "scaleY": 1.2
+      },
+      {
+        "name": "glow_1",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.2,
+        "scaleY": 1.2
+      },
+      {
+        "name": "glow_02",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 4.237,
+        "scaleY": 4.237
+      },
+      {
+        "name": "light_01",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.603,
+        "scaleY": 1.603
+      },
+      {
+        "name": "light_1",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": 90,
+        "scaleX": 1.603,
+        "scaleY": 1.603
+      },
+      {
+        "name": "longtou",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.391,
+        "scaleY": 1.066
+      },
+      {
+        "name": "longtou2",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.391,
+        "scaleY": 1.066
+      }
+    ],
+    "slots": [
+      {
+        "name": "Tex_Circle_0012",
+        "bone": "glow_01",
+        "attachment": "tex_tb_cm_01",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_12",
+        "bone": "glow_1",
+        "attachment": "quan726",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Glow_0001",
+        "bone": "glow_02",
+        "attachment": "Tex_Glow_0001",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_0001",
+        "bone": "light_01",
+        "attachment": "Tex_Circle_0001",
+        "blend": "additive"
+      },
+      {
+        "name": "longt",
+        "bone": "longtou",
+        "attachment": "tou"
+      },
+      {
+        "name": "longt2",
+        "bone": "longtou2",
+        "attachment": "tou",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_1",
+        "bone": "light_1",
+        "attachment": "pai_glow_611",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Tex_Circle_0001": {
+          "Tex_Circle_0001": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Circle_0012": {
+          "tex_tb_cm_01": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Circle_1": {
+          "pai_glow_611": {
+            "width": 300,
+            "height": 300
+          }
+        },
+        "Tex_Circle_12": {
+          "quan726": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Glow_0001": {
+          "Tex_Glow_0001": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "longt": {
+          "tou": {
+            "width": 179,
+            "height": 264
+          }
+        },
+        "longt2": {
+          "tou": {
+            "width": 179,
+            "height": 264
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "Tex_Circle_0001": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffba84ff"
+              },
+              {
+                "time": 0.5,
+                "color": "ff6d0000"
+              }
+            ]
+          },
+          "Tex_Circle_1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5,
+                "color": "ffcf9eff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ff4a0000"
+              }
+            ]
+          },
+          "Tex_Circle_0012": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Circle_12": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Glow_0001": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "longt": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffba84ff"
+              },
+              {
+                "time": 0.6667,
+                "color": "fff5e1ff"
+              },
+              {
+                "time": 1,
+                "color": "ff6d0000"
+              }
+            ]
+          },
+          "longt2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffba84ff"
+              },
+              {
+                "time": 0.6667,
+                "color": "fff5e1ff"
+              },
+              {
+                "time": 1,
+                "color": "ff6d0000"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "glow_01": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 2.919,
+                "y": 2.919
+              },
+              {
+                "time": 0.1667,
+                "x": 0.274,
+                "y": 0.274
+              }
+            ]
+          },
+          "glow_02": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.274,
+                "y": 1.274
+              }
+            ]
+          },
+          "light_01": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1.247,
+                "y": 1.247
+              },
+              {
+                "time": 0.5,
+                "x": 1.854,
+                "y": 1.854
+              }
+            ]
+          },
+          "glow_1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.274,
+                "y": 0.274,
+                "curve": [
+                  0,
+                  0.26,
+                  0.639,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 1.942,
+                "y": 1.942
+              }
+            ]
+          },
+          "light_1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -232.58
+              },
+              {
+                "time": 0.8333,
+                "angle": 90
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1.225,
+                "y": 1.225
+              },
+              {
+                "time": 0.8333,
+                "x": 1.435,
+                "y": 1.435
+              }
+            ]
+          },
+          "longtou": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.831,
+                "y": 0.831
+              },
+              {
+                "time": 0.3333,
+                "x": 0.912,
+                "y": 0.912,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0.912,
+                "y": 0.912
+              }
+            ]
+          },
+          "longtou2": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.831,
+                "y": 0.831
+              },
+              {
+                "time": 1,
+                "x": 1.265,
+                "y": 1.265
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_ptbs_longxi.png\r\nsize: 2048,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nTex_Circle_0001\r\n  rotate: false\r\n  xy: 304, 227\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Glow_0001\r\n  rotate: false\r\n  xy: 1078, 355\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\npai_glow_611\r\n  rotate: false\r\n  xy: 2, 183\r\n  size: 300, 300\r\n  orig: 300, 300\r\n  offset: 0, 0\r\n  index: -1\r\nquan726\r\n  rotate: false\r\n  xy: 562, 227\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\ntex_tb_cm_01\r\n  rotate: false\r\n  xy: 820, 227\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\ntou\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 179, 264\r\n  orig: 179, 264\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "5a722cb8-8a58-49e0-b03a-a924cd864ba9"
+    }
+  ],
+  "textureNames": [
+    "fx_ptbs_longxi.png"
+  ],
+  "scale": 1
+}

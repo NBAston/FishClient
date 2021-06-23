@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_houjibi",
+    "texture": "027c46a7-09aa-452d-ab0e-e39de37dae25",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1316,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1316,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

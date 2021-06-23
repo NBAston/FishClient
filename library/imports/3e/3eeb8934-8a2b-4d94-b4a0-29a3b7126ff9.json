@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fuhaofang",
+    "texture": "5b474ddb-8bb1-4521-af0c-88e8176af47c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      285,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      285,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

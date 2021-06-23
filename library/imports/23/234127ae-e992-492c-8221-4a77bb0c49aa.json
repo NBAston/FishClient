@@ -1,0 +1,1237 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_csrcdh",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "96IN4Glqzxc2bnD77yNeCDn9V7o",
+      "spine": "3.6.53",
+      "width": 4478.3,
+      "height": 1120.85,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "eff",
+        "parent": "root",
+        "length": 31.43
+      },
+      {
+        "name": "caishen",
+        "parent": "eff",
+        "length": 21.64,
+        "x": -518.16,
+        "y": 62.33
+      },
+      {
+        "name": "light1",
+        "parent": "eff",
+        "length": 36.44,
+        "scaleX": 6.89,
+        "scaleY": 3.449
+      },
+      {
+        "name": "light2",
+        "parent": "eff",
+        "length": 36.44
+      },
+      {
+        "name": "light3",
+        "parent": "eff",
+        "length": 36.44,
+        "x": 300.3,
+        "y": -33.32,
+        "scaleX": 3.229,
+        "scaleY": 2.493
+      },
+      {
+        "name": "xingxing",
+        "parent": "eff",
+        "length": 31.43
+      },
+      {
+        "name": "xing1",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": 612.49,
+        "y": 118.14,
+        "scaleX": 2.641,
+        "scaleY": 2.641
+      },
+      {
+        "name": "xing2",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -373.52,
+        "y": 99.89,
+        "scaleX": 2.641,
+        "scaleY": 2.641
+      },
+      {
+        "name": "xing3",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -291.54,
+        "y": 270.97,
+        "scaleX": 1.798,
+        "scaleY": 1.798
+      },
+      {
+        "name": "xing4",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": 349.8,
+        "y": -190.38,
+        "scaleX": 1.798,
+        "scaleY": 1.798
+      },
+      {
+        "name": "xing5",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -557.22,
+        "y": -128.9,
+        "scaleX": 1.798,
+        "scaleY": 1.798
+      },
+      {
+        "name": "xing6",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -699.32,
+        "y": 327.92,
+        "scaleX": 3.062,
+        "scaleY": 3.062
+      },
+      {
+        "name": "xing7",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": 215.12,
+        "y": 201.77,
+        "scaleX": 1.864,
+        "scaleY": 1.864
+      },
+      {
+        "name": "xing8",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -67.11,
+        "y": 128.93,
+        "scaleX": 1.864,
+        "scaleY": 1.864
+      },
+      {
+        "name": "xing9",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -708.58,
+        "y": 91.56,
+        "scaleX": 1.864,
+        "scaleY": 1.864
+      },
+      {
+        "name": "xing10",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -277,
+        "y": 120.05,
+        "scaleX": 1.104,
+        "scaleY": 1.104
+      },
+      {
+        "name": "zi2",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 271.45,
+        "y": 45.16,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "zi3",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 560.87,
+        "y": -118.22
+      },
+      {
+        "name": "zi4",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 87.85,
+        "y": -118.22
+      },
+      {
+        "name": "zi2add",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 271.45,
+        "y": 45.16,
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "zi_cs",
+        "bone": "zi2",
+        "attachment": "zi_cs"
+      },
+      {
+        "name": "zi_cs2",
+        "bone": "zi2add",
+        "attachment": "zi_cs",
+        "blend": "additive"
+      },
+      {
+        "name": "img_caishen",
+        "bone": "caishen",
+        "attachment": "img_caishen"
+      },
+      {
+        "name": "xing1",
+        "bone": "xing1",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing7",
+        "bone": "xing7",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing8",
+        "bone": "xing8",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing9",
+        "bone": "xing9",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing10",
+        "bone": "xing10",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing2",
+        "bone": "xing2",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing3",
+        "bone": "xing3",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing4",
+        "bone": "xing4",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing5",
+        "bone": "xing5",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing6",
+        "bone": "xing6",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "yixian_2",
+        "bone": "light1",
+        "attachment": "yixian_2",
+        "blend": "additive"
+      },
+      {
+        "name": "yixian_3",
+        "bone": "light3",
+        "attachment": "yixian_2",
+        "blend": "additive"
+      },
+      {
+        "name": "caishen",
+        "bone": "caishen",
+        "attachment": "img_caishenwailight",
+        "blend": "additive"
+      },
+      {
+        "name": "zi3",
+        "bone": "zi3",
+        "attachment": "zi_bei"
+      },
+      {
+        "name": "zi4",
+        "bone": "zi4",
+        "attachment": "zi_bei1"
+      }
+    ],
+    "skins": {
+      "default": {
+        "caishen": {
+          "img_caishenwailight": {
+            "scaleX": 2,
+            "scaleY": 2,
+            "width": 330,
+            "height": 376
+          }
+        },
+        "img_caishen": {
+          "img_caishen": {
+            "width": 524,
+            "height": 617
+          }
+        },
+        "xing1": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing10": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing2": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing3": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing4": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing5": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing6": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing7": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing8": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing9": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "yixian_2": {
+          "yixian_2": {
+            "width": 650,
+            "height": 325
+          }
+        },
+        "yixian_3": {
+          "yixian_2": {
+            "width": 650,
+            "height": 325
+          }
+        },
+        "zi3": {
+          "zi_bei": {
+            "width": 211,
+            "height": 68
+          }
+        },
+        "zi4": {
+          "zi_bei1": {
+            "width": 429,
+            "height": 69
+          }
+        },
+        "zi_cs": {
+          "zi_cs": {
+            "width": 384,
+            "height": 102
+          }
+        },
+        "zi_cs2": {
+          "zi_cs": {
+            "width": 384,
+            "height": 102
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "caishen": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "img_caishen": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing7": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing8": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing9": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing10": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "yixian_2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "yixian_3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "zi3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "zi4": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "zi_cs": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "zi_cs2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffff84"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.8333,
+                "color": "ffffff84"
+              },
+              {
+                "time": 2.3333,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zi2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 1172.56,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "x": 1172.56,
+                "y": 0
+              },
+              {
+                "time": 0.7667,
+                "x": -68.24,
+                "y": 0
+              },
+              {
+                "time": 0.9333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi2add": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 1172.56,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "x": 1172.56,
+                "y": 0
+              },
+              {
+                "time": 0.7667,
+                "x": -68.24,
+                "y": 0
+              },
+              {
+                "time": 0.9333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing3": {
+            "translate": [
+              {
+                "time": 2.6,
+                "x": 2.11,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing4": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing6": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing7": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.4,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "xing8": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.4,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "xing9": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.4,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "xing10": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.4,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "eff": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6,
+                "x": -1924.82,
+                "y": 0
+              }
+            ]
+          },
+          "caishen": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -734.58,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "x": -734.58,
+                "y": 0
+              },
+              {
+                "time": 0.6667,
+                "x": 62.37,
+                "y": 0
+              },
+              {
+                "time": 0.8,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.033,
+                "y": 1.033
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.3333,
+                "x": 1.033,
+                "y": 1.033
+              },
+              {
+                "time": 2.6,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "light1": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 2633.54,
+                "y": 0
+              },
+              {
+                "time": 0.2333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2333,
+                "x": 1,
+                "y": 0.103
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 0
+              }
+            ]
+          },
+          "zi3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 1172.56,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "x": 1172.56,
+                "y": 0
+              },
+              {
+                "time": 0.7667,
+                "x": -68.24,
+                "y": 0
+              },
+              {
+                "time": 0.9333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi4": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 1172.56,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "x": 1172.56,
+                "y": 0
+              },
+              {
+                "time": 0.7667,
+                "x": -68.24,
+                "y": 0
+              },
+              {
+                "time": 0.9333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_csrcdh.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nimg_caishen\r\n  rotate: false\r\n  xy: 2, 388\r\n  size: 524, 617\r\n  orig: 524, 617\r\n  offset: 0, 0\r\n  index: -1\r\nimg_caishenwailight\r\n  rotate: false\r\n  xy: 2, 10\r\n  size: 330, 376\r\n  orig: 330, 376\r\n  offset: 0, 0\r\n  index: -1\r\nxx_512\r\n  rotate: false\r\n  xy: 438, 225\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nyixian_2\r\n  rotate: true\r\n  xy: 528, 355\r\n  size: 650, 325\r\n  orig: 650, 325\r\n  offset: 0, 0\r\n  index: -1\r\nzi_bei\r\n  rotate: true\r\n  xy: 855, 363\r\n  size: 211, 68\r\n  orig: 211, 68\r\n  offset: 0, 0\r\n  index: -1\r\nzi_bei1\r\n  rotate: true\r\n  xy: 855, 576\r\n  size: 429, 69\r\n  orig: 429, 69\r\n  offset: 0, 0\r\n  index: -1\r\nzi_cs\r\n  rotate: true\r\n  xy: 334, 2\r\n  size: 384, 102\r\n  orig: 384, 102\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "2fdbdb67-9900-46e4-a0cc-d7ceb289f632"
+    }
+  ],
+  "textureNames": [
+    "fx_by_csrcdh.png"
+  ],
+  "scale": 1
+}

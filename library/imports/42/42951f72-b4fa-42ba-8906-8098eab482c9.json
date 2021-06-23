@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zuocejiangetiao",
+    "texture": "ef693fb6-3aae-4d20-aafd-ee08a85c36ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

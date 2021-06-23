@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yubianhao",
+    "texture": "1e502b72-da7c-49f2-8551-32df15f78494",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_zuanshi",
+    "texture": "0dc1a68b-9805-4edc-a718-2e9ea26195eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      147,
+      138
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      150,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

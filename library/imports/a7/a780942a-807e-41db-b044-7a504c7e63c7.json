@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_fxyx_rw",
+    "texture": "bb87d2d3-34b5-4784-9b5c-2839452de648",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

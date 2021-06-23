@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "room_icon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "icon_rddz": {
+      "__uuid__": "2a7fd730-baf9-4add-bdeb-a6f3502afd77"
+    },
+    "icon_rdzpk": {
+      "__uuid__": "bd8f1af4-fb5c-477c-87ad-d0b48e107424"
+    },
+    "icon_rebg": {
+      "__uuid__": "f2665592-49ac-43b2-9254-1b19abdbf6a7"
+    },
+    "icon_rjszjh": {
+      "__uuid__": "222d5a24-f387-4633-bacf-cc6a026469fd"
+    },
+    "icon_rkpqz": {
+      "__uuid__": "af7bba2b-523d-4d14-a1b5-32227edfa87b"
+    },
+    "icon_rpj": {
+      "__uuid__": "06cee4ac-5a1b-4216-b27f-e5903a33aef0"
+    },
+    "icon_rqznn": {
+      "__uuid__": "247a5184-c0de-4912-937f-69624cd2f823"
+    },
+    "icon_rsangong": {
+      "__uuid__": "2a7e17c3-c4aa-4175-9fc7-ccea6c8ad3ed"
+    },
+    "icon_rsss": {
+      "__uuid__": "edcf4cf1-157b-44b2-a51f-31466f50f29f"
+    },
+    "icon_rzjh": {
+      "__uuid__": "5b75a290-6b24-4d45-b9f0-2f63d15edcc1"
+    }
+  }
+}

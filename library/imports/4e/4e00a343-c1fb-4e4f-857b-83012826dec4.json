@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_skilllock",
+    "texture": "b86e0f88-e424-4e96-9625-e1706ec8ae0e",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      131,
+      133
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      132,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

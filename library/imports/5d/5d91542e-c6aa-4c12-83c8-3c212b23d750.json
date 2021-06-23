@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_niuniutubiao",
+    "texture": "11f62b16-88a0-4213-b71d-fcdae811e789",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

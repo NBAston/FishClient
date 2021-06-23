@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_qidongzhifubao",
+    "texture": "e9859fca-5d25-4f22-9dc2-08b260e2978b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

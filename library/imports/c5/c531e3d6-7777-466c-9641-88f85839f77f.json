@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "localsetting",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "cfgurl": "http://192.168.3.108",
+    "logenable": true,
+    "producttag": "dev",
+    "producttag2": "presure",
+    "producttag3": "dev",
+    "producttag4": "jason"
+  }
+}

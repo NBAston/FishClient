@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_huan",
+    "texture": "c5ab27cd-8cbf-43b6-9883-a692a71f6843",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      208,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

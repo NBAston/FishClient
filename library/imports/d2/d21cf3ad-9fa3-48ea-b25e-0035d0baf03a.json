@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_xiugai",
+    "texture": "11670ab2-4524-421e-ac4c-0433b387d0b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      239,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      239,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

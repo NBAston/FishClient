@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_newcoin",
+    "texture": "2db8f0ef-bf04-4ac8-90a8-b0cc09b37975",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

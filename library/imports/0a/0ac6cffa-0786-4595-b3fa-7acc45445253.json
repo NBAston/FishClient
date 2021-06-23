@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold0",
+    "texture": "ad03d541-5d48-43da-9b4a-864fcdf3523c",
+    "atlas": "d9702f79-67d2-44e6-a466-17ed4300df2b",
+    "rect": [
+      94,
+      92,
+      88,
+      90
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      96,
+      96
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

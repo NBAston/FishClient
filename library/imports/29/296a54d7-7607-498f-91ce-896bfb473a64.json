@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_dikang",
+    "texture": "9d56883e-02d5-49ba-8985-76d0857d0df8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      850,
+      155
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      850,
+      155
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

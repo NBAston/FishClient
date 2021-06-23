@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ing_xiugaimimatubiao",
+    "texture": "fcd6fe85-33cb-43c0-94f5-b74d7d59fff3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

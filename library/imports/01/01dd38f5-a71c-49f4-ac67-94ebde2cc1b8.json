@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiaohua",
+    "texture": "b10b4331-b4f5-492c-a488-b11c29c9d55a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      6,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      6,
+      85
+    ],
+    "capInsets": [
+      0,
+      14,
+      0,
+      31
+    ]
+  }
+}

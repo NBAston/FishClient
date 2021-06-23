@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lundigai",
+    "texture": "fe34015f-ffda-4384-82ae-dc28e03f98a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      302
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      302
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_allreward",
+    "texture": "6c45d79f-3eb8-4450-9844-4707861adab2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      226,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      226,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

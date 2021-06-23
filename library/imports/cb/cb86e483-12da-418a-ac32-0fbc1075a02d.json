@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_queren",
+    "texture": "0f0341c7-ec03-4db3-a568-40a88c95df90",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      107,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+
+zyxrk_by_cj_water.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waterwave_1
+  rotate: true
+  xy: 1872, 134
+  size: 367, 164
+  orig: 367, 164
+  offset: 0, 0
+  index: -1
+Waterwave_2
+  rotate: false
+  xy: 764, 12
+  size: 424, 176
+  orig: 424, 176
+  offset: 0, 0
+  index: -1
+Waterwave_3
+  rotate: false
+  xy: 2, 431
+  size: 1336, 70
+  orig: 1336, 70
+  offset: 0, 0
+  index: -1
+Waterwave_4
+  rotate: false
+  xy: 2, 315
+  size: 1080, 114
+  orig: 1080, 114
+  offset: 0, 0
+  index: -1
+Waterwave_5
+  rotate: false
+  xy: 2, 2
+  size: 450, 80
+  orig: 450, 80
+  offset: 0, 0
+  index: -1
+Waterwave_6
+  rotate: false
+  xy: 2, 190
+  size: 1044, 123
+  orig: 1044, 123
+  offset: 0, 0
+  index: -1
+Waterwave_7
+  rotate: false
+  xy: 1340, 250
+  size: 530, 251
+  orig: 530, 251
+  offset: 0, 0
+  index: -1
+Waterwave_8
+  rotate: false
+  xy: 2, 84
+  size: 760, 104
+  orig: 760, 104
+  offset: 0, 0
+  index: -1

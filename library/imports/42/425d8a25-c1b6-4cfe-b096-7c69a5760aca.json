@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yhhd_rw",
+    "texture": "e556aadb-cc8f-467e-bba2-f840ea87ec5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

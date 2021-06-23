@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qudaozhi",
+    "texture": "f60cc6ff-5ce4-4810-8167-84ea2c337f2f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

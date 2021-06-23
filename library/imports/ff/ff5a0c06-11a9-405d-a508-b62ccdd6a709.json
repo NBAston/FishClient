@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_luckdraw",
+    "texture": "8484a596-3188-4ff4-bbc5-21b239124285",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

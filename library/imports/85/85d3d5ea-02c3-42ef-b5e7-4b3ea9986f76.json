@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_beishu",
+    "texture": "5f52d462-ad6a-4b97-a8e2-c04eefbf32cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      57
+    ],
+    "offset": [
+      -0.5,
+      1.5
+    ],
+    "originalSize": [
+      128,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

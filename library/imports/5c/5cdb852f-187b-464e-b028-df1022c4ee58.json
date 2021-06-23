@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_neironkuang",
+    "texture": "aec0e611-65ac-4496-ac0f-8c57c7d67a58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      337
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      337
+    ],
+    "capInsets": [
+      52,
+      0,
+      50,
+      0
+    ]
+  }
+}

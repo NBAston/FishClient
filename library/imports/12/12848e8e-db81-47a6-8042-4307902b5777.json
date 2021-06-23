@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_diyi",
+    "texture": "2ec5442e-9ded-4630-9abf-7b2514519bac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jinbizuanshi",
+    "texture": "acb32a9b-f0c2-4a96-bd36-01f4021d99d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

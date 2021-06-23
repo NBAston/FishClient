@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gouquan",
+    "texture": "3b06908d-d718-4fb4-bd25-7c87a366f9b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

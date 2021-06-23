@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_chouma2",
+    "texture": "dbffe2a4-b7c0-466d-9061-41c9dfb3cee3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1224,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1224,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

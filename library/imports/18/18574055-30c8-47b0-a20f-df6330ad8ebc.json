@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bnt_queding",
+    "texture": "d71809f9-1488-472e-ad38-c3d471f2e18a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      207,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

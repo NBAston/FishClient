@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jingdon",
+    "texture": "34b19713-3545-4167-b275-8425f5ad205c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

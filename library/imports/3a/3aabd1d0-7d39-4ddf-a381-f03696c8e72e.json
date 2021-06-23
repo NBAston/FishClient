@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shouqijiantou",
+    "texture": "ae6e9f05-d44c-4ac9-ab9d-a275a3d7acc4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_7ri_qiandao",
+    "texture": "f985728e-01de-4713-9aa1-9c023afecbb1",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      891,
+      251
+    ],
+    "offset": [
+      -64.5,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

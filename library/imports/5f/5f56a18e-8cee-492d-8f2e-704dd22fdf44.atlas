@@ -1,0 +1,125 @@
+
+zjm_zhanji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_huang
+  rotate: false
+  xy: 2, 387
+  size: 232, 98
+  orig: 232, 98
+  offset: 0, 0
+  index: -1
+img_jiangbei
+  rotate: false
+  xy: 164, 18
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+img_zhanji
+  rotate: false
+  xy: 398, 445
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+zi_02/zi_01
+  rotate: false
+  xy: 2, 310
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_02
+  rotate: false
+  xy: 236, 410
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_03
+  rotate: false
+  xy: 2, 233
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_04
+  rotate: false
+  xy: 2, 156
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_05
+  rotate: false
+  xy: 2, 79
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_06
+  rotate: false
+  xy: 2, 2
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_07
+  rotate: true
+  xy: 164, 225
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_08
+  rotate: true
+  xy: 164, 63
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_09
+  rotate: true
+  xy: 241, 248
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_10
+  rotate: true
+  xy: 241, 86
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_11
+  rotate: true
+  xy: 318, 248
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_12
+  rotate: true
+  xy: 318, 86
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_13
+  rotate: false
+  xy: 241, 9
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_14
+  rotate: true
+  xy: 395, 248
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1

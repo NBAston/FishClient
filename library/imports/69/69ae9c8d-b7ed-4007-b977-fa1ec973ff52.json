@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_yeqian2",
+    "texture": "6ecd98d2-cb9f-4348-9561-a3ff3f3d3215",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      312,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      312,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

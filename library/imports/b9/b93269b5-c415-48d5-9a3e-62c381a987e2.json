@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xialakuang",
+    "texture": "f8639965-870a-4dba-822c-beb390b61016",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      517
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      517
+    ],
+    "capInsets": [
+      78,
+      192,
+      73,
+      150
+    ]
+  }
+}

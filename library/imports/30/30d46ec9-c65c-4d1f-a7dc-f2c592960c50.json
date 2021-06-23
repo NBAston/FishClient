@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fish9.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "fish9_move1": {
+      "__uuid__": "112adbce-8d8d-479c-928a-2617ab8a6149"
+    },
+    "fish9_move10": {
+      "__uuid__": "1ca8c2c9-fd53-4e47-a7b7-b7b3f08938ba"
+    },
+    "fish9_move11": {
+      "__uuid__": "568c7833-48ed-40ba-98b3-f9f694f9c781"
+    },
+    "fish9_move12": {
+      "__uuid__": "7aa4c2ab-7e76-4c99-ba5b-f8ae257c0cd8"
+    },
+    "fish9_move13": {
+      "__uuid__": "1e6c9a3d-5bcd-40f8-8467-dea1623c9d1f"
+    },
+    "fish9_move14": {
+      "__uuid__": "01054c64-d4b6-4cf0-bb9b-32fa9734afa1"
+    },
+    "fish9_move15": {
+      "__uuid__": "e046ca7e-41bd-435f-8aa7-4de7daa82037"
+    },
+    "fish9_move16": {
+      "__uuid__": "964b1cd2-ce12-41a8-acc6-fa8653e15865"
+    },
+    "fish9_move2": {
+      "__uuid__": "7c6cfd0f-9fdd-4df1-8f7d-adadd041f1d4"
+    },
+    "fish9_move3": {
+      "__uuid__": "d2c207f3-62ce-4565-b38d-1ad6cda5bacf"
+    },
+    "fish9_move4": {
+      "__uuid__": "7ede391f-529b-4343-82a2-3e1a5fc318f9"
+    },
+    "fish9_move5": {
+      "__uuid__": "1ce42310-7f8e-4064-8053-da3227ce49d2"
+    },
+    "fish9_move6": {
+      "__uuid__": "886d3d67-3ed5-4cf3-ba7c-f5fda272d342"
+    },
+    "fish9_move7": {
+      "__uuid__": "f253b317-7fe1-48a5-943f-f04a297c8fd0"
+    },
+    "fish9_move8": {
+      "__uuid__": "1cabc349-de0d-4a11-8a8d-26f221ebbf3b"
+    },
+    "fish9_move9": {
+      "__uuid__": "4f22e7a8-3ff7-4989-afcf-c6a2a67a70da"
+    }
+  }
+}

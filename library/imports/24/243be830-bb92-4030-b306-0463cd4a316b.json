@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_goldkuang",
+    "texture": "28447012-0d3f-4a65-8b1a-3bba783de38e",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      269,
+      53
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      270,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

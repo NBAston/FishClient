@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "describe_logo",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.166666666666667,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "saoguang_J": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -1085.637
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": 1067.239
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

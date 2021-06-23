@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_kaxuan",
+    "texture": "07c84309-7304-4eba-91fd-a2f820c67d70",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      223,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

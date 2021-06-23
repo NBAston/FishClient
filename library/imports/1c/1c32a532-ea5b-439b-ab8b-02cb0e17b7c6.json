@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jinqushuzi",
+    "texture": "21769253-fb1a-4314-b3e2-a6f35661b69b",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      299,
+      48
+    ],
+    "offset": [
+      -16,
+      0
+    ],
+    "originalSize": [
+      335,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

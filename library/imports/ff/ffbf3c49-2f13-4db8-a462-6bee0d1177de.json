@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_duoren",
+    "texture": "fc87db94-a155-42bd-8085-9bf13dd88c8b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      326,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      326,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

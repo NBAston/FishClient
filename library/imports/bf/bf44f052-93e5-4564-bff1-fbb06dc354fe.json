@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_guanggaomian",
+    "texture": "289c00a1-7744-4f32-abcc-67e939924f55",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      373,
+      557
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      373,
+      557
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

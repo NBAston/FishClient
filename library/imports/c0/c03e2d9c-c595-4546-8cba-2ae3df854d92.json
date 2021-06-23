@@ -1,0 +1,103 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_xianjian_sj",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "6LIkIgW9EuPPCpGYLsrz6s56xxA",
+      "spine": "3.6.53",
+      "width": 291,
+      "height": 191,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 25.08,
+        "x": 24
+      }
+    ],
+    "slots": [
+      {
+        "name": "0",
+        "bone": "bone",
+        "attachment": "0"
+      }
+    ],
+    "skins": {
+      "default": {
+        "0": {
+          "0": {
+            "width": 291,
+            "height": 191
+          },
+          "1": {
+            "width": 291,
+            "height": 191
+          },
+          "2": {
+            "width": 291,
+            "height": 191
+          },
+          "3": {
+            "width": 291,
+            "height": 191
+          },
+          "4": {
+            "width": 291,
+            "height": 191
+          }
+        }
+      }
+    },
+    "animations": {
+      "attack": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "0"
+              },
+              {
+                "time": 0.0667,
+                "name": "1"
+              },
+              {
+                "time": 0.1333,
+                "name": "2"
+              },
+              {
+                "time": 0.2,
+                "name": "3"
+              },
+              {
+                "time": 0.2667,
+                "name": "4"
+              },
+              {
+                "time": 0.3333,
+                "name": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_xianjian_sj.png\r\nsize: 2048,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n0\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 291, 191\r\n  orig: 291, 191\r\n  offset: 0, 0\r\n  index: -1\r\n1\r\n  rotate: false\r\n  xy: 295, 2\r\n  size: 291, 191\r\n  orig: 291, 191\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: false\r\n  xy: 588, 2\r\n  size: 291, 191\r\n  orig: 291, 191\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 881, 2\r\n  size: 291, 191\r\n  orig: 291, 191\r\n  offset: 0, 0\r\n  index: -1\r\n4\r\n  rotate: false\r\n  xy: 1174, 2\r\n  size: 291, 191\r\n  orig: 291, 191\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "137f16a6-d2e0-4204-897d-9a41519e51f4"
+    }
+  ],
+  "textureNames": [
+    "fx_by_xianjian_sj.png"
+  ],
+  "scale": 1
+}

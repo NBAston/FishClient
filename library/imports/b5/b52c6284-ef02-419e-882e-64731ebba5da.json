@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_huodongbiaoti",
+    "texture": "478bd980-6da5-4b02-8af3-426233aa19b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

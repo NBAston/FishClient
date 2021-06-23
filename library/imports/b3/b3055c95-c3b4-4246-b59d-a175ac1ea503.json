@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shijian",
+    "texture": "a5d5155f-f3d9-49cc-bfa3-3d05d8f93e23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_turntableBg",
+    "texture": "cf1b1f54-99c0-4d53-83c0-cc06f0d9a192",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      248,
+      281
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      281
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

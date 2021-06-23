@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shouyi1",
+    "texture": "6ba5fe4b-61cf-4780-870e-37f169fa8062",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

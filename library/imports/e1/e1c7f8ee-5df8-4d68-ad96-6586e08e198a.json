@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tglj",
+    "texture": "1c306f7a-3bea-4714-bb5c-b483710a723f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

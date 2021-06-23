@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tiqu1",
+    "texture": "384bef65-8fff-43c1-9ba5-ae1c2d4e3164",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_jubao",
+    "texture": "86a103d6-66ab-45ba-bd11-b90860e0d53a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      239,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      239,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "img_qp.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "img_game_list_1": {
+      "__uuid__": "0acaedc3-c54f-440d-a8a4-72ed1e0e7b84"
+    },
+    "img_game_list_12": {
+      "__uuid__": "e1cfd4ba-76ef-4550-9b8e-984d9a750ed7"
+    },
+    "img_game_list_16": {
+      "__uuid__": "edce6efe-49fe-42e7-9533-2e3d778e5d6e"
+    },
+    "img_game_list_29": {
+      "__uuid__": "c6e94896-9c84-429a-b031-ef60fecfcb4e"
+    },
+    "img_logo_1": {
+      "__uuid__": "dab2496e-5b83-43e9-8c5e-0c5a14a9dc46"
+    },
+    "img_logo_12": {
+      "__uuid__": "48d6c9e2-7cf0-4ecf-80b9-0b83d3fdbeaa"
+    },
+    "img_logo_16": {
+      "__uuid__": "6a3b8893-8e01-40bc-81c9-3681b2952a56"
+    },
+    "img_logo_29": {
+      "__uuid__": "f55fc931-7184-4998-bfe3-342e3d60fd4e"
+    },
+    "img_title_1": {
+      "__uuid__": "75ecc68c-7aef-46f7-ba6c-4d45cb372443"
+    },
+    "img_title_12": {
+      "__uuid__": "c2824c6e-1013-414d-842d-a2da6325f51c"
+    },
+    "img_title_16": {
+      "__uuid__": "152da44f-f4c1-478c-942c-ee6229bd8c86"
+    },
+    "img_title_29": {
+      "__uuid__": "cfebb6ed-d4b5-4d54-9828-6fcf6f8ecbdd"
+    }
+  }
+}

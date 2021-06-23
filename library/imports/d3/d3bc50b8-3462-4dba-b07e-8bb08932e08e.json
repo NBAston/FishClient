@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiugaimingchen",
+    "texture": "19bb0309-7f3c-4d60-87bc-39b7a982ceda",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

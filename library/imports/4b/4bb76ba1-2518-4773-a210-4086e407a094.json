@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zidanbianhao",
+    "texture": "6025ae85-84ce-4c60-902d-1410567351eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

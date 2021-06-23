@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_caiyuanguangjin",
+    "texture": "b9dc3249-32fa-4dba-bf5f-a242bacd8465",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      473,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      473,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

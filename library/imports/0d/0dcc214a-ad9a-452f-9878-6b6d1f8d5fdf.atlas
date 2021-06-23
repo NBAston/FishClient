@@ -1,0 +1,132 @@
+
+heijin_icon_hbsl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishen
+  rotate: false
+  xy: 2, 650
+  size: 332, 368
+  orig: 332, 368
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_1
+  rotate: false
+  xy: 483, 868
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_10
+  rotate: false
+  xy: 2, 132
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_2
+  rotate: false
+  xy: 96, 346
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_3
+  rotate: false
+  xy: 635, 868
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_4
+  rotate: false
+  xy: 787, 868
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_5
+  rotate: false
+  xy: 336, 692
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_6
+  rotate: false
+  xy: 488, 716
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_7
+  rotate: false
+  xy: 640, 716
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_8
+  rotate: false
+  xy: 792, 716
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx_xx_xl01/ggy_sg_9
+  rotate: false
+  xy: 96, 498
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hongbaosaolei
+  rotate: true
+  xy: 2, 284
+  size: 364, 92
+  orig: 364, 92
+  offset: 0, 0
+  index: -1
+lei
+  rotate: false
+  xy: 336, 844
+  size: 145, 174
+  orig: 145, 174
+  offset: 0, 0
+  index: -1
+xx/x_00
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_01
+  rotate: false
+  xy: 248, 520
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_02
+  rotate: false
+  xy: 248, 390
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_03
+  rotate: false
+  xy: 378, 562
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_04
+  rotate: false
+  xy: 378, 432
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

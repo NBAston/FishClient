@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jfdbtips",
+    "texture": "0d9366d9-06a9-4d10-b110-404a873210cd",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      116,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

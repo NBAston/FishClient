@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_juxin",
+    "texture": "26d8a739-d744-485d-bcb8-6303842816f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

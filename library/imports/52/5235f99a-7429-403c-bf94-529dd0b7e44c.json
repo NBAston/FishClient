@@ -1,0 +1,1058 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "heijin_jfdb_zuanshi",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Cl4hA8CZt64+SCfZIX1Q++hoDv0",
+      "spine": "3.6.53",
+      "width": 1334.2,
+      "height": 1309.97,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "main_xyzp_effect_4b",
+        "scaleX": 0.75,
+        "scaleY": 0.75
+      },
+      {
+        "name": "shandian02",
+        "parent": "main_xyzp_effect_4b",
+        "x": -12.3,
+        "y": 10.56,
+        "scaleX": 5.686,
+        "scaleY": 5.686
+      },
+      {
+        "name": "zpsd",
+        "parent": "main_xyzp_effect_4b",
+        "rotation": -75,
+        "x": -14.07,
+        "y": 9.63,
+        "scaleX": 4.896,
+        "scaleY": 4.896
+      },
+      {
+        "name": "zpsd1",
+        "parent": "main_xyzp_effect_4b",
+        "x": -8.89,
+        "y": 9.63,
+        "scaleX": 3.68,
+        "scaleY": 3.68
+      }
+    ],
+    "slots": [
+      {
+        "name": "a1",
+        "bone": "main_xyzp_effect_4b"
+      },
+      {
+        "name": "ssd_0000",
+        "bone": "shandian02",
+        "attachment": "ssd_0000",
+        "blend": "additive"
+      },
+      {
+        "name": "zpsd0",
+        "bone": "zpsd",
+        "attachment": "zpsd/zpsd4",
+        "blend": "additive"
+      },
+      {
+        "name": "zpsd01",
+        "bone": "zpsd1",
+        "attachment": "zpsd/zpsd4",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "ssd_0000": {
+          "ssd_0000": {
+            "rotation": -0.06,
+            "width": 214,
+            "height": 204
+          },
+          "ssd_0004": {
+            "width": 208,
+            "height": 203
+          },
+          "ssd_0008": {
+            "width": 222,
+            "height": 217
+          },
+          "ssd_0012": {
+            "width": 218,
+            "height": 222
+          },
+          "ssd_0016": {
+            "width": 226,
+            "height": 219
+          },
+          "ssd_0020": {
+            "width": 228,
+            "height": 219
+          },
+          "ssd_0024": {
+            "width": 219,
+            "height": 215
+          },
+          "ssd_0028": {
+            "width": 227,
+            "height": 215
+          }
+        },
+        "zpsd0": {
+          "zpsd/zpsd0": {
+            "width": 123,
+            "height": 87
+          },
+          "zpsd/zpsd1": {
+            "x": -8.48,
+            "width": 166,
+            "height": 160
+          },
+          "zpsd/zpsd2": {
+            "width": 217,
+            "height": 217
+          },
+          "zpsd/zpsd3": {
+            "width": 253,
+            "height": 245
+          },
+          "zpsd/zpsd4": {
+            "width": 217,
+            "height": 224
+          },
+          "zpsd/zpsd5": {
+            "width": 280,
+            "height": 273
+          },
+          "zpsd/zpsd6": {
+            "width": 292,
+            "height": 286
+          },
+          "zpsd/zpsd7": {
+            "width": 233,
+            "height": 233
+          },
+          "zpsd/zpsd8": {
+            "width": 229,
+            "height": 223
+          },
+          "zpsd/zpsd9": {
+            "width": 292,
+            "height": 300
+          },
+          "zpsd/zpsd10": {
+            "width": 292,
+            "height": 300
+          },
+          "zpsd/zpsd11": {
+            "width": 289,
+            "height": 294
+          },
+          "zpsd/zpsd12": {
+            "width": 218,
+            "height": 213
+          }
+        },
+        "zpsd01": {
+          "zpsd/zpsd0": {
+            "width": 123,
+            "height": 87
+          },
+          "zpsd/zpsd1": {
+            "x": -8.48,
+            "width": 166,
+            "height": 160
+          },
+          "zpsd/zpsd2": {
+            "width": 217,
+            "height": 217
+          },
+          "zpsd/zpsd3": {
+            "width": 253,
+            "height": 245
+          },
+          "zpsd/zpsd4": {
+            "width": 217,
+            "height": 224
+          },
+          "zpsd/zpsd5": {
+            "width": 280,
+            "height": 273
+          },
+          "zpsd/zpsd6": {
+            "width": 292,
+            "height": 286
+          },
+          "zpsd/zpsd7": {
+            "width": 233,
+            "height": 233
+          },
+          "zpsd/zpsd8": {
+            "width": 229,
+            "height": 223
+          },
+          "zpsd/zpsd9": {
+            "width": 292,
+            "height": 300
+          },
+          "zpsd/zpsd10": {
+            "width": 292,
+            "height": 300
+          },
+          "zpsd/zpsd11": {
+            "width": 289,
+            "height": 294
+          },
+          "zpsd/zpsd12": {
+            "width": 218,
+            "height": 213
+          }
+        }
+      }
+    },
+    "animations": {
+      "Animation": {
+        "slots": {
+          "ssd_0000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 5.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "ssd_0000"
+              },
+              {
+                "time": 0.0667,
+                "name": "ssd_0020"
+              },
+              {
+                "time": 0.1667,
+                "name": "ssd_0004"
+              },
+              {
+                "time": 0.2333,
+                "name": "ssd_0024"
+              },
+              {
+                "time": 0.3333,
+                "name": "ssd_0008"
+              },
+              {
+                "time": 0.4,
+                "name": "ssd_0028"
+              },
+              {
+                "time": 0.5,
+                "name": "ssd_0012"
+              },
+              {
+                "time": 0.5667,
+                "name": "ssd_0000"
+              },
+              {
+                "time": 0.6667,
+                "name": "ssd_0016"
+              },
+              {
+                "time": 0.7333,
+                "name": "ssd_0004"
+              },
+              {
+                "time": 0.8333,
+                "name": "ssd_0020"
+              },
+              {
+                "time": 0.9,
+                "name": "ssd_0008"
+              },
+              {
+                "time": 1,
+                "name": "ssd_0024"
+              },
+              {
+                "time": 1.0667,
+                "name": "ssd_0012"
+              },
+              {
+                "time": 1.1667,
+                "name": "ssd_0028"
+              },
+              {
+                "time": 1.2333,
+                "name": "ssd_0016"
+              },
+              {
+                "time": 1.3333,
+                "name": "ssd_0000"
+              },
+              {
+                "time": 1.4,
+                "name": "ssd_0020"
+              },
+              {
+                "time": 1.5,
+                "name": "ssd_0004"
+              },
+              {
+                "time": 1.567,
+                "name": "ssd_0024"
+              },
+              {
+                "time": 1.667,
+                "name": "ssd_0008"
+              },
+              {
+                "time": 1.7337,
+                "name": "ssd_0028"
+              },
+              {
+                "time": 1.8337,
+                "name": "ssd_0012"
+              },
+              {
+                "time": 1.9004,
+                "name": "ssd_0000"
+              },
+              {
+                "time": 2.0004,
+                "name": "ssd_0016"
+              },
+              {
+                "time": 2.0671,
+                "name": "ssd_0004"
+              },
+              {
+                "time": 2.1671,
+                "name": "ssd_0020"
+              },
+              {
+                "time": 2.3338,
+                "name": "ssd_0024"
+              },
+              {
+                "time": 2.5005,
+                "name": "ssd_0028"
+              },
+              {
+                "time": 2.6672,
+                "name": "ssd_0000"
+              },
+              {
+                "time": 2.8339,
+                "name": "ssd_0004"
+              },
+              {
+                "time": 3.0006,
+                "name": "ssd_0008"
+              },
+              {
+                "time": 3.1673,
+                "name": "ssd_0012"
+              },
+              {
+                "time": 3.334,
+                "name": "ssd_0016"
+              },
+              {
+                "time": 3.5007,
+                "name": "ssd_0020"
+              },
+              {
+                "time": 3.6674,
+                "name": "ssd_0024"
+              },
+              {
+                "time": 3.8341,
+                "name": "ssd_0028"
+              },
+              {
+                "time": 4.0674,
+                "name": "ssd_0000"
+              },
+              {
+                "time": 4.2341,
+                "name": "ssd_0004"
+              },
+              {
+                "time": 4.4008,
+                "name": "ssd_0008"
+              },
+              {
+                "time": 4.5675,
+                "name": "ssd_0012"
+              },
+              {
+                "time": 4.7342,
+                "name": "ssd_0016"
+              },
+              {
+                "time": 4.9009,
+                "name": "ssd_0020"
+              },
+              {
+                "time": 5.0676,
+                "name": "ssd_0024"
+              },
+              {
+                "time": 5.2343,
+                "name": "ssd_0028"
+              },
+              {
+                "time": 5.401,
+                "name": "ssd_0000"
+              },
+              {
+                "time": 5.5677,
+                "name": "ssd_0004"
+              }
+            ]
+          },
+          "zpsd0": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.3333,
+                "color": "ffffffb5"
+              },
+              {
+                "time": 4,
+                "color": "ffffffba"
+              },
+              {
+                "time": 4.7,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 1.6667,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 1.7667,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 1.8333,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 1.8667,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 1.9667,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 2.0667,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 2.1333,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 2.1667,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 2.2333,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 2.2667,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 2.3,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 2.3667,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 2.4,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 2.4333,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 2.4667,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 2.5333,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 2.6,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 2.6667,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 2.7,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 2.7333,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 2.7667,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 2.8333,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 2.8667,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 2.9,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 2.9667,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 3,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 3.0333,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 3.0667,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 3.1333,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 3.1667,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 3.2,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 3.2667,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 3.3,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 3.3333,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 3.3667,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 3.4333,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 3.4667,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 3.5,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 3.533,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 3.6,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 3.633,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 3.6663,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 3.733,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 3.7663,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 3.7996,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 3.8329,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 3.8996,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 3.9329,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 3.9662,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 4.0329,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 4.0662,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 4.0995,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 4.1328,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 4.1995,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 4.2662,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 4.3329,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 4.3662,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 4.3995,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 4.4328,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 4.4995,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 4.5328,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 4.5661,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 4.6328,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 4.6661,
+                "name": "zpsd/zpsd7"
+              }
+            ]
+          },
+          "zpsd01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 0.8,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 0.8667,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 0.9333,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 1,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 1.0667,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 1.1333,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 1.2,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 1.2667,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 1.3333,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 1.4,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 1.467,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 1.5337,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 1.6004,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 1.6671,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 1.7338,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 1.8005,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 1.8672,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 1.9339,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 2.0006,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 2.0673,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 2.134,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 2.2007,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 2.2674,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 2.3341,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 2.4008,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 2.4675,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 2.5342,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 2.6009,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 2.6676,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 2.7343,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 2.801,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 2.8677,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 2.9344,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 3.0011,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 3.0678,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 3.1345,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 3.2012,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 3.2679,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 3.3346,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 3.4013,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 3.468,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 3.5347,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 3.6014,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 3.6681,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 3.7348,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 3.8015,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 3.8682,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 3.9349,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 4.0016,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 4.0683,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 4.135,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 4.2017,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 4.2684,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 4.3351,
+                "name": "zpsd/zpsd0"
+              },
+              {
+                "time": 4.4018,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 4.4685,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 4.5352,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 4.6019,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 4.6686,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 4.7353,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 4.802,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 4.8687,
+                "name": "zpsd/zpsd8"
+              },
+              {
+                "time": 4.9354,
+                "name": "zpsd/zpsd9"
+              },
+              {
+                "time": 5.0021,
+                "name": "zpsd/zpsd10"
+              },
+              {
+                "time": 5.0688,
+                "name": "zpsd/zpsd11"
+              },
+              {
+                "time": 5.1355,
+                "name": "zpsd/zpsd12"
+              },
+              {
+                "time": 5.2022,
+                "name": "zpsd/zpsd1"
+              },
+              {
+                "time": 5.2689,
+                "name": "zpsd/zpsd2"
+              },
+              {
+                "time": 5.3356,
+                "name": "zpsd/zpsd3"
+              },
+              {
+                "time": 5.4023,
+                "name": "zpsd/zpsd4"
+              },
+              {
+                "time": 5.469,
+                "name": "zpsd/zpsd5"
+              },
+              {
+                "time": 5.5357,
+                "name": "zpsd/zpsd6"
+              },
+              {
+                "time": 5.6024,
+                "name": "zpsd/zpsd7"
+              },
+              {
+                "time": 5.6691,
+                "name": "zpsd/zpsd8"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nheijin_jfdb_zuanshi.png\r\nsize: 2048,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nssd_0000\r\n  rotate: true\r\n  xy: 296, 2\r\n  size: 214, 204\r\n  orig: 214, 204\r\n  offset: 0, 0\r\n  index: -1\r\nssd_0004\r\n  rotate: true\r\n  xy: 971, 128\r\n  size: 208, 203\r\n  orig: 208, 203\r\n  offset: 0, 0\r\n  index: -1\r\nssd_0008\r\n  rotate: false\r\n  xy: 587, 558\r\n  size: 222, 217\r\n  orig: 222, 217\r\n  offset: 0, 0\r\n  index: -1\r\nssd_0012\r\n  rotate: true\r\n  xy: 578, 338\r\n  size: 218, 222\r\n  orig: 218, 222\r\n  offset: 0, 0\r\n  index: -1\r\nssd_0016\r\n  rotate: false\r\n  xy: 1303, 803\r\n  size: 226, 219\r\n  orig: 226, 219\r\n  offset: 0, 0\r\n  index: -1\r\nssd_0020\r\n  rotate: false\r\n  xy: 1073, 803\r\n  size: 228, 219\r\n  orig: 228, 219\r\n  offset: 0, 0\r\n  index: -1\r\nssd_0024\r\n  rotate: false\r\n  xy: 531, 121\r\n  size: 219, 215\r\n  orig: 219, 215\r\n  offset: 0, 0\r\n  index: -1\r\nssd_0028\r\n  rotate: false\r\n  xy: 1531, 807\r\n  size: 227, 215\r\n  orig: 227, 215\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd0\r\n  rotate: false\r\n  xy: 2, 43\r\n  size: 123, 87\r\n  orig: 123, 87\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd1\r\n  rotate: true\r\n  xy: 811, 609\r\n  size: 166, 160\r\n  orig: 166, 160\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd10\r\n  rotate: false\r\n  xy: 2, 420\r\n  size: 292, 300\r\n  orig: 292, 300\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd11\r\n  rotate: false\r\n  xy: 296, 728\r\n  size: 289, 294\r\n  orig: 289, 294\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd12\r\n  rotate: true\r\n  xy: 802, 338\r\n  size: 218, 213\r\n  orig: 218, 213\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd2\r\n  rotate: false\r\n  xy: 752, 119\r\n  size: 217, 217\r\n  orig: 217, 217\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd3\r\n  rotate: false\r\n  xy: 587, 777\r\n  size: 253, 245\r\n  orig: 253, 245\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd4\r\n  rotate: true\r\n  xy: 1760, 805\r\n  size: 217, 224\r\n  orig: 217, 224\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd5\r\n  rotate: false\r\n  xy: 296, 453\r\n  size: 280, 273\r\n  orig: 280, 273\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd6\r\n  rotate: false\r\n  xy: 2, 132\r\n  size: 292, 286\r\n  orig: 292, 286\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd7\r\n  rotate: false\r\n  xy: 296, 218\r\n  size: 233, 233\r\n  orig: 233, 233\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd8\r\n  rotate: false\r\n  xy: 842, 799\r\n  size: 229, 223\r\n  orig: 229, 223\r\n  offset: 0, 0\r\n  index: -1\r\nzpsd/zpsd9\r\n  rotate: false\r\n  xy: 2, 722\r\n  size: 292, 300\r\n  orig: 292, 300\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "48ab28f8-0957-4c1c-9db6-ca78b1c09368"
+    }
+  ],
+  "textureNames": [
+    "heijin_jfdb_zuanshi.png"
+  ],
+  "scale": 1
+}

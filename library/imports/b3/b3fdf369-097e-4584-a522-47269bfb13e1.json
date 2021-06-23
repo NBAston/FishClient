@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bnt_baocun",
+    "texture": "505fee00-dba4-4c7e-ae75-1ecee40b0cf1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      207,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

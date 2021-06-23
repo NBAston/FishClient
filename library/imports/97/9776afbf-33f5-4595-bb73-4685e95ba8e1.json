@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zijin_2",
+    "texture": "553c2904-b644-4b26-9dc8-6424855b8796",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

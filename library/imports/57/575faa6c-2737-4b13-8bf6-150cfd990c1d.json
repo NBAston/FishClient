@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_youjian",
+    "texture": "29083b40-c3bc-46fd-a00d-efa646bf2046",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      349,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      349,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

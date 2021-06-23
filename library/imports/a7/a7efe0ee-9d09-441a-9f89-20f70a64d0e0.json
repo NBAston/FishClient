@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_suoding",
+    "texture": "fe0666dc-03e3-43ce-b1e7-146362d57a26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qiangzhuangshijian",
+    "texture": "b23c76c0-98c3-4637-ad2a-15e2adb40300",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_mingziditiao",
+    "texture": "f44130b1-5e34-47d6-9e9d-db8edf458a74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      283,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      283,
+      60
+    ],
+    "capInsets": [
+      73,
+      0,
+      69,
+      0
+    ]
+  }
+}

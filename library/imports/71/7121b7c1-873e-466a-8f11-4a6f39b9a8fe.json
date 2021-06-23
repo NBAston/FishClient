@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_guanyuwomentubiao",
+    "texture": "826626da-c8dd-40de-b6b5-542d00c7994c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

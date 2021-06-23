@@ -1,0 +1,216 @@
+
+heijin_icon_lb.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_1/7_1_00
+  rotate: true
+  xy: 199, 9
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+7_1/7_1_01
+  rotate: true
+  xy: 930, 407
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+7_1/7_1_02
+  rotate: true
+  xy: 773, 290
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+7_1/7_1_03
+  rotate: true
+  xy: 835, 290
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+7_1/7_1_04
+  rotate: false
+  xy: 926, 345
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+7_1/7_1_05
+  rotate: true
+  xy: 620, 251
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+ddd01_00
+  rotate: false
+  xy: 292, 319
+  size: 184, 95
+  orig: 184, 95
+  offset: 0, 0
+  index: -1
+ddd02_00
+  rotate: false
+  xy: 624, 447
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 478, 256
+  size: 158, 62
+  orig: 158, 62
+  offset: 0, 0
+  index: -1
+huangdeng01_00
+  rotate: false
+  xy: 292, 222
+  size: 184, 95
+  orig: 184, 95
+  offset: 0, 0
+  index: -1
+jinbi01
+  rotate: false
+  xy: 292, 69
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+jinbi02
+  rotate: false
+  xy: 427, 167
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+jinbi03
+  rotate: false
+  xy: 360, 82
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+jinbi04
+  rotate: true
+  xy: 155, 2
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+jinbi05
+  rotate: false
+  xy: 2, 49
+  size: 288, 176
+  orig: 288, 176
+  offset: 0, 0
+  index: -1
+qiugan
+  rotate: true
+  xy: 478, 223
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+yingyin
+  rotate: false
+  xy: 2, 227
+  size: 288, 283
+  orig: 288, 283
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 292, 151
+  size: 133, 69
+  orig: 133, 69
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 292, 416
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1
+zideng02_00
+  rotate: false
+  xy: 824, 447
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+zimu/zmadd_00
+  rotate: false
+  xy: 2, 10
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_01
+  rotate: true
+  xy: 542, 263
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_02
+  rotate: true
+  xy: 581, 263
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_03
+  rotate: false
+  xy: 624, 408
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_04
+  rotate: false
+  xy: 777, 408
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_05
+  rotate: false
+  xy: 620, 369
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_06
+  rotate: false
+  xy: 620, 330
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_07
+  rotate: false
+  xy: 773, 369
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_08
+  rotate: false
+  xy: 620, 291
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+zimu/zmadd_09
+  rotate: false
+  xy: 773, 330
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1

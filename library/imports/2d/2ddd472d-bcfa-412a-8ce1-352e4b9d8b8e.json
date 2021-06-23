@@ -1,0 +1,630 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_ptbs_yanbao",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Jl6gi2xwTowJMZp6ZSJ8WxOyzl4",
+      "spine": "3.6.53",
+      "width": 512.3,
+      "height": 512.3,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "4",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -169.33,
+        "x": 2.73,
+        "y": 2.06,
+        "scaleX": 1.25,
+        "scaleY": 1.25
+      },
+      {
+        "name": "5",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -169.33,
+        "x": 2.73,
+        "y": 2.06,
+        "scaleX": 1.25,
+        "scaleY": 1.25
+      },
+      {
+        "name": "glow_01",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 2.211,
+        "scaleY": 2.211
+      },
+      {
+        "name": "glow_1",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 2.211,
+        "scaleY": 2.211
+      },
+      {
+        "name": "glow_02",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 4.002,
+        "scaleY": 4.002
+      },
+      {
+        "name": "light_01",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.603,
+        "scaleY": 1.603
+      },
+      {
+        "name": "light_1",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.603,
+        "scaleY": 1.603
+      }
+    ],
+    "slots": [
+      {
+        "name": "Tex_Circle_0012",
+        "bone": "glow_01",
+        "attachment": "Tex_Circle_0013",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_12",
+        "bone": "glow_1",
+        "attachment": "Tex_Circle_0013",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Glow_0001",
+        "bone": "glow_02",
+        "attachment": "Tex_Glow_0001",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_0001",
+        "bone": "light_01",
+        "attachment": "Tex_Circle_0001",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_1",
+        "bone": "light_1",
+        "attachment": "tex_gg",
+        "blend": "additive"
+      },
+      {
+        "name": "huo/Tex_by_boom_0000_001",
+        "bone": "4",
+        "attachment": "huo/Tex_by_boom_0000_001"
+      },
+      {
+        "name": "huo/Tex_by_boom_0000_1",
+        "bone": "5",
+        "attachment": "huo/Tex_by_boom_0000_001",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Tex_Circle_0001": {
+          "Tex_Circle_0001": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Circle_0012": {
+          "Tex_Circle_0013": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Circle_1": {
+          "tex_gg": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Circle_12": {
+          "Tex_Circle_0013": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Glow_0001": {
+          "Tex_Glow_0001": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "huo/Tex_by_boom_0000_001": {
+          "huo/Tex_by_boom_0000_001": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_002": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_003": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_004": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_005": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_006": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_007": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_008": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_009": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_010": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_011": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_012": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_013": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          }
+        },
+        "huo/Tex_by_boom_0000_1": {
+          "huo/Tex_by_boom_0000_001": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_002": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_003": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_004": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_005": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_006": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_007": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_008": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_009": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_010": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_011": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_012": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          },
+          "huo/Tex_by_boom_0000_013": {
+            "rotation": 169.33,
+            "width": 256,
+            "height": 256
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "Tex_Circle_0001": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffae84ff"
+              },
+              {
+                "time": 0.5,
+                "color": "ff000000"
+              }
+            ]
+          },
+          "Tex_Circle_1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffae84ff"
+              },
+              {
+                "time": 0.3,
+                "color": "ff000000"
+              }
+            ]
+          },
+          "Tex_Circle_0012": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Circle_12": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Glow_0001": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "huo/Tex_by_boom_0000_001": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffdf"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": null
+              },
+              {
+                "time": 0.2,
+                "name": "huo/Tex_by_boom_0000_001"
+              },
+              {
+                "time": 0.2667,
+                "name": "huo/Tex_by_boom_0000_002"
+              },
+              {
+                "time": 0.3,
+                "name": "huo/Tex_by_boom_0000_003"
+              },
+              {
+                "time": 0.3667,
+                "name": "huo/Tex_by_boom_0000_004"
+              },
+              {
+                "time": 0.4,
+                "name": "huo/Tex_by_boom_0000_005"
+              },
+              {
+                "time": 0.4667,
+                "name": "huo/Tex_by_boom_0000_006"
+              },
+              {
+                "time": 0.5,
+                "name": "huo/Tex_by_boom_0000_007"
+              },
+              {
+                "time": 0.5667,
+                "name": "huo/Tex_by_boom_0000_008"
+              },
+              {
+                "time": 0.6,
+                "name": "huo/Tex_by_boom_0000_009"
+              },
+              {
+                "time": 0.6333,
+                "name": "huo/Tex_by_boom_0000_010"
+              },
+              {
+                "time": 0.7,
+                "name": "huo/Tex_by_boom_0000_011"
+              },
+              {
+                "time": 0.7333,
+                "name": "huo/Tex_by_boom_0000_012"
+              },
+              {
+                "time": 0.8,
+                "name": "huo/Tex_by_boom_0000_013"
+              },
+              {
+                "time": 0.8333,
+                "name": null
+              }
+            ]
+          },
+          "huo/Tex_by_boom_0000_1": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff5b"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": null
+              },
+              {
+                "time": 0.2,
+                "name": "huo/Tex_by_boom_0000_001"
+              },
+              {
+                "time": 0.2667,
+                "name": "huo/Tex_by_boom_0000_002"
+              },
+              {
+                "time": 0.3,
+                "name": "huo/Tex_by_boom_0000_003"
+              },
+              {
+                "time": 0.3667,
+                "name": "huo/Tex_by_boom_0000_004"
+              },
+              {
+                "time": 0.4,
+                "name": "huo/Tex_by_boom_0000_005"
+              },
+              {
+                "time": 0.4667,
+                "name": "huo/Tex_by_boom_0000_006"
+              },
+              {
+                "time": 0.5,
+                "name": "huo/Tex_by_boom_0000_007"
+              },
+              {
+                "time": 0.5667,
+                "name": "huo/Tex_by_boom_0000_008"
+              },
+              {
+                "time": 0.6,
+                "name": "huo/Tex_by_boom_0000_009"
+              },
+              {
+                "time": 0.6333,
+                "name": "huo/Tex_by_boom_0000_010"
+              },
+              {
+                "time": 0.7,
+                "name": "huo/Tex_by_boom_0000_011"
+              },
+              {
+                "time": 0.7333,
+                "name": "huo/Tex_by_boom_0000_012"
+              },
+              {
+                "time": 0.8,
+                "name": "huo/Tex_by_boom_0000_013"
+              },
+              {
+                "time": 0.8333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "4": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.997,
+                "y": 0.997
+              },
+              {
+                "time": 0.8333,
+                "x": 1.5,
+                "y": 1.5
+              }
+            ]
+          },
+          "5": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.997,
+                "y": 0.997
+              },
+              {
+                "time": 0.8333,
+                "x": 1.5,
+                "y": 1.5
+              }
+            ]
+          },
+          "glow_01": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 2.919,
+                "y": 2.919
+              },
+              {
+                "time": 0.1667,
+                "x": 0.274,
+                "y": 0.274
+              }
+            ]
+          },
+          "glow_02": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.274,
+                "y": 1.274
+              }
+            ]
+          },
+          "light_01": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1.247,
+                "y": 1.247
+              },
+              {
+                "time": 0.5,
+                "x": 1.854,
+                "y": 1.854
+              }
+            ]
+          },
+          "glow_1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.274,
+                "y": 0.274,
+                "curve": [
+                  0,
+                  0.26,
+                  0.639,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 1.942,
+                "y": 1.942
+              }
+            ]
+          },
+          "light_1": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 2.318,
+                "y": 2.318
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_ptbs_yanbao.png\r\nsize: 2048,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nTex_Circle_0001\r\n  rotate: false\r\n  xy: 2, 648\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Circle_0013\r\n  rotate: false\r\n  xy: 1292, 776\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Glow_0001\r\n  rotate: false\r\n  xy: 1034, 260\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_001\r\n  rotate: false\r\n  xy: 2, 390\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_002\r\n  rotate: false\r\n  xy: 260, 648\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_003\r\n  rotate: false\r\n  xy: 2, 132\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_004\r\n  rotate: false\r\n  xy: 260, 390\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_005\r\n  rotate: false\r\n  xy: 518, 648\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_006\r\n  rotate: false\r\n  xy: 260, 132\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_007\r\n  rotate: false\r\n  xy: 518, 390\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_008\r\n  rotate: false\r\n  xy: 776, 648\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_009\r\n  rotate: false\r\n  xy: 518, 132\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_010\r\n  rotate: false\r\n  xy: 776, 390\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_011\r\n  rotate: false\r\n  xy: 1034, 648\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_012\r\n  rotate: false\r\n  xy: 776, 132\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nhuo/Tex_by_boom_0000_013\r\n  rotate: false\r\n  xy: 1034, 390\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\ntex_gg\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "fe74f5bd-2967-43c2-8e16-3ac0b9305d56"
+    }
+  ],
+  "textureNames": [
+    "fx_ptbs_yanbao.png"
+  ],
+  "scale": 1
+}

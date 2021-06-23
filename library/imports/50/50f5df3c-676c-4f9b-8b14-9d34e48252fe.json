@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_youxiangchengyuan",
+    "texture": "62fa2c1c-e4e7-4a1a-a32f-d9a591521f24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      236,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      236,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

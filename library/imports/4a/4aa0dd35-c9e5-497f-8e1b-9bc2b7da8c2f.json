@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "fx_by_csrcdh.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nfx_by_csrcdh.png\nsize: 2048,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimg_caishen\n  rotate: false\n  xy: 964, 521\n  size: 359, 356\n  orig: 359, 356\n  offset: 0, 0\n  index: -1\nimg_caishendi\n  rotate: false\n  xy: 2, 145\n  size: 945, 289\n  orig: 945, 301\n  offset: 0, 6\n  index: -1\nimg_caishenkuang\n  rotate: false\n  xy: 2, 436\n  size: 960, 540\n  orig: 960, 540\n  offset: 0, 0\n  index: -1\nimg_caishenmiaoshu\n  rotate: false\n  xy: 964, 879\n  size: 1023, 97\n  orig: 1023, 97\n  offset: 0, 0\n  index: -1\nimg_caishenmingzi\n  rotate: false\n  xy: 2, 2\n  size: 270, 141\n  orig: 270, 141\n  offset: 0, 0\n  index: -1\n"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_wzdk",
+    "texture": "0e34b59f-c11e-48e0-bd14-e2a7c0cf01a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      574,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      574,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

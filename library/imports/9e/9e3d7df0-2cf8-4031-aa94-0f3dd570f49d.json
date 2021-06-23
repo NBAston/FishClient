@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_penshen",
+    "texture": "21a5e048-0e04-436e-94e6-cba27ed48f38",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1007,
+      602
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1007,
+      602
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

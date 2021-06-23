@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bangzhifubao",
+    "texture": "cff9ba76-cc17-401e-968b-0e622da3ae83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      189,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      189,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

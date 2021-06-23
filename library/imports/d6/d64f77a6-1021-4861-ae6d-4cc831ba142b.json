@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiazhoulingqu",
+    "texture": "d525310f-7b00-490d-ad35-5a5b5463a274",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

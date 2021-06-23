@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_fenhaoyou",
+    "texture": "b85d05c8-73f4-4dfa-9d27-7e9a13bee452",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

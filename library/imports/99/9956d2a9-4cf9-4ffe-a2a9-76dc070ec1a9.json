@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zidananniu1",
+    "texture": "2e516793-54a9-48f6-b30e-978213b260ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zuixin",
+    "texture": "af20a030-00a8-4d23-b810-f9b5be51e3dd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gerenjilu_2",
+    "texture": "712f6b9e-9352-4f15-b099-7889ddb28a9d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

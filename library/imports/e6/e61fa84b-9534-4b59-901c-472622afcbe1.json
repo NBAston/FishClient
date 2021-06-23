@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull1_0x0a",
+    "texture": "307bc2d6-ca28-406f-bcd9-23d9395090a8",
+    "atlas": "d9a159d3-28db-4b5e-ab23-fe604db98ae6",
+    "rect": [
+      413,
+      943,
+      156,
+      205
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      205
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

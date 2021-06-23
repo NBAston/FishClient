@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jinbijiner",
+    "texture": "d2f9ac11-3918-478e-9c3a-8775419cac34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      117
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      116,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

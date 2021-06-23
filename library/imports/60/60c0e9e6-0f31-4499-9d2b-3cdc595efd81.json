@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_mingrilingqu",
+    "texture": "81d69245-2996-445e-b7b5-4fdf7e2b5e2a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

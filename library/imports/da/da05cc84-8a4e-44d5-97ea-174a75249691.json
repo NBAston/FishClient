@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_dajidali",
+    "texture": "da561058-2cec-4742-91e6-a361b13098cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      457,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      457,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

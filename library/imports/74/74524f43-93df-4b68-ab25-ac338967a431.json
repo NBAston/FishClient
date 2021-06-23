@@ -1,0 +1,387 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_xuanwubaozha",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "bDiYJ91IjTswIznZ0grcfrvRgzs",
+      "spine": "3.6.53",
+      "width": 2513.96,
+      "height": 1724.98,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "4",
+        "parent": "root",
+        "length": 27.29,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "glow1",
+        "parent": "root",
+        "length": 27.29,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "quan_1",
+        "parent": "4",
+        "length": 27.29,
+        "rotation": -8.65,
+        "x": 5.64,
+        "y": -18.81,
+        "scaleX": 1.539,
+        "scaleY": 0.96
+      },
+      {
+        "name": "quan_2",
+        "parent": "4",
+        "length": 27.29,
+        "rotation": 36.39,
+        "x": 171.17,
+        "y": -20.69,
+        "scaleX": 1.892,
+        "scaleY": 1.248
+      },
+      {
+        "name": "quan_3",
+        "parent": "4",
+        "length": 27.29,
+        "rotation": -140.26,
+        "x": 107.22,
+        "y": -9.4,
+        "scaleX": 1.724,
+        "scaleY": 0.927
+      },
+      {
+        "name": "quan_4",
+        "parent": "4",
+        "length": 27.29,
+        "rotation": 162.83,
+        "x": -66.16,
+        "y": -42.44,
+        "scaleX": 2.495,
+        "scaleY": 1.306
+      },
+      {
+        "name": "quan_5",
+        "parent": "4",
+        "length": 27.29,
+        "rotation": -1.92,
+        "y": -16.93,
+        "scaleX": 0.834,
+        "scaleY": 0.21
+      }
+    ],
+    "slots": [
+      {
+        "name": "glow1",
+        "bone": "glow1",
+        "attachment": "glow"
+      },
+      {
+        "name": "quan_2",
+        "bone": "quan_2",
+        "color": "ffffff8a",
+        "attachment": "quan"
+      },
+      {
+        "name": "quan_3",
+        "bone": "quan_3",
+        "color": "ffffff98",
+        "attachment": "quan"
+      },
+      {
+        "name": "quan_4",
+        "bone": "quan_4",
+        "color": "ffffffa8",
+        "attachment": "quan"
+      },
+      {
+        "name": "quan_1",
+        "bone": "quan_1",
+        "color": "ffffffd5",
+        "attachment": "quan"
+      },
+      {
+        "name": "quan_5",
+        "bone": "quan_5",
+        "attachment": "quan"
+      }
+    ],
+    "skins": {
+      "default": {
+        "glow1": {
+          "glow": {
+            "width": 307,
+            "height": 298
+          }
+        },
+        "quan_1": {
+          "quan": {
+            "width": 405,
+            "height": 406
+          }
+        },
+        "quan_2": {
+          "quan": {
+            "width": 405,
+            "height": 406
+          }
+        },
+        "quan_3": {
+          "quan": {
+            "width": 405,
+            "height": 406
+          }
+        },
+        "quan_4": {
+          "quan": {
+            "width": 405,
+            "height": 406
+          }
+        },
+        "quan_5": {
+          "quan": {
+            "width": 405,
+            "height": 406
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "glow1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.0667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "quan_1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffffce"
+              },
+              {
+                "time": 0.6333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "quan_2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff91"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "quan_3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff96"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "quan_4": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff83"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "quan_5": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "quan_1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.146,
+                "y": 0.146
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6333,
+                "x": 1.283,
+                "y": 1.283
+              }
+            ]
+          },
+          "quan_2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.146,
+                "y": 0.146
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6,
+                "x": 1.129,
+                "y": 1.129
+              }
+            ]
+          },
+          "quan_3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.146,
+                "y": 0.146
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5667,
+                "x": 1.455,
+                "y": 1.455
+              }
+            ]
+          },
+          "quan_4": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.146,
+                "y": 0.146
+              },
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6,
+                "x": 1.266,
+                "y": 1.266
+              }
+            ]
+          },
+          "quan_5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.525,
+                "y": 0.525
+              },
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5667,
+                "x": 2.046,
+                "y": 2.035
+              }
+            ]
+          },
+          "glow1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.525,
+                "y": 0.525
+              },
+              {
+                "time": 0.0667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 1.502,
+                "y": 1.502
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_xuanwubaozha.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nglow\r\n  rotate: false\r\n  xy: 409, 110\r\n  size: 307, 298\r\n  orig: 307, 298\r\n  offset: 0, 0\r\n  index: -1\r\nquan\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 405, 406\r\n  orig: 405, 406\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "898d9cf7-47ee-43ad-acdd-348dabce6dbb"
+    }
+  ],
+  "textureNames": [
+    "fx_by_xuanwubaozha.png"
+  ],
+  "scale": 1
+}

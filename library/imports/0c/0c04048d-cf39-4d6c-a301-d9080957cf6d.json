@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_jindutiaodadi",
+    "texture": "7254fcb3-af9e-48a9-bd5b-7dfc02e58f4a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      98
+    ],
+    "capInsets": [
+      25,
+      28,
+      32,
+      22
+    ]
+  }
+}

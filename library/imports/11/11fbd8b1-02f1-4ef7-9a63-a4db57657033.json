@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_duobao",
+    "texture": "9a35ca2c-2214-4660-90fb-388386696327",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      530,
+      318
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      530,
+      318
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

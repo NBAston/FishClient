@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_icon_kpqz",
+    "texture": "ed0365f3-51a2-4542-ae1d-341c6c3d345a",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      972,
+      247
+    ],
+    "offset": [
+      -23,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

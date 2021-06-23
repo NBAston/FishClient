@@ -1,0 +1,13 @@
+
+heijin_7ri_day1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xg
+  rotate: false
+  xy: 2, 2
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1

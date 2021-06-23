@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jine",
+    "texture": "0ccdd02b-7aa7-4761-8fb3-8b6860c66f60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      157
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      151,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

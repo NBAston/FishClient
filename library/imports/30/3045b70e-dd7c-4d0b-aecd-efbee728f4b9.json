@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_skillauto",
+    "texture": "12d49633-2d7b-44e7-a461-f73e32c62988",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

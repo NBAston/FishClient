@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bangka",
+    "texture": "4a210dad-bf27-4480-be60-f3785937e82d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xialang",
+    "texture": "60e9e561-ddbf-438a-aef0-097127c7e882",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

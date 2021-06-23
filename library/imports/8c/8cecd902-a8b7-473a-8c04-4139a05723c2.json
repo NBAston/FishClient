@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yunshanfu",
+    "texture": "7cedb483-7d6f-4505-ad27-8ced4efd910f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      198,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_yinsezi",
+    "texture": "e3ca9a48-efad-42eb-bb88-a54beb1c33c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      254,
+      105
+    ],
+    "offset": [
+      -1,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

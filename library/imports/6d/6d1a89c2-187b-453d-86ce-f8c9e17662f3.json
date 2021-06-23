@@ -1,0 +1,128 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_1_3pao_zha",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "HprvXtcSQ0jZk4EFazT/ssntMlk",
+      "spine": "3.6.53",
+      "width": 256,
+      "height": 256,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 21,
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "4/vv_00",
+        "bone": "bone",
+        "attachment": "4/vv_05"
+      }
+    ],
+    "skins": {
+      "default": {
+        "4/vv_00": {
+          "4/vv_00": {
+            "width": 128,
+            "height": 128
+          },
+          "4/vv_01": {
+            "width": 128,
+            "height": 128
+          },
+          "4/vv_02": {
+            "width": 128,
+            "height": 128
+          },
+          "4/vv_03": {
+            "width": 128,
+            "height": 128
+          },
+          "4/vv_04": {
+            "width": 128,
+            "height": 128
+          },
+          "4/vv_05": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "attack": {
+        "slots": {
+          "4/vv_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "4/vv_00"
+              },
+              {
+                "time": 0.0667,
+                "name": "4/vv_01"
+              },
+              {
+                "time": 0.1333,
+                "name": null
+              },
+              {
+                "time": 0.2,
+                "name": "4/vv_03"
+              },
+              {
+                "time": 0.2667,
+                "name": "4/vv_04"
+              },
+              {
+                "time": 0.3333,
+                "name": "4/vv_05"
+              },
+              {
+                "time": 0.4,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.75,
+                "y": 0.75
+              },
+              {
+                "time": 0.4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_1_3pao_zha.png\r\nsize: 1024,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n4/vv_00\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n4/vv_01\r\n  rotate: false\r\n  xy: 132, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n4/vv_02\r\n  rotate: false\r\n  xy: 262, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n4/vv_03\r\n  rotate: false\r\n  xy: 392, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n4/vv_04\r\n  rotate: false\r\n  xy: 522, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n4/vv_05\r\n  rotate: false\r\n  xy: 652, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "c6f628be-aa34-4741-b4b7-704ee2216346"
+    }
+  ],
+  "textureNames": [
+    "fx_by_1_3pao_zha.png"
+  ],
+  "scale": 1
+}

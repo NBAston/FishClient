@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_ruyizi",
+    "texture": "fa88a5de-46c4-4b14-bb32-1967b282fa37",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      254,
+      84
+    ],
+    "offset": [
+      -1,
+      4
+    ],
+    "originalSize": [
+      256,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

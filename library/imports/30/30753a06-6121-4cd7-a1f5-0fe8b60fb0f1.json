@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jubaopenzi",
+    "texture": "fd9918ac-3e79-4841-8690-b1ae95d9ab88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      485,
+      209
+    ],
+    "offset": [
+      -13.5,
+      1.5
+    ],
+    "originalSize": [
+      512,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

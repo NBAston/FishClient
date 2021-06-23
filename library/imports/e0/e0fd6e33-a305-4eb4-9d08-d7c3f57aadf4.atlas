@@ -1,0 +1,34 @@
+
+fx_by_7_9pao_zha.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_Circle_0012
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex_Circle_0020
+  rotate: false
+  xy: 2, 390
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+monk_mystic_00
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+pai_glow_00006
+  rotate: false
+  xy: 516, 646
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

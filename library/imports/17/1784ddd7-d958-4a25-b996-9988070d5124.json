@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_queding",
+    "texture": "a469644d-f390-4e45-b579-0cbddce58591",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      181,
+      83
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      182,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_titie_yeb",
+    "texture": "9e43d39b-4050-41f8-9a2b-6a2ad34716cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_titlesrtip",
+    "texture": "222dae1a-6a5f-44c3-8e2f-cbff37f11e21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      3
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      3
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

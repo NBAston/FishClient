@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_pamadengdi",
+    "texture": "70641bfe-4a24-484e-a993-63af9d59e2d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1208,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1208,
+      68
+    ],
+    "capInsets": [
+      587,
+      45,
+      531,
+      23
+    ]
+  }
+}

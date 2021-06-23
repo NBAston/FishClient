@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zonglan2",
+    "texture": "a5d864d1-8b87-48f1-8546-7fa76d8336b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

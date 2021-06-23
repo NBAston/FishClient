@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jinduding",
+    "texture": "73056dca-8054-4b56-9c6e-066882d3def6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

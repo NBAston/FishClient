@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_jinru",
+    "texture": "ca631135-ee17-4beb-909a-97bbb9756380",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      226,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      226,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

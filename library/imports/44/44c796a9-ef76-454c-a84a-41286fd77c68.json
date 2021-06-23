@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_paicai",
+    "texture": "e725ab0b-65c0-439d-a7b6-d5d5f10d12a4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

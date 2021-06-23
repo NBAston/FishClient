@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_by_jubaopen_01",
+    "texture": "9427de84-0669-4043-8fe7-7dbac2540768",
+    "atlas": "",
+    "rect": [
+      2,
+      114,
+      1284,
+      825
+    ],
+    "offset": [
+      -380,
+      -14.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

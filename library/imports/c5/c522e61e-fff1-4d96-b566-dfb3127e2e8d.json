@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_waikuang",
+    "texture": "7bf86734-bed4-47bd-a0a3-f297552d3553",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      975,
+      899
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      975,
+      899
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

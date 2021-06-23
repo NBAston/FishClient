@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_title_zhoulijin",
+    "texture": "dde01b3c-8edf-4567-80d2-c1bc5a57f1f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

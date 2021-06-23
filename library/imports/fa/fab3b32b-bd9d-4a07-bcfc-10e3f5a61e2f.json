@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_wujilu",
+    "texture": "6e009270-c458-4d35-aa1e-24bc7e138285",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

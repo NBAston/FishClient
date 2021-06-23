@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_damliang",
+    "texture": "b6bebec1-8a59-4171-8ad3-16c7d7219ef6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

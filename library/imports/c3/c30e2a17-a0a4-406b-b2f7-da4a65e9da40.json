@@ -1,0 +1,824 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_ptbs_shandian",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "lcUp/so2tLgQe+jU04q8xwCrbXE",
+      "spine": "3.6.53",
+      "width": 395.92,
+      "height": 395.92,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "2",
+        "parent": "root",
+        "length": 18.25,
+        "x": -59.06,
+        "y": 64.13
+      },
+      {
+        "name": "3",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -72.95,
+        "x": 69.25,
+        "y": 72.4
+      },
+      {
+        "name": "4",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -169.33,
+        "x": -73.52,
+        "y": -16.86,
+        "scaleX": 1.419,
+        "scaleY": 1.419
+      },
+      {
+        "name": "5",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -68.48,
+        "x": 85.87,
+        "y": -30.58
+      },
+      {
+        "name": "6",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -72.95,
+        "x": 69.25,
+        "y": 72.4
+      },
+      {
+        "name": "7",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -169.33,
+        "x": -30.47,
+        "y": 52.02,
+        "scaleX": 1.419,
+        "scaleY": 1.419
+      },
+      {
+        "name": "8",
+        "parent": "root",
+        "length": 18.25,
+        "rotation": -68.48,
+        "x": 85.87,
+        "y": -30.58
+      },
+      {
+        "name": "glow_01",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 2.211,
+        "scaleY": 2.211
+      },
+      {
+        "name": "glow_1",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 2.211,
+        "scaleY": 2.211
+      },
+      {
+        "name": "glow_02",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.547,
+        "scaleY": 1.547
+      },
+      {
+        "name": "light_01",
+        "parent": "root",
+        "length": 18.25,
+        "scaleX": 1.342,
+        "scaleY": 1.342
+      }
+    ],
+    "slots": [
+      {
+        "name": "Tex_Circle_0012",
+        "bone": "glow_01",
+        "attachment": "Tex_Circle_0012",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_12",
+        "bone": "glow_1",
+        "attachment": "Tex_Circle_0012",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Glow_0001",
+        "bone": "glow_02",
+        "attachment": "pai_glow_00006",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_0001",
+        "bone": "light_01",
+        "attachment": "Tex_Circle_0001",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Light_0002_000",
+        "bone": "2",
+        "color": "92e1ffff",
+        "attachment": "Tex_Light_0002_003",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Light_0002_2",
+        "bone": "5",
+        "color": "92e1ffff",
+        "attachment": "Tex_Light_0002_003",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Light_0002_5",
+        "bone": "8",
+        "color": "92e1ffff",
+        "attachment": "Tex_Light_0002_003",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Light_0002_0",
+        "bone": "3",
+        "color": "92e1ffff",
+        "attachment": "Tex_Light_0002_003",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Light_0002_3",
+        "bone": "6",
+        "color": "92e1ffff",
+        "attachment": "Tex_Light_0002_003",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Light_0002_1",
+        "bone": "4",
+        "color": "92e1ffff",
+        "attachment": "Tex_Light_0002_003",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Light_0002_4",
+        "bone": "7",
+        "color": "92e1ffff",
+        "attachment": "Tex_Light_0002_003",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Tex_Circle_0001": {
+          "Tex_Circle_0001": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Circle_0012": {
+          "Tex_Circle_0012": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Circle_12": {
+          "Tex_Circle_0012": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Glow_0001": {
+          "pai_glow_00006": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Light_0002_0": {
+          "Tex_Light_0002_000": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_001": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_002": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_003": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Light_0002_000": {
+          "Tex_Light_0002_000": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_001": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_002": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_003": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Light_0002_1": {
+          "Tex_Light_0002_000": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_001": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_002": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_003": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Light_0002_2": {
+          "Tex_Light_0002_000": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_001": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_002": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_003": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Light_0002_3": {
+          "Tex_Light_0002_000": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_001": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_002": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_003": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Light_0002_4": {
+          "Tex_Light_0002_000": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_001": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_002": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_003": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Light_0002_5": {
+          "Tex_Light_0002_000": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_001": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_002": {
+            "width": 128,
+            "height": 128
+          },
+          "Tex_Light_0002_003": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "Tex_Circle_0001": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "84d9ffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "00cfff00"
+              }
+            ]
+          },
+          "Tex_Circle_0012": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "1b00ff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Tex_Circle_0012"
+              }
+            ]
+          },
+          "Tex_Circle_12": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "1b00ff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Tex_Circle_0012"
+              }
+            ]
+          },
+          "Tex_Glow_0001": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Light_0002_000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.2,
+                "name": "Tex_Light_0002_001"
+              },
+              {
+                "time": 0.2333,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.2667,
+                "name": "Tex_Light_0002_003"
+              },
+              {
+                "time": 0.3,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.3333,
+                "name": null
+              }
+            ]
+          },
+          "Tex_Light_0002_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": null
+              },
+              {
+                "time": 0.3,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.3333,
+                "name": "Tex_Light_0002_003"
+              },
+              {
+                "time": 0.3667,
+                "name": "Tex_Light_0002_001"
+              },
+              {
+                "time": 0.4,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.4333,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.4667,
+                "name": null
+              }
+            ]
+          },
+          "Tex_Light_0002_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": null
+              },
+              {
+                "time": 0.2667,
+                "name": null
+              },
+              {
+                "time": 0.3,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.3667,
+                "name": "Tex_Light_0002_001"
+              },
+              {
+                "time": 0.4,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.4667,
+                "name": "Tex_Light_0002_003"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "Tex_Light_0002_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2667,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.3,
+                "name": "Tex_Light_0002_001"
+              },
+              {
+                "time": 0.3333,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.3667,
+                "name": "Tex_Light_0002_003"
+              },
+              {
+                "time": 0.4,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.4333,
+                "name": null
+              }
+            ]
+          },
+          "Tex_Light_0002_3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.6,
+                "name": "Tex_Light_0002_003"
+              },
+              {
+                "time": 0.6333,
+                "name": "Tex_Light_0002_001"
+              },
+              {
+                "time": 0.6667,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.7,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.7333,
+                "name": null
+              }
+            ]
+          },
+          "Tex_Light_0002_4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              },
+              {
+                "time": 0.6333,
+                "name": null
+              },
+              {
+                "time": 0.6667,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.7333,
+                "name": "Tex_Light_0002_001"
+              },
+              {
+                "time": 0.7667,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.8333,
+                "name": "Tex_Light_0002_003"
+              },
+              {
+                "time": 0.8667,
+                "name": null
+              }
+            ]
+          },
+          "Tex_Light_0002_5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.6333,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.6667,
+                "name": "Tex_Light_0002_001"
+              },
+              {
+                "time": 0.7,
+                "name": "Tex_Light_0002_002"
+              },
+              {
+                "time": 0.7333,
+                "name": "Tex_Light_0002_003"
+              },
+              {
+                "time": 0.7667,
+                "name": "Tex_Light_0002_000"
+              },
+              {
+                "time": 0.8,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "2": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1.331,
+                "y": 1.331
+              }
+            ]
+          },
+          "3": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1.331,
+                "y": 1.331
+              }
+            ]
+          },
+          "4": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1.331,
+                "y": 1.331
+              }
+            ]
+          },
+          "5": {
+            "scale": [
+              {
+                "time": 0.2667,
+                "x": 1.331,
+                "y": 1.331
+              }
+            ]
+          },
+          "6": {
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 1.331,
+                "y": 1.331
+              }
+            ]
+          },
+          "7": {
+            "scale": [
+              {
+                "time": 0.5333,
+                "x": 1.331,
+                "y": 1.331
+              }
+            ]
+          },
+          "8": {
+            "scale": [
+              {
+                "time": 0.6333,
+                "x": 1.331,
+                "y": 1.331
+              }
+            ]
+          },
+          "glow_01": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.458,
+                "y": 0.458,
+                "curve": [
+                  0,
+                  0.68,
+                  0.639,
+                  1
+                ]
+              },
+              {
+                "time": 0.8333,
+                "x": 1.633,
+                "y": 1.633
+              }
+            ]
+          },
+          "glow_02": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.8333,
+                "angle": -44.69
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.8333,
+                "x": 1.238,
+                "y": 1.238
+              }
+            ]
+          },
+          "light_01": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.462,
+                "y": 0.462
+              },
+              {
+                "time": 0.2333,
+                "x": 1.042,
+                "y": 1.042
+              },
+              {
+                "time": 0.5667,
+                "x": 1.854,
+                "y": 1.854
+              }
+            ]
+          },
+          "glow_1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 2.347,
+                "y": 2.347
+              },
+              {
+                "time": 0.1667,
+                "x": 0.274,
+                "y": 0.274
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_ptbs_shandian.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nTex_Circle_0001\r\n  rotate: false\r\n  xy: 2, 132\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Circle_0012\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Light_0002_000\r\n  rotate: false\r\n  xy: 518, 260\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Light_0002_001\r\n  rotate: false\r\n  xy: 132, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Light_0002_002\r\n  rotate: false\r\n  xy: 648, 260\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Light_0002_003\r\n  rotate: false\r\n  xy: 262, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\npai_glow_00006\r\n  rotate: false\r\n  xy: 260, 132\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "3f9c1e4f-3e27-419f-8f42-8a49d81c5d71"
+    }
+  ],
+  "textureNames": [
+    "fx_ptbs_shandian.png"
+  ],
+  "scale": 1
+}

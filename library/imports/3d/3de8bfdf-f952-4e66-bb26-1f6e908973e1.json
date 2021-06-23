@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fanshui",
+    "texture": "e612c70b-9457-4721-9764-cba326e6e45e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

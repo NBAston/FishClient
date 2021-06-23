@@ -1,0 +1,174 @@
+
+fx_by_yanbaobaozha.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/Tex_Fire_0005_000
+  rotate: false
+  xy: 2, 1632
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_001
+  rotate: false
+  xy: 2, 1289
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_002
+  rotate: false
+  xy: 260, 1632
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_003
+  rotate: false
+  xy: 2, 946
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_004
+  rotate: false
+  xy: 260, 1289
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_005
+  rotate: false
+  xy: 518, 1632
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_006
+  rotate: false
+  xy: 2, 603
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_007
+  rotate: false
+  xy: 260, 946
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_008
+  rotate: false
+  xy: 518, 1289
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_009
+  rotate: false
+  xy: 776, 1632
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_010
+  rotate: false
+  xy: 2, 260
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_011
+  rotate: false
+  xy: 260, 603
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_012
+  rotate: false
+  xy: 518, 946
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_013
+  rotate: false
+  xy: 776, 1289
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_014
+  rotate: false
+  xy: 1034, 1632
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_015
+  rotate: false
+  xy: 260, 260
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_016
+  rotate: true
+  xy: 2, 2
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_017
+  rotate: false
+  xy: 518, 603
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_018
+  rotate: false
+  xy: 776, 946
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_019
+  rotate: false
+  xy: 1034, 1289
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_020
+  rotate: false
+  xy: 1292, 1632
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_021
+  rotate: false
+  xy: 518, 260
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+1/Tex_Fire_0005_022
+  rotate: true
+  xy: 345, 2
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+Tex_Glow_0001
+  rotate: false
+  xy: 776, 816
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

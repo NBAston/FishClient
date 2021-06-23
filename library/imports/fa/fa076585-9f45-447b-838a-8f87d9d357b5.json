@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yinyuetiaodi",
+    "texture": "c786352d-daef-4e3b-a9ae-4d8586091196",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      690,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      690,
+      50
+    ],
+    "capInsets": [
+      42,
+      21,
+      55,
+      21
+    ]
+  }
+}

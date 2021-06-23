@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "luckDrawCoinMove",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": null
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "615c68d4-c16a-4498-9a34-8a98f9589a5d"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "2aa5e6ef-c469-4a64-83e0-4cca87c44b6a"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0b785f0d-2e0b-4440-b553-13f27257f736"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "0d611167-5d1f-4724-8b30-34a1f333cb40"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "627f1c87-fedf-4baa-a4d1-1abe443341f0"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ab66e9e0-b541-4cb5-b981-fbf2e0a90edb"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "9b376528-5929-4f50-854c-15d5a2284d18"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "6ae945f2-9dbb-4efe-9ad3-cbbcbf91aeb4"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "420df7df-30aa-4556-b683-3fda3d1c6167"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "eec1b709-f137-4c77-be5c-19bbc3cb12ee"
+            }
+          },
+          {
+            "frame": 0.9166666666666666,
+            "value": {
+              "__uuid__": "ca468fcd-31ea-48ec-92ff-7dc8f956d4ef"
+            }
+          },
+          {
+            "frame": 1,
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

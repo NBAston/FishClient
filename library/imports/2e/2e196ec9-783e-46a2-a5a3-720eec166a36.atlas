@@ -1,0 +1,41 @@
+
+fx_by_xianjianxialuo.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie
+  rotate: false
+  xy: 1316, 47
+  size: 255, 68
+  orig: 255, 68
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 2, 2
+  size: 113, 386
+  orig: 113, 386
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 390, 2
+  size: 113, 386
+  orig: 113, 386
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: true
+  xy: 778, 2
+  size: 113, 267
+  orig: 113, 267
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: true
+  xy: 1047, 2
+  size: 113, 267
+  orig: 113, 267
+  offset: 0, 0
+  index: -1

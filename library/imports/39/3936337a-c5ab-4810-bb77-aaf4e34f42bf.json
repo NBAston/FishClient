@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ing_ditiao",
+    "texture": "c8996343-5594-4ce9-9833-ac97d9279131",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      93
+    ],
+    "capInsets": [
+      27,
+      22,
+      24,
+      25
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_huangdi",
+    "texture": "26a47813-460a-47b7-8ab5-53434cedfb90",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      317,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      317,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

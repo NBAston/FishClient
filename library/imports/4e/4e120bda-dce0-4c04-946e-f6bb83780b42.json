@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_gaijipaotaijiner",
+    "texture": "7d27803e-de95-4d40-897f-b03ee78ce2c3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      128
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      115,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+
+heijin_7ri_renwu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biy
+  rotate: false
+  xy: 1645, 121
+  size: 141, 71
+  orig: 141, 71
+  offset: 0, 0
+  index: -1
+fj
+  rotate: true
+  xy: 1638, 194
+  size: 100, 187
+  orig: 100, 187
+  offset: 0, 0
+  index: -1
+fj1
+  rotate: false
+  xy: 333, 17
+  size: 211, 144
+  orig: 211, 144
+  offset: 0, 0
+  index: -1
+fj2
+  rotate: false
+  xy: 1931, 286
+  size: 100, 224
+  orig: 100, 224
+  offset: 0, 0
+  index: -1
+qb
+  rotate: true
+  xy: 546, 2
+  size: 112, 216
+  orig: 112, 216
+  offset: 0, 0
+  index: -1
+sb
+  rotate: true
+  xy: 1638, 296
+  size: 214, 291
+  orig: 214, 291
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 33
+  size: 329, 477
+  orig: 329, 477
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 764, 39
+  size: 159, 75
+  orig: 159, 75
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 944, 87
+  size: 230, 220
+  orig: 230, 220
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 1176, 94
+  size: 126, 213
+  orig: 126, 213
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: true
+  xy: 1031, 309
+  size: 201, 303
+  orig: 201, 303
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 674, 334
+  size: 176, 355
+  orig: 176, 355
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 1458, 164
+  size: 113, 170
+  orig: 113, 170
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: false
+  xy: 1304, 137
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+tf5
+  rotate: false
+  xy: 1554, 23
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1
+tf6
+  rotate: false
+  xy: 1645, 72
+  size: 137, 47
+  orig: 137, 47
+  offset: 0, 0
+  index: -1
+xs
+  rotate: false
+  xy: 674, 116
+  size: 268, 216
+  orig: 268, 216
+  offset: 0, 0
+  index: -1
+yaod
+  rotate: true
+  xy: 1336, 279
+  size: 231, 300
+  orig: 231, 300
+  offset: 0, 0
+  index: -1
+yaod1
+  rotate: true
+  xy: 1304, 2
+  size: 133, 157
+  orig: 133, 157
+  offset: 0, 0
+  index: -1
+yaod2
+  rotate: false
+  xy: 1827, 171
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+zhuj
+  rotate: true
+  xy: 1463, 2
+  size: 160, 89
+  orig: 160, 89
+  offset: 0, 0
+  index: -1
+zhuj1
+  rotate: false
+  xy: 1645, 20
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+zhuj2
+  rotate: true
+  xy: 1024, 14
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+zhuj3
+  rotate: true
+  xy: 925, 13
+  size: 72, 97
+  orig: 72, 97
+  offset: 0, 0
+  index: -1
+zj
+  rotate: false
+  xy: 1915, 173
+  size: 63, 111
+  orig: 63, 111
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 333, 163
+  size: 339, 347
+  orig: 339, 347
+  offset: 0, 0
+  index: -1

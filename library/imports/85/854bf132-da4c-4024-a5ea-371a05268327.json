@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chongzhijilu",
+    "texture": "68c105c5-b767-4b5d-bb88-141c47e2cd84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_nrdk",
+    "texture": "1a89ca84-200e-4b18-accc-767b2fb31caf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1318,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1318,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

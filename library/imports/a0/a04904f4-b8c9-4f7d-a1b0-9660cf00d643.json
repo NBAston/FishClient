@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_caipiao2",
+    "texture": "bc44d325-fa57-451c-9a14-d79391aded72",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_neironbiaoti",
+    "texture": "7f7b7975-f7a6-4f17-8ecf-8ec96f87447f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1129,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1129,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

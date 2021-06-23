@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_goldcoinchest",
+    "texture": "806a6054-a31e-4ee9-a178-eae40af0e3d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      361,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      361,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_xiangxibeishu",
+    "texture": "cebe0162-bd0b-4d59-829d-095f81e7ecb8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      69
+    ],
+    "offset": [
+      -1.5,
+      3.5
+    ],
+    "originalSize": [
+      128,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

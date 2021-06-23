@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tex_by_yclx_f",
+    "texture": "2adcb7e7-7996-4505-bbc2-668e090dd86a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      371,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      371,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+
+zyxrk_bu_guibingfang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike
+  rotate: true
+  xy: 469, 201
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: true
+  xy: 469, 84
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 469, 135
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 24
+  size: 377, 486
+  orig: 377, 486
+  offset: 0, 0
+  index: -1
+haizao1
+  rotate: true
+  xy: 542, 382
+  size: 59, 240
+  orig: 59, 240
+  offset: 0, 0
+  index: -1
+haizao2
+  rotate: true
+  xy: 813, 469
+  size: 41, 125
+  orig: 41, 125
+  offset: 0, 0
+  index: -1
+img_putongfang
+  rotate: true
+  xy: 381, 66
+  size: 216, 86
+  orig: 216, 86
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 381, 2
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: true
+  xy: 940, 470
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 680, 323
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+jinbi4
+  rotate: true
+  xy: 784, 345
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+jinbi5
+  rotate: false
+  xy: 784, 390
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 381, 41
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+sidai
+  rotate: false
+  xy: 542, 443
+  size: 269, 67
+  orig: 269, 67
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 680, 261
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 739, 329
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+yanshi
+  rotate: true
+  xy: 542, 247
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 381, 284
+  size: 159, 226
+  orig: 159, 226
+  offset: 0, 0
+  index: -1

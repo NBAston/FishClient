@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_typeweixuan",
+    "texture": "5c72ffa5-8328-49a1-9390-6e18d1cd89ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      241,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      241,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

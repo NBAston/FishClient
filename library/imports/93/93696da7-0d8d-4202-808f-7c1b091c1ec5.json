@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bilishuomingbiaoti",
+    "texture": "40134493-8d67-494c-b5b3-a49b650df7cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      342,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      342,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

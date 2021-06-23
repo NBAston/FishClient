@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jinershuzi",
+    "texture": "6b5a6231-795a-41a9-bebe-90e0afbdab12",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      250
+    ],
+    "offset": [
+      -10,
+      3
+    ],
+    "originalSize": [
+      128,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

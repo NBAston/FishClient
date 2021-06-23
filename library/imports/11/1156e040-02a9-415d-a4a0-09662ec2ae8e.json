@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "corner_mark.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "img_corner_mark0": {
+      "__uuid__": "ca3fc516-14ab-4d6d-a5a5-7e3f236ad6d8"
+    },
+    "img_corner_mark1": {
+      "__uuid__": "291c4c26-f16c-4f8e-bf4c-20150a504ce0"
+    },
+    "img_corner_mark2": {
+      "__uuid__": "e6633687-904b-4fd4-99a7-4771b9b2a146"
+    },
+    "img_corner_mark3": {
+      "__uuid__": "cc45e3f4-4103-4912-b10d-35d96cd2f9fd"
+    },
+    "img_corner_mark4": {
+      "__uuid__": "ea15036a-09f0-4f0e-9957-99069ea16633"
+    }
+  }
+}

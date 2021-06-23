@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tequanweixuan",
+    "texture": "cded031c-7855-4b74-82a1-fdad87a281a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

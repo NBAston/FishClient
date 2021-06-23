@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_paomadengdi",
+    "texture": "80c168be-7624-445b-b890-38073d01bc6a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      939,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      939,
+      36
+    ],
+    "capInsets": [
+      400,
+      18,
+      400,
+      18
+    ]
+  }
+}

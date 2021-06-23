@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_youxi",
+    "texture": "938db306-5a7a-4959-bd13-147cea0e0314",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

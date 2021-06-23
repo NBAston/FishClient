@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_tiqushouyi",
+    "texture": "2fbb4f78-4e04-4e0c-965f-15c4d1818f1e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      233,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

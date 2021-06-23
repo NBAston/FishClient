@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tongdao",
+    "texture": "a28f6cfa-34da-4e77-8a08-b75195575ed5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

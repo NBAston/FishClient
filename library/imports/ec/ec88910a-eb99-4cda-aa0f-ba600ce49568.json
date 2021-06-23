@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_biaoti",
+    "texture": "f2bb906d-bd48-4cd7-8dad-7223665850a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      298,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      298,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

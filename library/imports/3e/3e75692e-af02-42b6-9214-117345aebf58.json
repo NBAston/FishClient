@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_nomal",
+    "texture": "d8569121-cb77-4778-bda9-e3077bf52ec3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yiduijinbi",
+    "texture": "7532d727-c873-4f4d-8efe-d228f241fb9f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

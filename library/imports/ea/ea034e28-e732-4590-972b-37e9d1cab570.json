@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_meiri_2",
+    "texture": "d11bcd7b-de56-4b63-86e5-a76b92ff202a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

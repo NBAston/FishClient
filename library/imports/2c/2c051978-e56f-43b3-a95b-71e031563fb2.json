@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_bilishuoming",
+    "texture": "695586d3-632e-4cd8-8133-3426bb2ff47d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      272,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

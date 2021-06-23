@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shuoming",
+    "texture": "e423baa2-6616-44e3-838d-796b28d367e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      236,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      236,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

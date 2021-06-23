@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_popularzeicon6",
+    "texture": "c1452d68-84ff-4a04-a693-1d9c8eb3018e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

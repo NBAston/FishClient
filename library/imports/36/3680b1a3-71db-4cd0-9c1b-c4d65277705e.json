@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_tiquyongjin",
+    "texture": "284c0224-651a-4c3a-ab5f-b7ef0e8d1114",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

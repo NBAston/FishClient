@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lishiyongjin",
+    "texture": "7f4b755d-97d3-4aed-974d-08fc489dd9e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      747,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      747,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

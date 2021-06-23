@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_weihugonggao",
+    "texture": "86fcded3-7c70-43e0-b926-881b46043136",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

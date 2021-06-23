@@ -1,0 +1,9 @@
+{
+  "__type__": "cc.ParticleAsset",
+  "_name": "publicButtonPariticle",
+  "_objFlags": 0,
+  "_native": ".plist",
+  "spriteFrame": {
+    "__uuid__": "79c4e2b3-b434-4f4e-b0ca-15ce882a7d99"
+  }
+}

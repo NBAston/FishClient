@@ -1,0 +1,55 @@
+
+heijin_huodejiangli5.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k01/k_00
+  rotate: false
+  xy: 2, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+k01/k_01
+  rotate: false
+  xy: 117, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+k01/k_02
+  rotate: false
+  xy: 232, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+k01/k_03
+  rotate: false
+  xy: 347, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+k01/k_04
+  rotate: false
+  xy: 462, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+k01/k_05
+  rotate: false
+  xy: 577, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+k01/k_06
+  rotate: false
+  xy: 692, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_Signqq",
+    "texture": "73365858-f41c-4238-bda1-0fe35667fd65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      179
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

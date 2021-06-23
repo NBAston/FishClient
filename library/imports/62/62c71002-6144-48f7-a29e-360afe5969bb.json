@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_zijinzonge",
+    "texture": "274f5ff1-42dd-4f28-ab2a-898ab62c9374",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      148
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      147,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shurujine",
+    "texture": "44446a27-c5eb-42b6-9e52-b194a2bed4cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      374,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      374,
+      68
+    ],
+    "capInsets": [
+      58,
+      44,
+      60,
+      24
+    ]
+  }
+}

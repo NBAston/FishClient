@@ -1,0 +1,153 @@
+
+heijin_icon_21d.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21dian
+  rotate: false
+  xy: 657, 908
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: true
+  xy: 2, 424
+  size: 303, 148
+  orig: 303, 148
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_00
+  rotate: true
+  xy: 2, 2
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_01
+  rotate: false
+  xy: 346, 604
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_02
+  rotate: false
+  xy: 152, 402
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_03
+  rotate: false
+  xy: 135, 276
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_04
+  rotate: false
+  xy: 135, 150
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_05
+  rotate: false
+  xy: 128, 24
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_06
+  rotate: true
+  xy: 559, 731
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_07
+  rotate: false
+  xy: 346, 478
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_08
+  rotate: true
+  xy: 498, 578
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_09
+  rotate: false
+  xy: 498, 452
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+hg_light/hgadd_10
+  rotate: true
+  xy: 624, 579
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 2, 729
+  size: 299, 248
+  orig: 299, 248
+  offset: 0, 0
+  index: -1
+jinbi01
+  rotate: false
+  xy: 787, 896
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+jinbi02
+  rotate: false
+  xy: 870, 908
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+puke01
+  rotate: true
+  xy: 2, 154
+  size: 268, 131
+  orig: 268, 131
+  offset: 0, 0
+  index: -1
+puke02
+  rotate: false
+  xy: 303, 730
+  size: 254, 151
+  orig: 254, 151
+  offset: 0, 0
+  index: -1
+xg
+  rotate: true
+  xy: 152, 528
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+xx_512
+  rotate: true
+  xy: 650, 477
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 303, 883
+  size: 352, 94
+  orig: 352, 94
+  offset: 0, 0
+  index: -1

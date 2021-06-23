@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_wangjimima",
+    "texture": "1f3bfc57-7275-4bf4-82b1-a74bd191d324",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      246,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

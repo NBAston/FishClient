@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_difenshuzier_0",
+    "texture": "30d4aa6f-dc44-423b-9ce8-4e93309fd492",
+    "atlas": "",
+    "rect": [
+      8,
+      8,
+      399,
+      29
+    ],
+    "offset": [
+      -304.5,
+      105.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

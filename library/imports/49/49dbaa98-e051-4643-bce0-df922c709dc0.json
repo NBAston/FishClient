@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_ptbs_longxi",
+    "texture": "5a722cb8-8a58-49e0-b03a-a924cd864ba9",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1201,
+      480
+    ],
+    "offset": [
+      -420.5,
+      13
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_huanjinjifen",
+    "texture": "f566fa36-edb2-4c47-8414-e35cad2396a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      112
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      122,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+
+heijin_icon_pj.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures_1664
+  rotate: false
+  xy: 2, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+andi
+  rotate: false
+  xy: 260, 254
+  size: 134, 160
+  orig: 134, 160
+  offset: 0, 0
+  index: -1
+hua01
+  rotate: true
+  xy: 368, 77
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1
+hua03
+  rotate: true
+  xy: 739, 422
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_000
+  rotate: false
+  xy: 396, 286
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_001
+  rotate: false
+  xy: 526, 286
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_002
+  rotate: false
+  xy: 656, 292
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_003
+  rotate: false
+  xy: 704, 162
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_004
+  rotate: false
+  xy: 786, 292
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_005
+  rotate: false
+  xy: 704, 32
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_006
+  rotate: false
+  xy: 834, 162
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hudie/Fx_Object_2008_007
+  rotate: false
+  xy: 834, 32
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 2, 3
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+paijiu01
+  rotate: true
+  xy: 2, 47
+  size: 205, 197
+  orig: 205, 197
+  offset: 0, 0
+  index: -1
+paijiu02
+  rotate: false
+  xy: 540, 104
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+tuipaijiu
+  rotate: false
+  xy: 368, 5
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+yezi003
+  rotate: false
+  xy: 62, 20
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+yezi004
+  rotate: false
+  xy: 627, 17
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+yezi01
+  rotate: false
+  xy: 540, 2
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+yezi02
+  rotate: true
+  xy: 599, 422
+  size: 88, 138
+  orig: 88, 138
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 201, 15
+  size: 165, 237
+  orig: 165, 237
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 260, 416
+  size: 337, 94
+  orig: 337, 94
+  offset: 0, 0
+  index: -1

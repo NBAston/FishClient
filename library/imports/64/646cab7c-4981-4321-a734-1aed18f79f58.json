@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_yinyue",
+    "texture": "cc521499-10f2-4c81-8fcc-0d1248018b0a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

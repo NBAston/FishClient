@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_chakan",
+    "texture": "8ecfc5f1-877b-4a08-b9cf-4f1eebb98ba7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

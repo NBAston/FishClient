@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_guanggaodi",
+    "texture": "c3ae2f94-dcd8-45c9-943d-4e3bd2540bac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      382,
+      567
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      382,
+      567
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

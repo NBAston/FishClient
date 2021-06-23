@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_duobaoshuoming_2",
+    "texture": "49085c98-5245-41be-9930-974f7a1ea80f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

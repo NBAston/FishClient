@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fangkuai",
+    "texture": "1e95264c-68bd-49aa-aa09-8f3fa48be7d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

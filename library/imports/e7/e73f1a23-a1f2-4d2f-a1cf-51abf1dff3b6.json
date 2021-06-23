@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_teshuyu1",
+    "texture": "17744cdc-2ac3-4b6c-84e5-3353c8c97a93",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

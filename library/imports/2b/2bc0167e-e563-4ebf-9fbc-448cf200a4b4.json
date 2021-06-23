@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bangzi",
+    "texture": "5c11e85c-2ba0-4b8f-b4c6-2a277278cde1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      227,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      227,
+      113
+    ],
+    "capInsets": [
+      100,
+      50,
+      100,
+      50
+    ]
+  }
+}

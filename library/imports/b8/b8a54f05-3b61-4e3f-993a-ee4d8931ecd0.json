@@ -1,0 +1,428 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "heijin_jfdb_baiyin",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "xFw3c3UBzU0zKhxBHAz+2FfIn1U",
+      "spine": "3.6.53",
+      "width": 1287.75,
+      "height": 1287.75,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "main_xyzp_effect_2b",
+        "scaleX": 0.75,
+        "scaleY": 0.75
+      },
+      {
+        "name": "guangquan",
+        "parent": "main_xyzp_effect_2b",
+        "scaleX": 4.249,
+        "scaleY": 4.249
+      },
+      {
+        "name": "guangquan1",
+        "parent": "main_xyzp_effect_2b",
+        "scaleX": 4.25,
+        "scaleY": 4.25
+      },
+      {
+        "name": "ssd",
+        "parent": "guangquan1",
+        "x": -5.19,
+        "y": -0.96,
+        "scaleX": 1.35,
+        "scaleY": 1.35
+      }
+    ],
+    "slots": [
+      {
+        "name": "a1",
+        "bone": "main_xyzp_effect_2b"
+      },
+      {
+        "name": "guangquan01",
+        "bone": "guangquan",
+        "attachment": "guangquan01",
+        "blend": "additive"
+      },
+      {
+        "name": "guangquan011",
+        "bone": "guangquan1",
+        "attachment": "guangquan01",
+        "blend": "additive"
+      },
+      {
+        "name": "ssd_0000",
+        "bone": "ssd",
+        "attachment": "sd02/ssd_0004",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "guangquan01": {
+          "guangquan01": {
+            "width": 303,
+            "height": 303
+          },
+          "guangquan02": {
+            "width": 350,
+            "height": 350
+          }
+        },
+        "guangquan011": {
+          "guangquan01": {
+            "width": 303,
+            "height": 303
+          }
+        },
+        "ssd_0000": {
+          "sd02/ssd_0000": {
+            "width": 214,
+            "height": 204
+          },
+          "sd02/ssd_0004": {
+            "width": 208,
+            "height": 203
+          },
+          "sd02/ssd_0008": {
+            "width": 222,
+            "height": 217
+          },
+          "sd02/ssd_0012": {
+            "width": 218,
+            "height": 222
+          },
+          "sd02/ssd_0016": {
+            "width": 226,
+            "height": 219
+          },
+          "sd02/ssd_0020": {
+            "width": 228,
+            "height": 219
+          },
+          "sd02/ssd_0024": {
+            "width": 219,
+            "height": 215
+          },
+          "sd02/ssd_0028": {
+            "width": 227,
+            "height": 215
+          }
+        }
+      }
+    },
+    "animations": {
+      "Animation": {
+        "slots": {
+          "guangquan01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5667,
+                "color": "ffffff75"
+              },
+              {
+                "time": 1.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.0333,
+                "color": "ffffff75"
+              },
+              {
+                "time": 2.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.4,
+                "color": "ffffff75"
+              },
+              {
+                "time": 2.5333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.7333,
+                "color": "ffffff75"
+              },
+              {
+                "time": 2.9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3.2,
+                "color": "ffffff75"
+              },
+              {
+                "time": 3.5,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "guangquan01"
+              },
+              {
+                "time": 0.6667,
+                "name": "guangquan02"
+              }
+            ]
+          },
+          "guangquan011": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3667,
+                "color": "ffffff7f"
+              },
+              {
+                "time": 1.5667,
+                "color": "ffffff4d"
+              },
+              {
+                "time": 1.8,
+                "color": "ffffff7f"
+              },
+              {
+                "time": 2.0333,
+                "color": "ffffff75"
+              },
+              {
+                "time": 2.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.4,
+                "color": "ffffff4d"
+              },
+              {
+                "time": 2.5333,
+                "color": "ffffff96"
+              },
+              {
+                "time": 2.7333,
+                "color": "ffffff4d"
+              },
+              {
+                "time": 2.9,
+                "color": "ffffff7f"
+              },
+              {
+                "time": 3.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "ssd_0000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3.5,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "sd02/ssd_0004"
+              },
+              {
+                "time": 0.1,
+                "name": "sd02/ssd_0000"
+              },
+              {
+                "time": 0.2,
+                "name": "sd02/ssd_0004"
+              },
+              {
+                "time": 0.3,
+                "name": "sd02/ssd_0008"
+              },
+              {
+                "time": 0.4,
+                "name": "sd02/ssd_0012"
+              },
+              {
+                "time": 0.5,
+                "name": "sd02/ssd_0016"
+              },
+              {
+                "time": 0.6,
+                "name": "sd02/ssd_0020"
+              },
+              {
+                "time": 0.7,
+                "name": "sd02/ssd_0024"
+              },
+              {
+                "time": 0.8,
+                "name": "sd02/ssd_0028"
+              },
+              {
+                "time": 0.9,
+                "name": "sd02/ssd_0000"
+              },
+              {
+                "time": 1,
+                "name": "sd02/ssd_0004"
+              },
+              {
+                "time": 1.1,
+                "name": "sd02/ssd_0008"
+              },
+              {
+                "time": 1.2,
+                "name": "sd02/ssd_0012"
+              },
+              {
+                "time": 1.3,
+                "name": "sd02/ssd_0016"
+              },
+              {
+                "time": 1.4,
+                "name": "sd02/ssd_0020"
+              },
+              {
+                "time": 1.5,
+                "name": "sd02/ssd_0024"
+              },
+              {
+                "time": 1.6,
+                "name": "sd02/ssd_0028"
+              },
+              {
+                "time": 1.7,
+                "name": "sd02/ssd_0000"
+              },
+              {
+                "time": 1.8,
+                "name": "sd02/ssd_0004"
+              },
+              {
+                "time": 1.9,
+                "name": "sd02/ssd_0008"
+              },
+              {
+                "time": 2,
+                "name": "sd02/ssd_0012"
+              },
+              {
+                "time": 2.1,
+                "name": "sd02/ssd_0016"
+              },
+              {
+                "time": 2.2,
+                "name": "sd02/ssd_0020"
+              },
+              {
+                "time": 2.3,
+                "name": "sd02/ssd_0024"
+              },
+              {
+                "time": 2.4,
+                "name": "sd02/ssd_0028"
+              },
+              {
+                "time": 2.5,
+                "name": "sd02/ssd_0000"
+              },
+              {
+                "time": 2.6,
+                "name": "sd02/ssd_0004"
+              },
+              {
+                "time": 2.7,
+                "name": "sd02/ssd_0008"
+              },
+              {
+                "time": 2.8,
+                "name": "sd02/ssd_0012"
+              },
+              {
+                "time": 2.9,
+                "name": "sd02/ssd_0016"
+              },
+              {
+                "time": 3,
+                "name": "sd02/ssd_0020"
+              },
+              {
+                "time": 3.1,
+                "name": "sd02/ssd_0024"
+              },
+              {
+                "time": 3.2,
+                "name": "sd02/ssd_0028"
+              },
+              {
+                "time": 3.3,
+                "name": "sd02/ssd_0000"
+              },
+              {
+                "time": 3.4,
+                "name": "sd02/ssd_0004"
+              },
+              {
+                "time": 3.5,
+                "name": "sd02/ssd_0008"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nheijin_jfdb_baiyin.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nguangquan01\r\n  rotate: false\r\n  xy: 2, 223\r\n  size: 303, 303\r\n  orig: 303, 303\r\n  offset: 0, 0\r\n  index: -1\r\nguangquan02\r\n  rotate: false\r\n  xy: 2, 528\r\n  size: 350, 350\r\n  orig: 350, 350\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0000\r\n  rotate: true\r\n  xy: 813, 664\r\n  size: 214, 204\r\n  orig: 214, 204\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0004\r\n  rotate: true\r\n  xy: 451, 10\r\n  size: 208, 203\r\n  orig: 208, 203\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0008\r\n  rotate: false\r\n  xy: 354, 440\r\n  size: 222, 217\r\n  orig: 222, 217\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0012\r\n  rotate: true\r\n  xy: 307, 220\r\n  size: 218, 222\r\n  orig: 218, 222\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0016\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 226, 219\r\n  orig: 226, 219\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0020\r\n  rotate: false\r\n  xy: 354, 659\r\n  size: 228, 219\r\n  orig: 228, 219\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0024\r\n  rotate: false\r\n  xy: 230, 3\r\n  size: 219, 215\r\n  orig: 219, 215\r\n  offset: 0, 0\r\n  index: -1\r\nsd02/ssd_0028\r\n  rotate: false\r\n  xy: 584, 663\r\n  size: 227, 215\r\n  orig: 227, 215\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "612d659f-3b85-476e-8ab8-f2234e9e37b2"
+    }
+  ],
+  "textureNames": [
+    "heijin_jfdb_baiyin.png"
+  ],
+  "scale": 1
+}

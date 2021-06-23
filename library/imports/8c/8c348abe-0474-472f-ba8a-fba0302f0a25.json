@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fengelang",
+    "texture": "c271d9f3-a028-41ab-911f-235f104d3b7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      839,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      839,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

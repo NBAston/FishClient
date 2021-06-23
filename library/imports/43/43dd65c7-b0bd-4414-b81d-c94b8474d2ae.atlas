@@ -1,0 +1,76 @@
+
+zjm_haoyouyaoqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_lv
+  rotate: false
+  xy: 2, 308
+  size: 167, 138
+  orig: 167, 138
+  offset: 0, 0
+  index: -1
+img_yqhy
+  rotate: false
+  xy: 119, 99
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+lvse/lvse_00
+  rotate: false
+  xy: 2, 206
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+lvse/lvse_07
+  rotate: false
+  xy: 2, 206
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+lvse/lvse_01
+  rotate: false
+  xy: 171, 346
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+lvse/lvse_02
+  rotate: false
+  xy: 2, 104
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+lvse/lvse_03
+  rotate: false
+  xy: 288, 346
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+lvse/lvse_04
+  rotate: false
+  xy: 2, 2
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+lvse/lvse_05
+  rotate: true
+  xy: 405, 331
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+lvse/lvse_06
+  rotate: true
+  xy: 119, 191
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1

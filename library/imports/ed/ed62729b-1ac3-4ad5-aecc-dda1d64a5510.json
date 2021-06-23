@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_silver",
+    "texture": "9f7b93d4-b599-46e4-a39d-9ac87e72d71a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jieang",
+    "texture": "2d2a365a-7eab-48db-860b-b2c8c6a57dae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      279,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

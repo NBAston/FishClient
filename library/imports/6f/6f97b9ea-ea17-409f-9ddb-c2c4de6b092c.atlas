@@ -1,0 +1,27 @@
+
+fx_by_jubaopen_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+33_00
+  rotate: false
+  xy: 2, 306
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+Ef_Glow083
+  rotate: false
+  xy: 568, 614
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+img_light_er
+  rotate: false
+  xy: 2, 2
+  size: 301, 302
+  orig: 301, 302
+  offset: 0, 0
+  index: -1

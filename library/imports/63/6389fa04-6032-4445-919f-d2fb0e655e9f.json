@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_baocun",
+    "texture": "585da70f-b206-4104-a2f6-8a13a6d43bcb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      207,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "fWnJocjq0H8Q2RxaH22+FAd/JEc",
+      "spine": "3.6.48",
+      "width": 310,
+      "height": 480
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "1_00",
+        "bone": "bone",
+        "attachment": "1_20"
+      },
+      {
+        "name": "1_15",
+        "bone": "root"
+      },
+      {
+        "name": "1_16",
+        "bone": "root"
+      },
+      {
+        "name": "1_17",
+        "bone": "root"
+      },
+      {
+        "name": "1_18",
+        "bone": "root"
+      },
+      {
+        "name": "1_19",
+        "bone": "root"
+      },
+      {
+        "name": "1_20",
+        "bone": "root"
+      }
+    ],
+    "skins": {
+      "default": {
+        "1_00": {
+          "1_00": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_01": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_02": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_03": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_04": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_05": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_06": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_07": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_08": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_09": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_10": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_11": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_12": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_13": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_14": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_15": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_16": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_17": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_18": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_19": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          },
+          "1_20": {
+            "y": 6.5,
+            "width": 310,
+            "height": 480
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "1_00": {
+            "attachment": [
+              {
+                "time": 0.0833,
+                "name": "1_01"
+              },
+              {
+                "time": 0.1667,
+                "name": "1_02"
+              },
+              {
+                "time": 0.25,
+                "name": "1_03"
+              },
+              {
+                "time": 0.3333,
+                "name": "1_04"
+              },
+              {
+                "time": 0.4167,
+                "name": "1_05"
+              },
+              {
+                "time": 0.5,
+                "name": "1_06"
+              },
+              {
+                "time": 0.5833,
+                "name": "1_07"
+              },
+              {
+                "time": 0.6667,
+                "name": "1_08"
+              },
+              {
+                "time": 0.75,
+                "name": "1_09"
+              },
+              {
+                "time": 0.8333,
+                "name": "1_10"
+              },
+              {
+                "time": 0.9167,
+                "name": "1_11"
+              },
+              {
+                "time": 1,
+                "name": "1_12"
+              },
+              {
+                "time": 1.0833,
+                "name": "1_13"
+              },
+              {
+                "time": 1.1667,
+                "name": "1_14"
+              },
+              {
+                "time": 1.25,
+                "name": "1_15"
+              },
+              {
+                "time": 1.3333,
+                "name": "1_16"
+              },
+              {
+                "time": 1.4167,
+                "name": "1_17"
+              },
+              {
+                "time": 1.5,
+                "name": "1_18"
+              },
+              {
+                "time": 1.5833,
+                "name": "1_19"
+              },
+              {
+                "time": 1.6667,
+                "name": "1_20"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nskeleton.png\r\nsize: 2048,2048\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1_00\r\n  rotate: false\r\n  xy: 2, 1448\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_01\r\n  rotate: false\r\n  xy: 2, 966\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_02\r\n  rotate: false\r\n  xy: 314, 1448\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_03\r\n  rotate: false\r\n  xy: 2, 484\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_04\r\n  rotate: false\r\n  xy: 314, 966\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_05\r\n  rotate: false\r\n  xy: 626, 1448\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_06\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_07\r\n  rotate: false\r\n  xy: 314, 484\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_08\r\n  rotate: false\r\n  xy: 626, 966\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_09\r\n  rotate: false\r\n  xy: 938, 1448\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_10\r\n  rotate: false\r\n  xy: 314, 2\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_11\r\n  rotate: false\r\n  xy: 626, 484\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_12\r\n  rotate: false\r\n  xy: 938, 966\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_13\r\n  rotate: false\r\n  xy: 1250, 1448\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_14\r\n  rotate: false\r\n  xy: 626, 2\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_15\r\n  rotate: false\r\n  xy: 938, 484\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_16\r\n  rotate: false\r\n  xy: 1250, 966\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_17\r\n  rotate: false\r\n  xy: 1562, 1448\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_18\r\n  rotate: false\r\n  xy: 938, 2\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_19\r\n  rotate: false\r\n  xy: 1250, 484\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n1_20\r\n  rotate: false\r\n  xy: 1562, 966\r\n  size: 310, 480\r\n  orig: 310, 480\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "3f15113a-1e0b-414c-9533-61232d10b03b"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1
+}

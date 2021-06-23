@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fenggetiao",
+    "texture": "077e4535-ce59-44de-96af-5b57e9190182",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

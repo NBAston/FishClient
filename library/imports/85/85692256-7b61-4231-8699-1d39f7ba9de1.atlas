@@ -1,0 +1,55 @@
+
+fx_by_csrcdh.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_caishen
+  rotate: false
+  xy: 2, 388
+  size: 524, 617
+  orig: 524, 617
+  offset: 0, 0
+  index: -1
+img_caishenwailight
+  rotate: false
+  xy: 2, 10
+  size: 330, 376
+  orig: 330, 376
+  offset: 0, 0
+  index: -1
+xx_512
+  rotate: false
+  xy: 438, 225
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yixian_2
+  rotate: true
+  xy: 528, 355
+  size: 650, 325
+  orig: 650, 325
+  offset: 0, 0
+  index: -1
+zi_bei
+  rotate: true
+  xy: 855, 363
+  size: 211, 68
+  orig: 211, 68
+  offset: 0, 0
+  index: -1
+zi_bei1
+  rotate: true
+  xy: 855, 576
+  size: 429, 69
+  orig: 429, 69
+  offset: 0, 0
+  index: -1
+zi_cs
+  rotate: true
+  xy: 334, 2
+  size: 384, 102
+  orig: 384, 102
+  offset: 0, 0
+  index: -1

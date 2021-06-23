@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_sidai4",
+    "texture": "535eb576-892c-40d1-8e73-c1e6cf7b7a3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      587,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      587,
+      158
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

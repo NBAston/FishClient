@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_Signjd",
+    "texture": "48b8567a-e4e5-4c37-806c-b90d5f70a3b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      138,
+      139
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      139
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

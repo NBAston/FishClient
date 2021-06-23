@@ -1,0 +1,552 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fz_by_potongpao10_zha",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "SYaUJEkOwyd6I5osOzYVvip5X4k",
+      "spine": "3.6.53",
+      "width": 579.15,
+      "height": 494.81,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "zhuguge",
+        "parent": "root"
+      },
+      {
+        "name": "bone15",
+        "parent": "zhuguge",
+        "scaleX": 0.954,
+        "scaleY": 0.954
+      },
+      {
+        "name": "baozhazong",
+        "parent": "bone15",
+        "scaleX": 1.052,
+        "scaleY": 1.052
+      },
+      {
+        "name": "baozha3",
+        "parent": "baozhazong",
+        "x": 0.37,
+        "scaleX": -1.8,
+        "scaleY": 1.8
+      },
+      {
+        "name": "baozha4",
+        "parent": "baozhazong",
+        "x": -0.25,
+        "scaleX": 1.72,
+        "scaleY": 1.8
+      },
+      {
+        "name": "guangquan",
+        "parent": "baozhazong",
+        "scaleX": 0.556,
+        "scaleY": 0.556
+      }
+    ],
+    "slots": [
+      {
+        "name": "guang5",
+        "bone": "guangquan",
+        "color": "fff500ff",
+        "attachment": "guang5",
+        "blend": "additive"
+      },
+      {
+        "name": "baozha3",
+        "bone": "baozha3",
+        "attachment": "baozha_00009"
+      },
+      {
+        "name": "baozha6",
+        "bone": "baozha3",
+        "color": "ffffff81",
+        "attachment": "baozha_00009",
+        "blend": "additive"
+      },
+      {
+        "name": "baozha4",
+        "bone": "baozha4",
+        "attachment": "baozha_00009"
+      },
+      {
+        "name": "baozha5",
+        "bone": "baozha4",
+        "color": "ffffff81",
+        "attachment": "baozha_00009",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "baozha3": {
+          "baozha_00000": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00001": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00002": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00003": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00004": {
+            "x": 82.23,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00005": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00006": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00007": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00008": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00009": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 164,
+            "height": 274
+          }
+        },
+        "baozha4": {
+          "baozha_00000": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00001": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00002": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00003": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00004": {
+            "x": 82.07,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00005": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00006": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00007": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00008": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00009": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 164,
+            "height": 274
+          }
+        },
+        "baozha5": {
+          "baozha_00000": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00001": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00002": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00003": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00004": {
+            "x": 82.07,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00005": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00006": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00007": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00008": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00009": {
+            "x": 82.09,
+            "y": -0.73,
+            "width": 164,
+            "height": 274
+          }
+        },
+        "baozha6": {
+          "baozha_00000": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00001": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00002": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00003": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00004": {
+            "x": 82.23,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00005": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00006": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00007": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00008": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 166,
+            "height": 276
+          },
+          "baozha_00009": {
+            "x": 82.25,
+            "y": -0.73,
+            "width": 164,
+            "height": 274
+          }
+        },
+        "guang5": {
+          "guang5": {
+            "width": 256,
+            "height": 256
+          }
+        }
+      }
+    },
+    "animations": {
+      "attack": {
+        "slots": {
+          "baozha3": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "baozha_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "baozha_00002"
+              },
+              {
+                "time": 0.0667,
+                "name": "baozha_00004"
+              },
+              {
+                "time": 0.1,
+                "name": "baozha_00006"
+              },
+              {
+                "time": 0.1333,
+                "name": "baozha_00007"
+              },
+              {
+                "time": 0.1667,
+                "name": "baozha_00009"
+              }
+            ]
+          },
+          "baozha4": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "baozha_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "baozha_00002"
+              },
+              {
+                "time": 0.0667,
+                "name": "baozha_00004"
+              },
+              {
+                "time": 0.1,
+                "name": "baozha_00006"
+              },
+              {
+                "time": 0.1333,
+                "name": "baozha_00007"
+              },
+              {
+                "time": 0.1667,
+                "name": "baozha_00009"
+              }
+            ]
+          },
+          "baozha5": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff81"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "baozha_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "baozha_00002"
+              },
+              {
+                "time": 0.0667,
+                "name": "baozha_00004"
+              },
+              {
+                "time": 0.1,
+                "name": "baozha_00006"
+              },
+              {
+                "time": 0.1333,
+                "name": "baozha_00007"
+              },
+              {
+                "time": 0.1667,
+                "name": "baozha_00009"
+              }
+            ]
+          },
+          "baozha6": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff81"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "baozha_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "baozha_00002"
+              },
+              {
+                "time": 0.0667,
+                "name": "baozha_00004"
+              },
+              {
+                "time": 0.1,
+                "name": "baozha_00006"
+              },
+              {
+                "time": 0.1333,
+                "name": "baozha_00007"
+              },
+              {
+                "time": 0.1667,
+                "name": "baozha_00009"
+              }
+            ]
+          },
+          "guang5": {
+            "color": [
+              {
+                "time": 0.1,
+                "color": "fff500ff"
+              },
+              {
+                "time": 0.1667,
+                "color": "fff40000",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2333,
+                "color": "fff40000"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone15": {
+            "scale": [
+              {
+                "time": 0.0333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "guangquan": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 3.878,
+                "y": 3.878
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nfz_by_potongpao10_zha.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbaozha_00000\n  rotate: false\n  xy: 2, 448\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00001\n  rotate: true\n  xy: 260, 816\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00002\n  rotate: false\n  xy: 2, 170\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00003\n  rotate: true\n  xy: 538, 816\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00004\n  rotate: false\n  xy: 170, 448\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00005\n  rotate: false\n  xy: 170, 170\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00006\n  rotate: true\n  xy: 2, 2\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00007\n  rotate: false\n  xy: 338, 538\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00008\n  rotate: false\n  xy: 338, 260\n  size: 166, 276\n  orig: 166, 276\n  offset: 0, 0\n  index: -1\nbaozha_00009\n  rotate: false\n  xy: 506, 540\n  size: 164, 274\n  orig: 164, 274\n  offset: 0, 0\n  index: -1\nguang5\n  rotate: false\n  xy: 2, 726\n  size: 256, 256\n  orig: 256, 256\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "8cfd7cdb-5842-4b0a-ae40-2dbf2b152afb"
+    }
+  ],
+  "textureNames": [
+    "fz_by_potongpao10_zha.png"
+  ],
+  "scale": 1
+}

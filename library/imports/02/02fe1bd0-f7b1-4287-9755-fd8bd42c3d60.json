@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_by_4_6pao_zha",
+    "texture": "5c73cbb8-8264-4dfc-9270-bd69cdbbe27f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      958,
+      171
+    ],
+    "offset": [
+      -31,
+      40.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

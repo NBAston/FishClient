@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zuobian",
+    "texture": "64274312-9fa1-47a2-8496-f0e93e03c8b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      431,
+      863
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      431,
+      863
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fanli",
+    "texture": "54f1d6e4-4123-4f14-abe5-7a61740c1f21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

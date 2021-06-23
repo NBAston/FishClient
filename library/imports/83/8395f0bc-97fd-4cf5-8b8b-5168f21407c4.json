@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_qianwang",
+    "texture": "479bd79c-e800-41fd-99c3-4fe363a65854",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

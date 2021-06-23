@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_leiji",
+    "texture": "f85659e7-c0b7-407b-b348-d2ab37f1accd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      202,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      202,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zgkhd_scfl",
+    "texture": "78b6aa91-3fb3-4765-87a4-55d88baaf6c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

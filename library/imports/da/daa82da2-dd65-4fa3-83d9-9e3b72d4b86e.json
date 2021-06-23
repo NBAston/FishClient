@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jibishuzi_0",
+    "texture": "513374e7-1112-4182-9551-12388708f3f9",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      445,
+      42
+    ],
+    "offset": [
+      -26.5,
+      36
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

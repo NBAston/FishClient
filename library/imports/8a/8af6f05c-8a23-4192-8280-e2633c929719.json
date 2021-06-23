@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_tc_zhuceyouli",
+    "texture": "fd46b7d6-ae4a-44d5-b090-8215adcfe442",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1020,
+      997
+    ],
+    "offset": [
+      0,
+      11.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

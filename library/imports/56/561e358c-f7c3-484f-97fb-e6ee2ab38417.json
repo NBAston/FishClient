@@ -1,0 +1,674 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "zyxrk_by_cj_shu",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "hKWbY27ZFY/babV0PnusJI97/+E",
+      "spine": "3.6.53",
+      "width": 416.83,
+      "height": 258.13,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "coconuttree_4",
+        "parent": "root",
+        "length": 90.67,
+        "rotation": 79.94,
+        "x": -1281.44,
+        "y": 502
+      },
+      {
+        "name": "coconuttree_1",
+        "parent": "coconuttree_4",
+        "length": 17.37,
+        "rotation": -109.3,
+        "x": 12.34,
+        "y": -9.41
+      },
+      {
+        "name": "coconuttree_2",
+        "parent": "coconuttree_4",
+        "length": 19.87,
+        "rotation": -169.94,
+        "x": 128.5,
+        "y": -24.09
+      },
+      {
+        "name": "coconuttree_3",
+        "parent": "root",
+        "length": 29.69,
+        "rotation": -75.96,
+        "x": -1219.79,
+        "y": 713.42
+      },
+      {
+        "name": "coconuttree_5",
+        "parent": "root",
+        "length": 14.47,
+        "rotation": -11.31,
+        "x": -952.95,
+        "y": 690.32
+      },
+      {
+        "name": "coconuttree_6",
+        "parent": "root",
+        "length": 24.67,
+        "rotation": -4.4,
+        "x": -1149,
+        "y": 702.44
+      },
+      {
+        "name": "coconuttree_7",
+        "parent": "root",
+        "length": 24.83,
+        "rotation": -40.36,
+        "x": -1114.23,
+        "y": 651.01
+      },
+      {
+        "name": "coconuttree_8",
+        "parent": "root",
+        "length": 31.33,
+        "rotation": -61.11,
+        "x": -1188.5,
+        "y": 698.63
+      },
+      {
+        "name": "coconuttree_9",
+        "parent": "root",
+        "length": 33.59,
+        "rotation": 30.96,
+        "x": -1315.47,
+        "y": 623.37
+      }
+    ],
+    "slots": [
+      {
+        "name": "coconuttree_1",
+        "bone": "coconuttree_1",
+        "attachment": "coconuttree_1"
+      },
+      {
+        "name": "coconuttree_2",
+        "bone": "coconuttree_2",
+        "attachment": "coconuttree_2"
+      },
+      {
+        "name": "coconuttree_3",
+        "bone": "coconuttree_3",
+        "attachment": "coconuttree_3"
+      },
+      {
+        "name": "coconuttree_4",
+        "bone": "coconuttree_4",
+        "attachment": "coconuttree_4"
+      },
+      {
+        "name": "coconuttree_5",
+        "bone": "coconuttree_5",
+        "attachment": "coconuttree_5"
+      },
+      {
+        "name": "coconuttree_6",
+        "bone": "coconuttree_6",
+        "attachment": "coconuttree_6"
+      },
+      {
+        "name": "coconuttree_7",
+        "bone": "coconuttree_7",
+        "attachment": "coconuttree_7"
+      },
+      {
+        "name": "coconuttree_8",
+        "bone": "coconuttree_8",
+        "attachment": "coconuttree_8"
+      },
+      {
+        "name": "coconuttree_9",
+        "bone": "coconuttree_9",
+        "attachment": "coconuttree_9"
+      }
+    ],
+    "skins": {
+      "default": {
+        "coconuttree_1": {
+          "coconuttree_1": {
+            "x": 43.34,
+            "y": -20.97,
+            "rotation": 29.36,
+            "width": 59,
+            "height": 77
+          }
+        },
+        "coconuttree_2": {
+          "coconuttree_2": {
+            "x": 54.33,
+            "y": -6.96,
+            "rotation": 90,
+            "width": 52,
+            "height": 85
+          }
+        },
+        "coconuttree_3": {
+          "coconuttree_3": {
+            "x": 150.2,
+            "y": -19.6,
+            "rotation": 75.96,
+            "width": 117,
+            "height": 242
+          }
+        },
+        "coconuttree_4": {
+          "coconuttree_4": {
+            "x": 87.74,
+            "y": -18.66,
+            "rotation": -79.94,
+            "width": 56,
+            "height": 211
+          }
+        },
+        "coconuttree_5": {
+          "coconuttree_5": {
+            "x": 50.81,
+            "y": -6.47,
+            "rotation": 11.31,
+            "width": 89,
+            "height": 35
+          }
+        },
+        "coconuttree_6": {
+          "coconuttree_6": {
+            "x": 136.05,
+            "y": -56.56,
+            "rotation": 4.4,
+            "width": 203,
+            "height": 114
+          }
+        },
+        "coconuttree_7": {
+          "coconuttree_7": {
+            "x": 85.08,
+            "y": -38.28,
+            "rotation": 40.36,
+            "width": 78,
+            "height": 170
+          }
+        },
+        "coconuttree_8": {
+          "coconuttree_8": {
+            "x": 118.31,
+            "y": 5.69,
+            "rotation": 61.11,
+            "width": 104,
+            "height": 182
+          }
+        },
+        "coconuttree_9": {
+          "coconuttree_9": {
+            "x": 152.57,
+            "y": -52.33,
+            "rotation": -30.96,
+            "width": 238,
+            "height": 71
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "coconuttree_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_1"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_1"
+              }
+            ]
+          },
+          "coconuttree_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_2"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_2"
+              }
+            ]
+          },
+          "coconuttree_3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_3"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_3"
+              }
+            ]
+          },
+          "coconuttree_4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_4"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_4"
+              }
+            ]
+          },
+          "coconuttree_5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_5"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_5"
+              }
+            ]
+          },
+          "coconuttree_6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_6"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_6"
+              }
+            ]
+          },
+          "coconuttree_7": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_7"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_7"
+              }
+            ]
+          },
+          "coconuttree_8": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_8"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_8"
+              }
+            ]
+          },
+          "coconuttree_9": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coconuttree_9"
+              },
+              {
+                "time": 4,
+                "name": "coconuttree_9"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "coconuttree_4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.9,
+                "angle": -1.2,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.8,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.9333,
+                "angle": -1.2,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.9333,
+                "angle": 0
+              }
+            ]
+          },
+          "coconuttree_9": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.9333,
+                "angle": 1.2,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.9667,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.1333,
+                "angle": 1.2,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.9,
+                "angle": 0
+              }
+            ]
+          },
+          "coconuttree_8": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.8333,
+                "angle": 3.6,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.2,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.1333,
+                "angle": 3.6,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "angle": 0
+              }
+            ]
+          },
+          "coconuttree_3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "angle": -6,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "angle": 0
+              }
+            ]
+          },
+          "coconuttree_7": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.0667,
+                "angle": -4.8,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.9,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.9333,
+                "angle": -4.8,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.9,
+                "angle": 0
+              }
+            ]
+          },
+          "coconuttree_6": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.0333,
+                "angle": 2.4,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.8333,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.8667,
+                "angle": 2.4,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.8667,
+                "angle": 0
+              }
+            ]
+          },
+          "coconuttree_5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "angle": -4.8,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.9667,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.9667,
+                "angle": -4.8,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "angle": 0
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          },
+          {
+            "time": 4
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nzyxrk_by_cj_shu.png\nsize: 1024,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncoconuttree_1\n  rotate: false\n  xy: 951, 167\n  size: 59, 77\n  orig: 59, 77\n  offset: 0, 0\n  index: -1\ncoconuttree_2\n  rotate: true\n  xy: 326, 119\n  size: 52, 85\n  orig: 52, 85\n  offset: 0, 0\n  index: -1\ncoconuttree_3\n  rotate: false\n  xy: 2, 2\n  size: 117, 242\n  orig: 117, 242\n  offset: 0, 0\n  index: -1\ncoconuttree_4\n  rotate: true\n  xy: 566, 188\n  size: 56, 211\n  orig: 56, 211\n  offset: 0, 0\n  index: -1\ncoconuttree_5\n  rotate: false\n  xy: 413, 136\n  size: 89, 35\n  orig: 89, 35\n  offset: 0, 0\n  index: -1\ncoconuttree_6\n  rotate: false\n  xy: 121, 130\n  size: 203, 114\n  orig: 203, 114\n  offset: 0, 0\n  index: -1\ncoconuttree_7\n  rotate: true\n  xy: 779, 166\n  size: 78, 170\n  orig: 78, 170\n  offset: 0, 0\n  index: -1\ncoconuttree_8\n  rotate: true\n  xy: 121, 24\n  size: 104, 182\n  orig: 104, 182\n  offset: 0, 0\n  index: -1\ncoconuttree_9\n  rotate: false\n  xy: 326, 173\n  size: 238, 71\n  orig: 238, 71\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "e39f5b36-1843-41fd-b1db-35340ca4e5a7"
+    }
+  ],
+  "textureNames": [
+    "zyxrk_by_cj_shu.png"
+  ],
+  "scale": 1
+}

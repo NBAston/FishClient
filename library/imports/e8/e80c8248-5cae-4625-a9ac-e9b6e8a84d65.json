@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_baocunbendi",
+    "texture": "2918cc4a-e199-44e4-bb74-1e0b0b6f0176",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

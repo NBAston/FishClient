@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gundongtiao",
+    "texture": "599f2757-c6fd-46ac-8530-44826bcbe648",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      93
+    ],
+    "capInsets": [
+      3,
+      35,
+      3,
+      34
+    ]
+  }
+}

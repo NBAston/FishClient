@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_heisedi",
+    "texture": "3d97a31c-a2c3-45ff-9dff-e3dea61735a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      51
+    ],
+    "capInsets": [
+      33,
+      0,
+      33,
+      0
+    ]
+  }
+}

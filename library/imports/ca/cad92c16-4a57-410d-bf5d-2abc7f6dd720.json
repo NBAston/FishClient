@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_dabiaoti",
+    "texture": "6e3b107f-3ec9-4e55-9613-1f1e0a88faff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

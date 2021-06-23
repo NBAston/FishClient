@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_weishangbang_2",
+    "texture": "4b6b8d07-c6aa-48e1-999b-47b0019a5779",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

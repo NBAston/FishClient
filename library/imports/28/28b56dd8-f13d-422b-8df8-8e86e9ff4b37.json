@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jindudi",
+    "texture": "751a2ecd-aadb-45dd-be22-ffb286bc7aaa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      801,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      801,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

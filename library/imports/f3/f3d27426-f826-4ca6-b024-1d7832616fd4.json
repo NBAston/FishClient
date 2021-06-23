@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_erjiyoujianbiaoti",
+    "texture": "5c7667f1-2721-4cd4-9aee-eb5d64794172",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      216,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      216,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bangdingbiaoti",
+    "texture": "6cf1ad75-300e-42d4-97ff-cefc5d6ade30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      279,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo_xlight04",
+    "texture": "da2979fb-6a11-4a07-b2cc-3de49726dbe5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      592,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      592,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

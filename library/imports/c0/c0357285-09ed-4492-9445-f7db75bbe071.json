@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_chongzhibiaoti",
+    "texture": "7abcf539-95f8-492e-9dc9-577034d1ff7c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      299,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

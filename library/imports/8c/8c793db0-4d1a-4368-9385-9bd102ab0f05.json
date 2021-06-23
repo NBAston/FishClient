@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_kuag2",
+    "texture": "80ac0767-5426-4c3a-9408-0b56685d7d77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      588,
+      267
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      588,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

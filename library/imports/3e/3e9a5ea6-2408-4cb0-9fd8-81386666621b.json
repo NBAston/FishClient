@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_wangzhi",
+    "texture": "144f6612-b4c6-461e-82a9-a9230466c030",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      64
+    ],
+    "capInsets": [
+      100,
+      32,
+      100,
+      32
+    ]
+  }
+}

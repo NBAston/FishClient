@@ -1,0 +1,153 @@
+
+heijin_icon_sg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_mi_light_624
+  rotate: false
+  xy: 2, 246
+  size: 239, 235
+  orig: 239, 235
+  offset: 0, 0
+  index: -1
+huzi01
+  rotate: true
+  xy: 510, 195
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+huzi02
+  rotate: false
+  xy: 558, 260
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+huzi03
+  rotate: false
+  xy: 660, 345
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+sangong
+  rotate: false
+  xy: 828, 413
+  size: 132, 68
+  orig: 132, 68
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 242, 181
+  orig: 242, 181
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 243, 202
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: false
+  xy: 897, 362
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: false
+  xy: 251, 130
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: false
+  xy: 707, 371
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+xx_512
+  rotate: false
+  xy: 428, 257
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 962, 409
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+youjianbang
+  rotate: true
+  xy: 327, 145
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 575, 385
+  size: 96, 130
+  orig: 96, 130
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 428, 201
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+yuruyi_02_00
+  rotate: false
+  xy: 828, 358
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 243, 387
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 558, 296
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 185, 25
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+zuojianbang
+  rotate: false
+  xy: 185, 104
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 185, 194
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shezhimima",
+    "texture": "983b1143-695f-4ae1-8160-fbe667309ec4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      319,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      319,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

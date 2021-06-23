@@ -1,0 +1,90 @@
+
+bullet_11.png
+size: 999,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_00000
+  rotate: false
+  xy: 891, 373
+  size: 106, 595
+  orig: 118, 646
+  offset: 0, 25
+  index: -1
+tx_00001
+  rotate: false
+  xy: 669, 352
+  size: 109, 616
+  orig: 118, 646
+  offset: 0, 5
+  index: -1
+tx_00002
+  rotate: false
+  xy: 228, 347
+  size: 107, 621
+  orig: 118, 646
+  offset: 0, 0
+  index: -1
+tx_00003
+  rotate: true
+  xy: 2, 2
+  size: 109, 619
+  orig: 118, 646
+  offset: 0, 0
+  index: -1
+tx_00004
+  rotate: false
+  xy: 2, 343
+  size: 113, 625
+  orig: 118, 646
+  offset: 0, 0
+  index: -1
+tx_00005
+  rotate: true
+  xy: 2, 226
+  size: 115, 595
+  orig: 118, 646
+  offset: 0, 27
+  index: -1
+tx_00006
+  rotate: true
+  xy: 2, 113
+  size: 111, 616
+  orig: 118, 646
+  offset: 1, 5
+  index: -1
+tx_00007
+  rotate: false
+  xy: 561, 348
+  size: 106, 620
+  orig: 118, 646
+  offset: 0, 0
+  index: -1
+tx_00008
+  rotate: false
+  xy: 117, 347
+  size: 109, 621
+  orig: 118, 646
+  offset: 0, 0
+  index: -1
+tx_00009
+  rotate: false
+  xy: 337, 347
+  size: 107, 621
+  orig: 118, 646
+  offset: 0, 0
+  index: -1
+tx_00010
+  rotate: false
+  xy: 780, 376
+  size: 109, 592
+  orig: 118, 646
+  offset: 0, 27
+  index: -1
+tx_00011
+  rotate: false
+  xy: 446, 348
+  size: 113, 620
+  orig: 118, 646
+  offset: 0, 5
+  index: -1

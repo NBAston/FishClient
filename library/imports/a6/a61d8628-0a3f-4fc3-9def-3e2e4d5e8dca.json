@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gengduo",
+    "texture": "2082d31b-44a2-49e2-8bae-97b17ab21d18",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

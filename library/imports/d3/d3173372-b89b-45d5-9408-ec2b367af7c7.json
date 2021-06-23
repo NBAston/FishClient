@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_video_ljtz",
+    "texture": "6f1337bf-6a02-45aa-bea8-ec1793172a7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

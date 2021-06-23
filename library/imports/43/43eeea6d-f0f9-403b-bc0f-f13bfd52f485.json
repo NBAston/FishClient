@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_buyuxuanzhong",
+    "texture": "623e70ac-2b16-468a-b595-11693655a7a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      392,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      392,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

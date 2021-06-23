@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fuzhi",
+    "texture": "ee3c1619-99ca-454a-9798-c52f7c4f3c64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

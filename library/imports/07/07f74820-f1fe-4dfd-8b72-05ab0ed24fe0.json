@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_lijidenglu",
+    "texture": "0e00742f-2005-4044-b316-51de39ecbf49",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_anzhuangxiufugongju",
+    "texture": "a04f9057-db44-4c97-86a5-2ef20fc0832f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      272,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

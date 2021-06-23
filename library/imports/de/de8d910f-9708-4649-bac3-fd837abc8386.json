@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jifen",
+    "texture": "e24a1562-3856-4530-88fa-8a7646836f00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      112
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      122,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

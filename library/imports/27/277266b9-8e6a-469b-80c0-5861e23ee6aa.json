@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fanhuitubiao",
+    "texture": "1a44b299-b24e-4d10-9c7e-14ba0bfc3e64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shanglang",
+    "texture": "08d22446-0288-49ba-85cc-3997a827fe6b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      74
+    ],
+    "capInsets": [
+      36,
+      0,
+      22,
+      0
+    ]
+  }
+}

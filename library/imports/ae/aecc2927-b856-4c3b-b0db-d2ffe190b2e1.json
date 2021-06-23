@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_baitizi",
+    "texture": "45c2fd90-7096-40fb-b53a-ef5181ebde5a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      372,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      372,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

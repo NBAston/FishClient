@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jinbikuang",
+    "texture": "cfad215e-d64f-4a4e-a95d-5ceca3f40ab9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      292,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

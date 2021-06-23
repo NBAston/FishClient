@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_quchu",
+    "texture": "10b606f9-0626-48af-a9e9-68d3a8321644",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

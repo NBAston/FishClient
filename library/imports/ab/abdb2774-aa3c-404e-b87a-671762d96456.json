@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_kefubiaoti",
+    "texture": "ed88c4df-2551-41da-a01d-968eebf79937",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      239,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      239,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

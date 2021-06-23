@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiaobaoti",
+    "texture": "ee8286cc-0c8c-4853-af7d-5409c762eb27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      430,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      430,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

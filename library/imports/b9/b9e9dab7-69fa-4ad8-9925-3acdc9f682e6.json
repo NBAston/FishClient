@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zhanjichaxun",
+    "texture": "7c191a05-fc98-482c-beb3-a7ca54b4fe00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1176,
+      273
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1176,
+      273
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

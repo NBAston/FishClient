@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_picxz",
+    "texture": "01d3c975-5c59-4ce8-afe7-9c576bd9188d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1121,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1121,
+      50
+    ],
+    "capInsets": [
+      248,
+      26,
+      286,
+      22
+    ]
+  }
+}

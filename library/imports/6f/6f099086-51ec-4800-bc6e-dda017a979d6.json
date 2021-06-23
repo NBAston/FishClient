@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiugaimimabiaoti",
+    "texture": "fb47121c-1191-48c8-b1d2-5c34b3164725",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

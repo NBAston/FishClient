@@ -1,0 +1,167 @@
+
+heijin_icon_lhd.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire/fire_00
+  rotate: false
+  xy: 2, 430
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_01
+  rotate: false
+  xy: 317, 702
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_02
+  rotate: false
+  xy: 2, 172
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_03
+  rotate: false
+  xy: 575, 702
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_04
+  rotate: false
+  xy: 833, 702
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_05
+  rotate: false
+  xy: 1091, 702
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_06
+  rotate: false
+  xy: 1349, 702
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_07
+  rotate: false
+  xy: 1607, 702
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_08
+  rotate: false
+  xy: 356, 444
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_09
+  rotate: false
+  xy: 614, 444
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_10
+  rotate: false
+  xy: 872, 444
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_11
+  rotate: false
+  xy: 1130, 444
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_12
+  rotate: false
+  xy: 1388, 444
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_13
+  rotate: false
+  xy: 1646, 444
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_14
+  rotate: false
+  xy: 356, 186
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hu01
+  rotate: false
+  xy: 2, 2
+  size: 163, 168
+  orig: 163, 168
+  offset: 0, 0
+  index: -1
+hutou
+  rotate: false
+  xy: 614, 322
+  size: 146, 120
+  orig: 146, 120
+  offset: 0, 0
+  index: -1
+huzhua
+  rotate: true
+  xy: 260, 231
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 2, 688
+  size: 313, 270
+  orig: 313, 270
+  offset: 0, 0
+  index: -1
+longhudou
+  rotate: false
+  xy: 762, 374
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+longtou
+  rotate: false
+  xy: 1865, 784
+  size: 145, 174
+  orig: 145, 174
+  offset: 0, 0
+  index: -1
+yingying
+  rotate: false
+  xy: 614, 207
+  size: 141, 113
+  orig: 141, 113
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: true
+  xy: 260, 356
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_title_vipqy",
+    "texture": "aace3184-efd5-4692-854d-50f21aa6b2c3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      299,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

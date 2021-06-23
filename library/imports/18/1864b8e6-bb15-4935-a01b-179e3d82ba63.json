@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_buhuoshijian",
+    "texture": "0c52a020-3639-4f64-aeeb-2f8cf71d764a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

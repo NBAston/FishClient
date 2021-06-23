@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_guibinfang",
+    "texture": "a1a78a00-d6bd-4bd4-9313-adf609c2aad2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      285,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      285,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gerenzhongxin",
+    "texture": "39b8e7a4-9f41-430e-8672-d6f7052385b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      349,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      349,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

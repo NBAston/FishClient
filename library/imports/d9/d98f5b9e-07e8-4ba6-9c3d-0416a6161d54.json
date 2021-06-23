@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_paihangbiaoti",
+    "texture": "55a4fc81-22fb-40bb-bb63-33d9721f043e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      349,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      349,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

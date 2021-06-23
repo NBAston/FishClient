@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_huore",
+    "texture": "349cee5a-d5a2-4a08-8465-460a9a9e5ecf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      110
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      77,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

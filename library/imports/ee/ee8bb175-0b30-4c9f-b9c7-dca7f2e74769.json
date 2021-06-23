@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_by_putongpao04",
+    "texture": "15d40afd-f010-4e34-b0d9-e195f1d67054",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      457,
+      227
+    ],
+    "offset": [
+      -25.5,
+      11.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

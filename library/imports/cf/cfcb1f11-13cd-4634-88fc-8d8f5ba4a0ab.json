@@ -1,0 +1,300 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_jubaopen_02",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "NjnlHNaTQ9SkMbKFb71pOsBigbE",
+      "spine": "3.6.53",
+      "width": 1931.67,
+      "height": 1931.67,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "effect",
+        "parent": "root",
+        "length": 22.48,
+        "scaleX": 1.5,
+        "scaleY": 1.5
+      },
+      {
+        "name": "2",
+        "parent": "effect",
+        "length": 84.58,
+        "scaleX": 5.03,
+        "scaleY": 5.03
+      },
+      {
+        "name": "bg_light_01",
+        "parent": "effect",
+        "length": 84.58,
+        "scaleX": 3,
+        "scaleY": 3
+      },
+      {
+        "name": "bg_light_1",
+        "parent": "effect",
+        "length": 84.58,
+        "scaleX": 2.5,
+        "scaleY": 2.5
+      },
+      {
+        "name": "taiyang",
+        "parent": "effect",
+        "length": 84.58,
+        "scaleX": 1.77,
+        "scaleY": 1.77
+      }
+    ],
+    "slots": [
+      {
+        "name": "img_light_er",
+        "bone": "bg_light_01",
+        "color": "ff67679f",
+        "attachment": "img_light_er"
+      },
+      {
+        "name": "img_light_er2",
+        "bone": "bg_light_1",
+        "color": "ffdc0091",
+        "attachment": "img_light_er",
+        "blend": "additive"
+      },
+      {
+        "name": "Ef_Glow083",
+        "bone": "2",
+        "attachment": "Ef_Glow083",
+        "blend": "additive"
+      },
+      {
+        "name": "33_00",
+        "bone": "taiyang",
+        "attachment": "33_00",
+        "blend": "screen"
+      }
+    ],
+    "skins": {
+      "default": {
+        "33_00": {
+          "33_00": {
+            "width": 564,
+            "height": 564
+          }
+        },
+        "Ef_Glow083": {
+          "Ef_Glow083": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "img_light_er": {
+          "img_light_er": {
+            "width": 301,
+            "height": 302
+          }
+        },
+        "img_light_er2": {
+          "img_light_er": {
+            "width": 301,
+            "height": 302
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation_2": {
+        "slots": {
+          "33_00": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.9667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.9667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3,
+                "color": "ffffff00"
+              },
+              {
+                "time": 3.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "img_light_er": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "img_light_er"
+              }
+            ]
+          },
+          "img_light_er2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "img_light_er"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0.658,
+                "y": 0.658
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.658,
+                "y": 0.658
+              },
+              {
+                "time": 4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bg_light_01": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 4,
+                "angle": 180
+              }
+            ]
+          },
+          "bg_light_1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 2,
+                "angle": 90
+              },
+              {
+                "time": 4,
+                "angle": 180
+              }
+            ]
+          },
+          "taiyang": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.658,
+                "y": 0.658
+              },
+              {
+                "time": 0.9667,
+                "x": 1.13,
+                "y": 1.13
+              },
+              {
+                "time": 1,
+                "x": 0.658,
+                "y": 0.658
+              },
+              {
+                "time": 1.9667,
+                "x": 1.13,
+                "y": 1.13
+              },
+              {
+                "time": 2,
+                "x": 0.658,
+                "y": 0.658
+              },
+              {
+                "time": 2.9667,
+                "x": 1.13,
+                "y": 1.13
+              },
+              {
+                "time": 3,
+                "x": 0.658,
+                "y": 0.658
+              },
+              {
+                "time": 4,
+                "x": 1.13,
+                "y": 1.13
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nfx_by_jubaopen_02.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n33_00\n  rotate: false\n  xy: 2, 306\n  size: 564, 564\n  orig: 564, 564\n  offset: 0, 0\n  index: -1\nEf_Glow083\n  rotate: false\n  xy: 568, 614\n  size: 256, 256\n  orig: 256, 256\n  offset: 0, 0\n  index: -1\nimg_light_er\n  rotate: false\n  xy: 2, 2\n  size: 301, 302\n  orig: 301, 302\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "c6c0b166-32e5-4e4f-85bc-35ea983d2df4"
+    }
+  ],
+  "textureNames": [
+    "fx_by_jubaopen_02.png"
+  ],
+  "scale": 1
+}

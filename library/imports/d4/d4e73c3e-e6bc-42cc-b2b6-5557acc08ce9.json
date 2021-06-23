@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_7ri_light",
+    "texture": "d43c61ff-7767-4050-842a-d21e72f1d37a",
+    "atlas": "",
+    "rect": [
+      31,
+      20,
+      714,
+      742
+    ],
+    "offset": [
+      -124,
+      121
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

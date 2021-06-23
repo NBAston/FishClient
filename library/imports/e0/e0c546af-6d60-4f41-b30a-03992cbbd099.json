@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_kangdi",
+    "texture": "9f06e9bf-b060-4099-8180-d5fc91f58008",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      422,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      422,
+      61
+    ],
+    "capInsets": [
+      109,
+      40,
+      117,
+      21
+    ]
+  }
+}

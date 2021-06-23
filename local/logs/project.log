@@ -1,0 +1,107 @@
+2021-01-16T04:43:35.576Z - normal: Load ~/.CocosCreator/settings.json
+2021-01-16T04:43:35.605Z - normal: Initializing Asset Database
+2021-01-16T04:43:35.618Z - normal: checking language setting...
+2021-01-16T04:43:35.618Z - normal: Language: zh
+2021-01-16T04:43:36.649Z - success: preview server running at http://localhost:7456
+2021-01-16T04:43:36.654Z - success: protocol editor-framework registered
+2021-01-16T04:43:36.654Z - success: protocol app registered
+2021-01-16T04:43:36.654Z - success: protocol theme registered
+2021-01-16T04:43:36.654Z - success: protocol packages registered
+2021-01-16T04:43:36.655Z - success: protocol uuid registerred
+2021-01-16T04:43:36.655Z - success: protocol db registerred
+2021-01-16T04:43:36.655Z - success: protocol thumbnail registerred
+2021-01-16T04:43:36.655Z - success: protocol unpack registerred
+2021-01-16T04:43:36.655Z - success: protocol disable-commonjs registerred
+2021-01-16T04:43:36.935Z - normal: connected!
+2021-01-16T04:43:36.935Z - normal: Check project C:\266\newfish\fishPro
+2021-01-16T04:43:36.936Z - normal: Initializing project C:\266\newfish\fishPro
+2021-01-16T04:43:36.971Z - success: adapters loaded
+2021-01-16T04:43:36.981Z - success: asset-db-debugger loaded
+2021-01-16T04:43:37.039Z - success: fb-audience-network loaded
+2021-01-16T04:43:37.079Z - success: fb-live-stream loaded
+2021-01-16T04:43:37.095Z - success: google-play-instant loaded
+2021-01-16T04:43:37.099Z - success: huawei-adapter loaded
+2021-01-16T04:43:37.102Z - success: jkw-adapter loaded
+2021-01-16T04:43:37.106Z - success: jsb-adapter loaded
+2021-01-16T04:43:37.110Z - success: oppo-adapter loaded
+2021-01-16T04:43:37.120Z - success: package-manager loaded
+2021-01-16T04:43:37.124Z - success: qtt-adapter loaded
+2021-01-16T04:43:37.136Z - success: runtime-dev-tools loaded
+2021-01-16T04:43:37.148Z - success: sdkbox loaded
+2021-01-16T04:43:37.157Z - success: ui-kit-preview-extra loaded
+2021-01-16T04:43:37.166Z - success: ui-kit-preview loaded
+2021-01-16T04:43:37.170Z - success: vivo-adapter loaded
+2021-01-16T04:43:37.370Z - success: alipay-minigame loaded
+2021-01-16T04:43:37.406Z - success: assets loaded
+2021-01-16T04:43:37.407Z - success: baidugame-opendata loaded
+2021-01-16T04:43:37.409Z - success: baidugame loaded
+2021-01-16T04:43:37.414Z - success: builder loaded
+2021-01-16T04:43:37.417Z - success: cloud-function loaded
+2021-01-16T04:43:37.546Z - success: cocos-services loaded
+2021-01-16T04:43:37.548Z - success: console loaded
+2021-01-16T04:43:37.549Z - success: curve-editor loaded
+2021-01-16T04:43:37.557Z - success: fb-instant-games loaded
+2021-01-16T04:43:37.558Z - success: game-window loaded
+2021-01-16T04:43:37.559Z - success: google-instant-games loaded
+2021-01-16T04:43:37.561Z - success: hierarchy loaded
+2021-01-16T04:43:37.563Z - success: huawei-runtime loaded
+2021-01-16T04:43:37.565Z - success: inspector loaded
+2021-01-16T04:43:37.624Z - success: cpk-publish loaded
+2021-01-16T04:43:37.624Z - success: keystore loaded
+2021-01-16T04:43:37.637Z - success: node-library loaded
+2021-01-16T04:43:37.637Z - success: open-recent-items loaded
+2021-01-16T04:43:37.639Z - success: oppo-runtime loaded
+2021-01-16T04:43:37.640Z - success: package-asset loaded
+2021-01-16T04:43:37.640Z - success: preferences loaded
+2021-01-16T04:43:37.641Z - success: project-importer loaded
+2021-01-16T04:43:37.642Z - success: project-settings loaded
+2021-01-16T04:43:37.651Z - success: qtt-runtime loaded
+2021-01-16T04:43:37.653Z - success: scene loaded
+2021-01-16T04:43:37.653Z - success: simulator-debugger loaded
+2021-01-16T04:43:37.654Z - success: sprite-editor loaded
+2021-01-16T04:43:37.678Z - success: store loaded
+2021-01-16T04:43:37.679Z - success: timeline loaded
+2021-01-16T04:43:37.682Z - success: vivo-runtime loaded
+2021-01-16T04:43:37.684Z - success: wechatgame-opendata loaded
+2021-01-16T04:43:37.687Z - success: wechatgame loaded
+2021-01-16T04:43:37.689Z - success: xiaomi-runtime loaded
+2021-01-16T04:43:38.375Z - success: im-plugin loaded
+2021-01-16T04:43:38.384Z - success: compress loaded
+2021-01-16T04:43:38.394Z - success: tools loaded
+2021-01-16T04:43:39.306Z - normal: Initializing Cocos2d
+2021-01-16T04:43:40.856Z - normal: Initializing engine extends
+2021-01-16T04:43:59.274Z - info: Cocos Service load base data!
+2021-01-16T04:44:02.685Z - normal: Loading packages
+2021-01-16T04:44:02.687Z - normal: Watching packages
+2021-01-16T04:44:02.898Z - normal: Run Application
+2021-01-16T04:49:34.737Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T07:55:29.708Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T07:58:17.131Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T08:11:19.437Z - info: 只有预制节点 "nfish_deskUIContainer" 及其子节点会被保存。
+2021-01-16T08:11:23.709Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T08:17:39.210Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T08:23:42.039Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T08:23:42.045Z - info: 只有预制节点 "cantainer" 及其子节点会被保存。
+2021-01-16T08:23:45.865Z - info: 只有预制节点 "cantainer" 及其子节点会被保存。
+2021-01-16T08:31:22.015Z - normal: Introduced global variable while editing: count
+2021-01-16T08:31:25.392Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T08:32:11.054Z - info: 只有预制节点 "cantainer" 及其子节点会被保存。
+2021-01-16T08:37:52.759Z - info: 只有预制节点 "nfishentry" 及其子节点会被保存。
+2021-01-16T08:38:57.992Z - info: 只有预制节点 "nfish_deskUIContainer" 及其子节点会被保存。
+2021-01-16T09:12:06.309Z - normal: Introduced global variable while editing: count
+2021-01-16T09:12:10.017Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T09:12:51.324Z - info: 只有预制节点 "nfish_deskUIContainer" 及其子节点会被保存。
+2021-01-16T09:16:01.847Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T09:23:39.627Z - info: 只有预制节点 "nfish_deskUIContainer" 及其子节点会被保存。
+2021-01-16T09:24:47.595Z - normal: Introduced global variable while editing: count
+2021-01-16T09:28:17.759Z - normal: Introduced global variable while editing: count
+2021-01-16T09:28:21.414Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T09:54:43.322Z - normal: Introduced global variable while editing: count
+2021-01-16T09:54:47.074Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T10:28:48.881Z - normal: Introduced global variable while editing: count
+2021-01-16T10:45:02.724Z - info: 只有预制节点 "nfish_deskUIContainer" 及其子节点会被保存。
+2021-01-16T10:53:45.463Z - normal: Introduced global variable while editing: count
+2021-01-16T10:57:14.029Z - normal: Introduced global variable while editing: count
+2021-01-16T12:28:53.248Z - normal: Introduced global variable while editing: count
+2021-01-16T13:18:07.419Z - warn: Introduced global variable while deserializing scene by using new scripts: count
+2021-01-16T14:29:37.043Z - info: shutdown preview server

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_guanggaofanye_1",
+    "texture": "f3b9eca7-3047-492f-94d9-b35abd9eabd4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      14,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

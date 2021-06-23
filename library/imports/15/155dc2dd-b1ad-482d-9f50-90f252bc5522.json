@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_formbg",
+    "texture": "a37e831c-20ec-4afa-8578-b91c2d9bd0f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      250
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      250
+    ],
+    "capInsets": [
+      39,
+      33,
+      37,
+      40
+    ]
+  }
+}

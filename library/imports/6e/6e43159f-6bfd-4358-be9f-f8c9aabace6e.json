@@ -1,0 +1,128 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_4_6pao_zha",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "4sdM3W8MTOQvQTNN4R1VMPyG1iU",
+      "spine": "3.6.53",
+      "width": 342,
+      "height": 328,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 21,
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "1",
+        "bone": "bone",
+        "attachment": "6"
+      }
+    ],
+    "skins": {
+      "default": {
+        "1": {
+          "1": {
+            "width": 171,
+            "height": 164
+          },
+          "2": {
+            "width": 171,
+            "height": 164
+          },
+          "3": {
+            "width": 171,
+            "height": 164
+          },
+          "4": {
+            "width": 171,
+            "height": 164
+          },
+          "5": {
+            "width": 171,
+            "height": 164
+          },
+          "6": {
+            "width": 171,
+            "height": 164
+          }
+        }
+      }
+    },
+    "animations": {
+      "attack": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "1"
+              },
+              {
+                "time": 0.0667,
+                "name": "2"
+              },
+              {
+                "time": 0.1333,
+                "name": "3"
+              },
+              {
+                "time": 0.2,
+                "name": "4"
+              },
+              {
+                "time": 0.2667,
+                "name": "5"
+              },
+              {
+                "time": 0.3333,
+                "name": "6"
+              },
+              {
+                "time": 0.4,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.75,
+                "y": 0.75
+              },
+              {
+                "time": 0.4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_4_6pao_zha.png\r\nsize: 1024,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 171, 164\r\n  orig: 171, 164\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: true\r\n  xy: 168, 2\r\n  size: 171, 164\r\n  orig: 171, 164\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: true\r\n  xy: 334, 2\r\n  size: 171, 164\r\n  orig: 171, 164\r\n  offset: 0, 0\r\n  index: -1\r\n4\r\n  rotate: true\r\n  xy: 500, 2\r\n  size: 171, 164\r\n  orig: 171, 164\r\n  offset: 0, 0\r\n  index: -1\r\n5\r\n  rotate: true\r\n  xy: 666, 2\r\n  size: 171, 164\r\n  orig: 171, 164\r\n  offset: 0, 0\r\n  index: -1\r\n6\r\n  rotate: false\r\n  xy: 832, 9\r\n  size: 171, 164\r\n  orig: 171, 164\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "5c73cbb8-8264-4dfc-9270-bd69cdbbe27f"
+    }
+  ],
+  "textureNames": [
+    "fx_by_4_6pao_zha.png"
+  ],
+  "scale": 1
+}

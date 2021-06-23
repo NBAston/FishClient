@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_07_jfdb",
+    "texture": "e254f18d-f8f0-4597-93c3-a69f903fae79",
+    "atlas": "",
+    "rect": [
+      16,
+      9,
+      139,
+      130
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      170,
+      148
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_paijubianhao",
+    "texture": "f5cf22f5-057d-4d3e-8606-7ff4e96194ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

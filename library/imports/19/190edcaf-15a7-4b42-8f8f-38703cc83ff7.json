@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gyb",
+    "texture": "0a47a9fc-caf7-4215-871b-a3c5124d10ee",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      93,
+      32
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      94,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

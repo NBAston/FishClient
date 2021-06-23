@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xialakuangfengexian",
+    "texture": "30882826-ba4b-4fbd-86a6-9627b1a57a92",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

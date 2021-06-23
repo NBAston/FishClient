@@ -1,0 +1,277 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "biaoti",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "BrxcNyALm1D4Zv/DmY3vGbXSlOU",
+      "spine": "3.6.53",
+      "width": 375.05,
+      "height": 127.27,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "biaoti",
+        "parent": "root"
+      },
+      {
+        "name": "Lxx",
+        "parent": "biaoti",
+        "x": -151.21,
+        "y": -14.96
+      },
+      {
+        "name": "zong",
+        "parent": "biaoti",
+        "x": 156.84,
+        "y": 44.8
+      }
+    ],
+    "slots": [
+      {
+        "name": "biaotibanxulie",
+        "bone": "biaoti",
+        "color": "ffffff9a",
+        "attachment": "banzishanshuo/bzxl_00009",
+        "blend": "additive"
+      },
+      {
+        "name": "Rxx",
+        "bone": "zong",
+        "attachment": "0.3"
+      },
+      {
+        "name": "xxL",
+        "bone": "Lxx",
+        "attachment": "1.4"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Rxx": {
+          "0.1": {
+            "width": 57,
+            "height": 57
+          },
+          "0.2": {
+            "width": 57,
+            "height": 57
+          },
+          "0.3": {
+            "width": 57,
+            "height": 57
+          }
+        },
+        "biaotibanxulie": {
+          "banzishanshuo/bzxl_00000": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00001": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00002": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00003": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00004": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00005": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00006": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00007": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00008": {
+            "width": 329,
+            "height": 97
+          },
+          "banzishanshuo/bzxl_00009": {
+            "width": 329,
+            "height": 97
+          }
+        },
+        "xxL": {
+          "1.1": {
+            "width": 77,
+            "height": 78
+          },
+          "1.2": {
+            "width": 77,
+            "height": 78
+          },
+          "1.3": {
+            "width": 77,
+            "height": 78
+          },
+          "1.4": {
+            "width": 77,
+            "height": 78
+          }
+        }
+      }
+    },
+    "animations": {
+      "biaoti": {
+        "slots": {
+          "Rxx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "0.1"
+              },
+              {
+                "time": 0.2,
+                "name": "0.2"
+              },
+              {
+                "time": 0.4,
+                "name": "0.3"
+              },
+              {
+                "time": 0.6,
+                "name": "0.1"
+              },
+              {
+                "time": 0.8,
+                "name": "0.2"
+              },
+              {
+                "time": 1,
+                "name": "0.3"
+              },
+              {
+                "time": 1.2,
+                "name": "0.1"
+              }
+            ]
+          },
+          "biaotibanxulie": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "banzishanshuo/bzxl_00000"
+              },
+              {
+                "time": 0.1,
+                "name": "banzishanshuo/bzxl_00001"
+              },
+              {
+                "time": 0.2,
+                "name": "banzishanshuo/bzxl_00002"
+              },
+              {
+                "time": 0.3,
+                "name": "banzishanshuo/bzxl_00003"
+              },
+              {
+                "time": 0.4,
+                "name": "banzishanshuo/bzxl_00004"
+              },
+              {
+                "time": 0.5,
+                "name": "banzishanshuo/bzxl_00005"
+              },
+              {
+                "time": 0.6,
+                "name": "banzishanshuo/bzxl_00006"
+              },
+              {
+                "time": 0.7,
+                "name": "banzishanshuo/bzxl_00007"
+              },
+              {
+                "time": 0.8,
+                "name": "banzishanshuo/bzxl_00008"
+              },
+              {
+                "time": 0.9,
+                "name": "banzishanshuo/bzxl_00009"
+              },
+              {
+                "time": 1,
+                "name": "banzishanshuo/bzxl_00000"
+              },
+              {
+                "time": 1.1333,
+                "name": "banzishanshuo/bzxl_00001"
+              },
+              {
+                "time": 1.2667,
+                "name": "banzishanshuo/bzxl_00002"
+              }
+            ]
+          },
+          "xxL": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "1.1"
+              },
+              {
+                "time": 0.1667,
+                "name": "1.2"
+              },
+              {
+                "time": 0.3333,
+                "name": "1.3"
+              },
+              {
+                "time": 0.4667,
+                "name": "1.4"
+              },
+              {
+                "time": 0.6333,
+                "name": "1.1"
+              },
+              {
+                "time": 0.8,
+                "name": "1.2"
+              },
+              {
+                "time": 0.9667,
+                "name": "1.3"
+              },
+              {
+                "time": 1.1,
+                "name": "1.4"
+              },
+              {
+                "time": 1.2667,
+                "name": "1.1"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nbiaoti.png\r\nsize: 1874,200\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n0.1\r\n  rotate: false\r\n  xy: 1815, 141\r\n  size: 57, 57\r\n  orig: 57, 57\r\n  offset: 0, 0\r\n  index: -1\r\n0.2\r\n  rotate: false\r\n  xy: 1815, 82\r\n  size: 57, 57\r\n  orig: 57, 57\r\n  offset: 0, 0\r\n  index: -1\r\n0.3\r\n  rotate: false\r\n  xy: 1815, 23\r\n  size: 57, 57\r\n  orig: 57, 57\r\n  offset: 0, 0\r\n  index: -1\r\n1.1\r\n  rotate: false\r\n  xy: 1657, 120\r\n  size: 77, 78\r\n  orig: 77, 78\r\n  offset: 0, 0\r\n  index: -1\r\n1.2\r\n  rotate: false\r\n  xy: 1657, 40\r\n  size: 77, 78\r\n  orig: 77, 78\r\n  offset: 0, 0\r\n  index: -1\r\n1.3\r\n  rotate: false\r\n  xy: 1736, 120\r\n  size: 77, 78\r\n  orig: 77, 78\r\n  offset: 0, 0\r\n  index: -1\r\n1.4\r\n  rotate: false\r\n  xy: 1736, 40\r\n  size: 77, 78\r\n  orig: 77, 78\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00000\r\n  rotate: false\r\n  xy: 2, 101\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00001\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00002\r\n  rotate: false\r\n  xy: 333, 101\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00003\r\n  rotate: false\r\n  xy: 333, 2\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00004\r\n  rotate: false\r\n  xy: 664, 101\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00005\r\n  rotate: false\r\n  xy: 664, 2\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00006\r\n  rotate: false\r\n  xy: 995, 101\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00007\r\n  rotate: false\r\n  xy: 995, 2\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00008\r\n  rotate: false\r\n  xy: 1326, 101\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\nbanzishanshuo/bzxl_00009\r\n  rotate: false\r\n  xy: 1326, 2\r\n  size: 329, 97\r\n  orig: 329, 97\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "9a4111b2-dc08-4798-9a00-ef66d7888310"
+    }
+  ],
+  "textureNames": [
+    "biaoti.png"
+  ],
+  "scale": 1
+}

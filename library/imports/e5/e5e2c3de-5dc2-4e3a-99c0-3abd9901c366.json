@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_meizhou_1",
+    "texture": "ef1767d6-e30b-4aff-bf18-8c68b570e2b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

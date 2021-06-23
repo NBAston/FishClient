@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fangshui2",
+    "texture": "581f9f13-a19c-4ba7-b611-3b7782138e09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

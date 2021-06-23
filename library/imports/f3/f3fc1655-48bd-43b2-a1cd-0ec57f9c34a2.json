@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_jinekuang",
+    "texture": "2f9b8758-ea48-404d-bc92-18856822c540",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      371,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      371,
+      51
+    ],
+    "capInsets": [
+      109,
+      0,
+      85,
+      0
+    ]
+  }
+}

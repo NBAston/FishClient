@@ -1,0 +1,987 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "heijin_icon_kpqz",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "8GLnx15sGaaEdSFT4uOjJzokzR8",
+      "spine": "3.6.53",
+      "width": 251.13,
+      "height": 217.72,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 0.75,
+        "scaleY": 0.75
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": -3.48,
+        "y": -122.03
+      },
+      {
+        "name": "niushen",
+        "parent": "bone",
+        "length": 48.71,
+        "rotation": 91.76,
+        "x": -1.5,
+        "y": 22.47
+      },
+      {
+        "name": "tou",
+        "parent": "niushen",
+        "length": 42.7,
+        "rotation": -0.76,
+        "x": 138.33,
+        "y": 14.48
+      },
+      {
+        "name": "bianjiao",
+        "parent": "tou",
+        "length": 37.61,
+        "rotation": 134.8,
+        "x": 70.43,
+        "y": 1.01
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "length": 14.43,
+        "rotation": 3.81,
+        "x": -105.96,
+        "y": 35.34
+      },
+      {
+        "name": "mao",
+        "parent": "tou",
+        "length": 43.12,
+        "rotation": -108.41,
+        "x": 75.26,
+        "y": 31.48
+      },
+      {
+        "name": "xx",
+        "parent": "root",
+        "length": 30.92,
+        "x": -103.41,
+        "y": -42.98,
+        "scaleX": 0.658,
+        "scaleY": 0.658
+      },
+      {
+        "name": "xx2",
+        "parent": "root",
+        "length": 30.92,
+        "x": 70.22,
+        "y": 50.93,
+        "scaleX": 0.658,
+        "scaleY": 0.658
+      },
+      {
+        "name": "xx3",
+        "parent": "root",
+        "length": 30.92,
+        "x": 98.53,
+        "y": 68.81,
+        "scaleX": 1.193,
+        "scaleY": 1.193
+      },
+      {
+        "name": "yuanjiao",
+        "parent": "tou",
+        "length": 26.31,
+        "rotation": 3.89,
+        "x": 40.14,
+        "y": -17.93
+      }
+    ],
+    "slots": [
+      {
+        "name": "niushen",
+        "bone": "niushen",
+        "attachment": "niushen"
+      },
+      {
+        "name": "jinbi",
+        "bone": "root",
+        "attachment": "jinbi"
+      },
+      {
+        "name": "bianjiao",
+        "bone": "bianjiao",
+        "attachment": "bianjiao"
+      },
+      {
+        "name": "tou",
+        "bone": "tou",
+        "attachment": "tou"
+      },
+      {
+        "name": "yuanjiao",
+        "bone": "yuanjiao",
+        "attachment": "yuanjiao"
+      },
+      {
+        "name": "mao",
+        "bone": "mao",
+        "attachment": "mao"
+      },
+      {
+        "name": "xin",
+        "bone": "bone2",
+        "attachment": "xin",
+        "blend": "additive"
+      },
+      {
+        "name": "zi_di",
+        "bone": "root",
+        "attachment": "zi_di"
+      },
+      {
+        "name": "zi",
+        "bone": "root",
+        "attachment": "zi"
+      },
+      {
+        "name": "xg",
+        "bone": "xx",
+        "attachment": "xg",
+        "blend": "additive"
+      },
+      {
+        "name": "xg2",
+        "bone": "xx2",
+        "attachment": "xin",
+        "blend": "additive"
+      },
+      {
+        "name": "xg3",
+        "bone": "xx3",
+        "attachment": "xin",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "bianjiao": {
+          "bianjiao": {
+            "x": 12.89,
+            "y": 26.72,
+            "rotation": 134.19,
+            "width": 186,
+            "height": 69
+          }
+        },
+        "jinbi": {
+          "jinbi": {
+            "x": -88.78,
+            "y": -48.71,
+            "width": 126,
+            "height": 118
+          }
+        },
+        "mao": {
+          "mao": {
+            "type": "mesh",
+            "uvs": [
+              0.02944,
+              0.24038,
+              0.08105,
+              0.35452,
+              0.21711,
+              0.34691,
+              0.29686,
+              0.27843,
+              0.49392,
+              0.51433,
+              0.5901,
+              0.55999,
+              0.82937,
+              0.78067,
+              0.93494,
+              0.81111,
+              0.99593,
+              0.63608,
+              0.99358,
+              0.50672,
+              0.94901,
+              0.47628,
+              0.79184,
+              0.27843,
+              0.63467,
+              0.08057,
+              0.37662,
+              0.04252,
+              0.20186,
+              0.03111,
+              0.02709,
+              0.01969,
+              0,
+              0.15667,
+              0.48666,
+              0.2576,
+              0.79791,
+              0.51736,
+              0.63226,
+              0.36891,
+              0.15379,
+              0.18378
+            ],
+            "triangles": [
+              20,
+              15,
+              14,
+              16,
+              15,
+              20,
+              0,
+              16,
+              20,
+              17,
+              13,
+              12,
+              13,
+              20,
+              14,
+              3,
+              13,
+              17,
+              3,
+              20,
+              13,
+              19,
+              17,
+              12,
+              2,
+              20,
+              3,
+              1,
+              0,
+              20,
+              2,
+              1,
+              20,
+              11,
+              19,
+              12,
+              4,
+              17,
+              19,
+              3,
+              17,
+              4,
+              18,
+              11,
+              10,
+              19,
+              11,
+              18,
+              5,
+              4,
+              19,
+              5,
+              19,
+              18,
+              18,
+              8,
+              6,
+              10,
+              8,
+              18,
+              9,
+              8,
+              10,
+              5,
+              18,
+              6,
+              7,
+              6,
+              8
+            ],
+            "vertices": [
+              1,
+              6,
+              -4.95,
+              -12.47,
+              1,
+              1,
+              6,
+              2.99,
+              -14.92,
+              1,
+              1,
+              6,
+              20.18,
+              -9.28,
+              1,
+              1,
+              6,
+              29.49,
+              -3.46,
+              1,
+              1,
+              6,
+              57.38,
+              -4.96,
+              1,
+              1,
+              6,
+              70.16,
+              -2.97,
+              1,
+              1,
+              6,
+              103.23,
+              -2.22,
+              1,
+              1,
+              6,
+              117.02,
+              0.73,
+              1,
+              1,
+              6,
+              122.65,
+              9.99,
+              1,
+              1,
+              6,
+              120.78,
+              14.96,
+              1,
+              1,
+              6,
+              114.75,
+              14.4,
+              1,
+              1,
+              6,
+              92.38,
+              15.98,
+              1,
+              1,
+              6,
+              70.02,
+              17.56,
+              1,
+              1,
+              6,
+              36.77,
+              8.91,
+              1,
+              1,
+              6,
+              14.42,
+              2.5,
+              1,
+              1,
+              6,
+              -7.92,
+              -3.92,
+              1,
+              1,
+              6,
+              -9.71,
+              -10.35,
+              1,
+              1,
+              6,
+              53.35,
+              4.81,
+              1,
+              1,
+              6,
+              96.05,
+              6.86,
+              1,
+              1,
+              6,
+              73.2,
+              6.17,
+              1,
+              1,
+              6,
+              10.16,
+              -5.37,
+              1
+            ],
+            "hull": 17,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              6,
+              8,
+              8,
+              10,
+              10,
+              12,
+              12,
+              14,
+              14,
+              16,
+              16,
+              18,
+              18,
+              20,
+              20,
+              22,
+              22,
+              24,
+              24,
+              26,
+              26,
+              28,
+              28,
+              30,
+              30,
+              32,
+              32,
+              0
+            ],
+            "width": 133,
+            "height": 41
+          }
+        },
+        "niushen": {
+          "niushen": {
+            "x": 62.8,
+            "y": -19.14,
+            "rotation": -91.76,
+            "width": 250,
+            "height": 181
+          }
+        },
+        "tou": {
+          "tou": {
+            "x": 49.53,
+            "y": -1.3,
+            "rotation": -91.01,
+            "width": 127,
+            "height": 135
+          }
+        },
+        "xg": {
+          "xg": {
+            "width": 199,
+            "height": 192
+          }
+        },
+        "xg2": {
+          "xin": {
+            "width": 37,
+            "height": 35
+          }
+        },
+        "xg3": {
+          "xin": {
+            "width": 37,
+            "height": 35
+          }
+        },
+        "xin": {
+          "xin": {
+            "x": -0.15,
+            "y": 2.47,
+            "rotation": -3.81,
+            "width": 37,
+            "height": 35
+          }
+        },
+        "yuanjiao": {
+          "yuanjiao": {
+            "x": 29.04,
+            "y": 9.85,
+            "rotation": -94.9,
+            "width": 192,
+            "height": 91
+          }
+        },
+        "zi": {
+          "zi": {
+            "y": -90,
+            "width": 263,
+            "height": 70
+          }
+        },
+        "zi_di": {
+          "zi_di": {
+            "y": -88,
+            "width": 332,
+            "height": 94
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "xg": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xg2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "xg3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "xin": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "niushen": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.8333,
+                "x": 1.03,
+                "y": 1.03,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "mao": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.8333,
+                "angle": 1.18,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.6667,
+                "angle": 0
+              }
+            ]
+          },
+          "bianjiao": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.251,
+                  0,
+                  0.623,
+                  0.49
+                ]
+              },
+              {
+                "time": 0.8333,
+                "angle": 1.34,
+                "curve": [
+                  0.333,
+                  0.33,
+                  0.667,
+                  0.67
+                ]
+              },
+              {
+                "time": 1.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.8333,
+                "x": 1.018,
+                "y": 1.042,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "tou": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.8333,
+                "angle": 5.03
+              },
+              {
+                "time": 1.6667,
+                "angle": 0
+              }
+            ]
+          },
+          "xx": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.4333,
+                "x": 40.29,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3,
+                "x": 40.29,
+                "y": 0
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.752,
+                "y": 0.752
+              }
+            ]
+          },
+          "xx2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.846,
+                "y": 1.846
+              }
+            ]
+          },
+          "xx3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.709,
+                "y": 0.709
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "mao": {
+              "mao": [
+                {
+                  "time": 0,
+                  "offset": 10,
+                  "vertices": [
+                    -0.12709,
+                    0.24317,
+                    -0.12017,
+                    -0.17741,
+                    -0.08372,
+                    -0.35288,
+                    0.03344,
+                    -0.42522,
+                    0.09684,
+                    -0.40192,
+                    0.09023,
+                    -0.3252,
+                    0.11208,
+                    -0.04095,
+                    0.13395,
+                    0.24332,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.02678,
+                    0.45621,
+                    -0.00417,
+                    -0.08681,
+                    -0.01112,
+                    0.20374
+                  ],
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "time": 0.8333,
+                  "vertices": [
+                    -0.39741,
+                    1.86788,
+                    -0.47202,
+                    1.6377,
+                    -0.31499,
+                    1.13449,
+                    -0.14961,
+                    0.86102,
+                    -0.30638,
+                    1.40884,
+                    0.00307,
+                    0.8941,
+                    0.38953,
+                    2.58688,
+                    -0.52143,
+                    6.20434,
+                    -1.966,
+                    6.94147,
+                    -2.68809,
+                    6.60723,
+                    -2.53709,
+                    5.71277,
+                    -1.60893,
+                    2.6699,
+                    -0.71373,
+                    0.87672,
+                    0.20762,
+                    0.64379,
+                    0.0302,
+                    1.29732,
+                    -0.14721,
+                    1.95071,
+                    -0.33362,
+                    2.00532,
+                    -0.25851,
+                    0.30268,
+                    -1.01073,
+                    2.93366,
+                    -0.31795,
+                    0.9948,
+                    -0.19708,
+                    1.42457
+                  ],
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "time": 1.6667,
+                  "offset": 10,
+                  "vertices": [
+                    -0.12709,
+                    0.24317,
+                    -0.12017,
+                    -0.17741,
+                    -0.08372,
+                    -0.35288,
+                    0.03344,
+                    -0.42522,
+                    0.09684,
+                    -0.40192,
+                    0.09023,
+                    -0.3252,
+                    0.11208,
+                    -0.04095,
+                    0.13395,
+                    0.24332,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.02678,
+                    0.45621,
+                    -0.00417,
+                    -0.08681,
+                    -0.01112,
+                    0.20374
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nheijin_icon_kpqz.png\r\nsize: 1024,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nbianjiao\r\n  rotate: false\r\n  xy: 628, 18\r\n  size: 186, 69\r\n  orig: 186, 69\r\n  offset: 0, 0\r\n  index: -1\r\njinbi\r\n  rotate: true\r\n  xy: 508, 30\r\n  size: 126, 118\r\n  orig: 126, 118\r\n  offset: 0, 0\r\n  index: -1\r\nmao\r\n  rotate: false\r\n  xy: 185, 10\r\n  size: 133, 41\r\n  orig: 133, 41\r\n  offset: 0, 0\r\n  index: -1\r\nniushen\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 250, 181\r\n  orig: 250, 181\r\n  offset: 0, 0\r\n  index: -1\r\ntou\r\n  rotate: false\r\n  xy: 379, 21\r\n  size: 127, 135\r\n  orig: 127, 135\r\n  offset: 0, 0\r\n  index: -1\r\nxg\r\n  rotate: true\r\n  xy: 185, 53\r\n  size: 199, 192\r\n  orig: 199, 192\r\n  offset: 0, 0\r\n  index: -1\r\nxin\r\n  rotate: true\r\n  xy: 320, 14\r\n  size: 37, 35\r\n  orig: 37, 35\r\n  offset: 0, 0\r\n  index: -1\r\nyuanjiao\r\n  rotate: false\r\n  xy: 713, 89\r\n  size: 192, 91\r\n  orig: 192, 91\r\n  offset: 0, 0\r\n  index: -1\r\nzi\r\n  rotate: false\r\n  xy: 713, 182\r\n  size: 263, 70\r\n  orig: 263, 70\r\n  offset: 0, 0\r\n  index: -1\r\nzi_di\r\n  rotate: false\r\n  xy: 379, 158\r\n  size: 332, 94\r\n  orig: 332, 94\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "ed0365f3-51a2-4542-ae1d-341c6c3d345a"
+    }
+  ],
+  "textureNames": [
+    "heijin_icon_kpqz.png"
+  ],
+  "scale": 1
+}

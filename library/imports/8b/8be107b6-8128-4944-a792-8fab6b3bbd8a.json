@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "plaza_vip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.933333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "saoguang_J": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -60
+            },
+            {
+              "frame": 3.1,
+              "value": 300
+            },
+            {
+              "frame": 3.933333333333333,
+              "value": 300
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

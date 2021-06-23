@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_quanfu_1",
+    "texture": "1a6393e8-94b1-4eef-8842-22fc2d1e1f22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

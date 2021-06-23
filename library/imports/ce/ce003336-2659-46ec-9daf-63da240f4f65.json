@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_querentixian",
+    "texture": "7edb3752-e937-44af-afb1-7406c5cb6d4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      207,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qingkong",
+    "texture": "b6203196-58a3-4095-8080-d4f9392ab4d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

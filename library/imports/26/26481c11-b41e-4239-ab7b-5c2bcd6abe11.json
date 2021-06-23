@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo_sg001",
+    "texture": "49e332ea-f8c5-4467-89d5-8ec209bf7da7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      277,
+      424
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      277,
+      424
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

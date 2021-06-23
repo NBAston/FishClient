@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yuezonan1",
+    "texture": "736712a0-77fa-455d-8cf4-d2126e45ec78",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

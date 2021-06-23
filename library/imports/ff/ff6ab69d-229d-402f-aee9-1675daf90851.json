@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_myselfCards",
+    "texture": "28a4a451-b81a-4ab2-bfe2-a0d5e5841add",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1782,
+      620
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1782,
+      620
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

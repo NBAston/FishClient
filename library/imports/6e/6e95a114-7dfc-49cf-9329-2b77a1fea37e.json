@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qianjibi",
+    "texture": "0b104763-0296-4c03-8011-7ec569aef159",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      945,
+      293
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      945,
+      293
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

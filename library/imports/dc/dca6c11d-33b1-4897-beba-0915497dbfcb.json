@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_cjanhuang",
+    "texture": "c6decf94-601f-4278-bd77-29cddc10a135",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      253,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      253,
+      70
+    ],
+    "capInsets": [
+      100,
+      0,
+      100,
+      0
+    ]
+  }
+}

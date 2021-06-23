@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_start_anxia_2",
+    "texture": "4543605f-4994-4894-9fef-2537ffc2abf1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      164,
+      161
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      161
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

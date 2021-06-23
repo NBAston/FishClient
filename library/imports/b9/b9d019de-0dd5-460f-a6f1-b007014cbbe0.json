@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_duizhandi_xian",
+    "texture": "c3444ac6-72ba-4b02-9c8e-8b9bb56ddc3b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      623,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      623,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

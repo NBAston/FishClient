@@ -1,0 +1,48 @@
+
+fx_by_mhzp_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef_Glow083
+  rotate: false
+  xy: 568, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_Glow_07_00
+  rotate: false
+  xy: 516, 507
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+img_loadding_light
+  rotate: true
+  xy: 819, 623
+  size: 316, 175
+  orig: 316, 175
+  offset: 0, 0
+  index: -1
+tex_glow_flair09_00
+  rotate: false
+  xy: 2, 427
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tex_light_00
+  rotate: false
+  xy: 516, 637
+  size: 301, 302
+  orig: 301, 302
+  offset: 0, 0
+  index: -1
+tex_light_709_0000
+  rotate: false
+  xy: 2, 2
+  size: 564, 423
+  orig: 564, 423
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zhuojishuoming",
+    "texture": "df38279f-8113-4315-9e47-ddedacec4ee4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      650,
+      692
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      650,
+      692
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

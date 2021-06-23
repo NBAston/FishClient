@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_xiala",
+    "texture": "2c1b2206-1ded-4810-ba71-66cf7c18fdfd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

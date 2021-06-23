@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fish21.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "fish21_move1": {
+      "__uuid__": "0bb23309-c50b-4501-842c-913eab081ccc"
+    },
+    "fish21_move10": {
+      "__uuid__": "223d3d2a-cfa4-4f55-b0f2-8dcd5c66ade2"
+    },
+    "fish21_move2": {
+      "__uuid__": "c1fb4aec-a0af-4b73-a925-a44a1a37665f"
+    },
+    "fish21_move3": {
+      "__uuid__": "36de1228-75c4-44f6-aa71-1b8b0e85ad6e"
+    },
+    "fish21_move4": {
+      "__uuid__": "dfa29160-8641-4439-a59a-d11978f93ddf"
+    },
+    "fish21_move5": {
+      "__uuid__": "508fc610-c6c6-4f3b-a9ea-2b4d0315884f"
+    },
+    "fish21_move6": {
+      "__uuid__": "074c5d7b-68dd-410f-9ce3-39a30ce1ab8c"
+    },
+    "fish21_move7": {
+      "__uuid__": "d8334855-148d-45e4-9a24-099433743a64"
+    },
+    "fish21_move8": {
+      "__uuid__": "1e2976a9-f727-4151-b27b-f108e10e21d6"
+    },
+    "fish21_move9": {
+      "__uuid__": "30125355-09c6-4d89-8ba5-a7fc54d5500b"
+    }
+  }
+}

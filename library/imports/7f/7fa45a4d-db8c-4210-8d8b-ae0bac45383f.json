@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_dianhuahao",
+    "texture": "825817af-8fe5-4f1b-a67e-3791e979b65b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      207
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      166,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

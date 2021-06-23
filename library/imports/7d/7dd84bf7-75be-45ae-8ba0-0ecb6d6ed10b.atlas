@@ -1,0 +1,132 @@
+
+heijin_icon_jszjh.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 518, 486
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+AA
+  rotate: false
+  xy: 776, 767
+  size: 174, 239
+  orig: 174, 239
+  offset: 0, 0
+  index: -1
+AAA
+  rotate: true
+  xy: 2, 2
+  size: 230, 258
+  orig: 230, 258
+  offset: 0, 0
+  index: -1
+baozha_04/01
+  rotate: false
+  xy: 2, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baozha_04/02
+  rotate: false
+  xy: 2, 492
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baozha_04/03
+  rotate: false
+  xy: 260, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baozha_04/04
+  rotate: false
+  xy: 2, 234
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baozha_04/05
+  rotate: false
+  xy: 260, 492
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baozha_04/06
+  rotate: false
+  xy: 518, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 260, 337
+  size: 172, 153
+  orig: 172, 153
+  offset: 0, 0
+  index: -1
+xx/x_00
+  rotate: false
+  xy: 737, 481
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_01
+  rotate: false
+  xy: 859, 637
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_02
+  rotate: false
+  xy: 867, 507
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_03
+  rotate: false
+  xy: 434, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx/x_04
+  rotate: false
+  xy: 564, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+zhadan
+  rotate: true
+  xy: 737, 611
+  size: 137, 120
+  orig: 137, 120
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 354, 19
+  size: 316, 67
+  orig: 316, 67
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: true
+  xy: 262, 3
+  size: 332, 90
+  orig: 332, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_rpj",
+    "texture": "41f7a516-2078-4f10-8673-ab6dbd5b8220",
+    "atlas": "6b92a2b7-255c-4ba1-b454-5e24133c27a0",
+    "rect": [
+      137,
+      137,
+      135,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      135
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

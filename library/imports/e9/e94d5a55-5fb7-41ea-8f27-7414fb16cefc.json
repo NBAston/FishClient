@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_chongliandi",
+    "texture": "7be34e69-53e3-45a4-bd76-02691e568a90",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      209,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      209,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

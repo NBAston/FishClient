@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_cunru",
+    "texture": "d0b64634-6934-4a26-9c82-e4a9f9963a5f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

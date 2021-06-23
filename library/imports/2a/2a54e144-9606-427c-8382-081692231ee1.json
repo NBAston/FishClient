@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_dianjin2",
+    "texture": "d424a158-d259-4d52-a478-f720dbcd0826",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

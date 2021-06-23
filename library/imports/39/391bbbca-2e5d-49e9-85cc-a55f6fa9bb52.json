@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bangding_2",
+    "texture": "66d65a28-e1ef-4b89-aa5f-5f595abfd7f4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

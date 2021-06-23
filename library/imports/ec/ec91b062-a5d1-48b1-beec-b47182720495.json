@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_collectionweek",
+    "texture": "4e138812-fd36-4f5d-a3c3-94e41cb8dafd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

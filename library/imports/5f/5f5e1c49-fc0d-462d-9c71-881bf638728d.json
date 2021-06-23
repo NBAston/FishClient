@@ -1,0 +1,326 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_mhzp_03",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "QRcwdv3u5sKQJlUGi7Nn5+HQOUs",
+      "spine": "3.6.53",
+      "width": 181.61,
+      "height": 210.26,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "dian1",
+        "parent": "root",
+        "length": 40.05
+      },
+      {
+        "name": "pan",
+        "parent": "root",
+        "length": 40.05
+      },
+      {
+        "name": "zi1",
+        "parent": "root",
+        "length": 40.05,
+        "x": -49.85,
+        "y": 106.76
+      },
+      {
+        "name": "zi2",
+        "parent": "root",
+        "length": 40.05,
+        "x": -5.95,
+        "y": 106.76
+      },
+      {
+        "name": "zi3",
+        "parent": "root",
+        "length": 40.05,
+        "x": 40,
+        "y": 106.76
+      },
+      {
+        "name": "zi4",
+        "parent": "root",
+        "length": 40.05,
+        "x": 71.65,
+        "y": 96.55
+      },
+      {
+        "name": "zi5",
+        "parent": "root",
+        "length": 40.05,
+        "x": 82.88,
+        "y": 96.55
+      },
+      {
+        "name": "zi6",
+        "parent": "root",
+        "length": 40.05,
+        "x": 94.11,
+        "y": 96.55
+      }
+    ],
+    "slots": [
+      {
+        "name": "mini_zhuanpan",
+        "bone": "pan",
+        "attachment": "mini_zhuanpan"
+      },
+      {
+        "name": "img_yao",
+        "bone": "zi1",
+        "attachment": "img_yao"
+      },
+      {
+        "name": "img_yao2",
+        "bone": "zi2",
+        "attachment": "img_jiang"
+      },
+      {
+        "name": "img_yao3",
+        "bone": "zi3",
+        "attachment": "img_zhong"
+      },
+      {
+        "name": "img_yao4",
+        "bone": "zi4",
+        "attachment": "img_dian"
+      },
+      {
+        "name": "img_yao5",
+        "bone": "zi5",
+        "attachment": "img_dian"
+      },
+      {
+        "name": "img_yao6",
+        "bone": "zi6",
+        "attachment": "img_dian"
+      }
+    ],
+    "skins": {
+      "default": {
+        "img_yao": {
+          "img_yao": {
+            "width": 39,
+            "height": 44
+          }
+        },
+        "img_yao2": {
+          "img_jiang": {
+            "width": 39,
+            "height": 44
+          }
+        },
+        "img_yao3": {
+          "img_zhong": {
+            "width": 37,
+            "height": 44
+          }
+        },
+        "img_yao4": {
+          "img_dian": {
+            "width": 11,
+            "height": 16
+          }
+        },
+        "img_yao5": {
+          "img_dian": {
+            "width": 11,
+            "height": 16
+          }
+        },
+        "img_yao6": {
+          "img_dian": {
+            "width": 11,
+            "height": 16
+          }
+        },
+        "mini_zhuanpan": {
+          "mini_zhuanpan": {
+            "width": 164,
+            "height": 163
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation_3": {
+        "bones": {
+          "zi1": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.1667,
+                "x": 0,
+                "y": 10.21
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": -6.13
+              },
+              {
+                "time": 0.5333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi2": {
+            "translate": [
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5333,
+                "x": 0,
+                "y": 10.21
+              },
+              {
+                "time": 0.7333,
+                "x": 0,
+                "y": -6.13
+              },
+              {
+                "time": 0.9,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi3": {
+            "translate": [
+              {
+                "time": 0.7333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.9,
+                "x": 0,
+                "y": 10.21
+              },
+              {
+                "time": 1.0667,
+                "x": 0,
+                "y": -6.13
+              },
+              {
+                "time": 1.2667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi4": {
+            "translate": [
+              {
+                "time": 1.0667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.2667,
+                "x": 0,
+                "y": 10.21
+              },
+              {
+                "time": 1.4333,
+                "x": 0,
+                "y": -6.13
+              },
+              {
+                "time": 1.6333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi5": {
+            "translate": [
+              {
+                "time": 1.4333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.6333,
+                "x": 0,
+                "y": 10.21
+              },
+              {
+                "time": 1.8,
+                "x": 0,
+                "y": -6.13
+              },
+              {
+                "time": 1.9667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi6": {
+            "translate": [
+              {
+                "time": 1.8,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.9667,
+                "x": 0,
+                "y": 10.21
+              },
+              {
+                "time": 2.1667,
+                "x": 0,
+                "y": -6.13
+              }
+            ]
+          },
+          "pan": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1.0667,
+                "angle": 180
+              },
+              {
+                "time": 2.1667,
+                "angle": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nfx_by_mhzp_03.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimg_dian\n  rotate: false\n  xy: 2, 2\n  size: 11, 16\n  orig: 11, 16\n  offset: 0, 0\n  index: -1\nimg_jiang\n  rotate: false\n  xy: 2, 20\n  size: 39, 44\n  orig: 39, 44\n  offset: 0, 0\n  index: -1\nimg_yao\n  rotate: false\n  xy: 168, 185\n  size: 39, 44\n  orig: 39, 44\n  offset: 0, 0\n  index: -1\nimg_zhong\n  rotate: false\n  xy: 43, 20\n  size: 37, 44\n  orig: 37, 44\n  offset: 0, 0\n  index: -1\nmini_zhuanpan\n  rotate: false\n  xy: 2, 66\n  size: 164, 163\n  orig: 164, 163\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "b0804e7d-3c0b-44d2-b282-1f7ffd9c2117"
+    }
+  ],
+  "textureNames": [
+    "fx_by_mhzp_03.png"
+  ],
+  "scale": 1
+}

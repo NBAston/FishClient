@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_7ri_renwu",
+    "texture": "278c4dab-e085-40ab-955a-6b236b5b24a9",
+    "atlas": "",
+    "rect": [
+      15,
+      3,
+      2013,
+      507
+    ],
+    "offset": [
+      -2.5,
+      -0.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_kaubgkuan",
+    "texture": "3ad36167-ce4a-46c6-9953-e98245b3942e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      431,
+      654
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      431,
+      654
+    ],
+    "capInsets": [
+      146,
+      203,
+      109,
+      275
+    ]
+  }
+}

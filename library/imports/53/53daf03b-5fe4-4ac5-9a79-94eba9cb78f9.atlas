@@ -1,0 +1,76 @@
+
+heijin_icon_kpqz.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianjiao
+  rotate: false
+  xy: 628, 18
+  size: 186, 69
+  orig: 186, 69
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 508, 30
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 185, 10
+  size: 133, 41
+  orig: 133, 41
+  offset: 0, 0
+  index: -1
+niushen
+  rotate: true
+  xy: 2, 2
+  size: 250, 181
+  orig: 250, 181
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 379, 21
+  size: 127, 135
+  orig: 127, 135
+  offset: 0, 0
+  index: -1
+xg
+  rotate: true
+  xy: 185, 53
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+xin
+  rotate: true
+  xy: 320, 14
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+yuanjiao
+  rotate: false
+  xy: 713, 89
+  size: 192, 91
+  orig: 192, 91
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 713, 182
+  size: 263, 70
+  orig: 263, 70
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 379, 158
+  size: 332, 94
+  orig: 332, 94
+  offset: 0, 0
+  index: -1

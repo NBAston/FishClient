@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_caishen",
+    "texture": "e5d6ade8-cf77-4377-add1-53bca04b0733",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      465,
+      269
+    ],
+    "offset": [
+      -23.5,
+      1.5
+    ],
+    "originalSize": [
+      512,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

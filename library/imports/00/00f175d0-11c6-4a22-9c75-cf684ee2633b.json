@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_anniudi",
+    "texture": "7e0987f6-ba7a-45de-8169-93ff4473baf1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      117
+    ],
+    "capInsets": [
+      50,
+      70,
+      50,
+      40
+    ]
+  }
+}

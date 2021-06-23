@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zhucedenglu",
+    "texture": "39e376b7-5d33-4e37-96db-c6a7d036c5d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+
+fx_by_ryxwrcdh.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_01
+  rotate: false
+  xy: 2, 2
+  size: 960, 304
+  orig: 960, 304
+  offset: 0, 0
+  index: -1
+gui
+  rotate: false
+  xy: 2, 308
+  size: 776, 674
+  orig: 776, 674
+  offset: 0, 0
+  index: -1
+xx_512
+  rotate: false
+  xy: 884, 437
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+zi_cs
+  rotate: true
+  xy: 884, 567
+  size: 415, 107
+  orig: 415, 107
+  offset: 0, 0
+  index: -1
+zi_xiao
+  rotate: true
+  xy: 780, 395
+  size: 587, 102
+  orig: 587, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_dibang",
+    "texture": "f46d60e4-3f86-4210-9df9-85bb399aee39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      217,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      217,
+      118
+    ],
+    "capInsets": [
+      51,
+      0,
+      55,
+      0
+    ]
+  }
+}

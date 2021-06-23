@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jiesuanshijian",
+    "texture": "b2a46fd4-72a4-493f-85b5-2c9457bda768",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

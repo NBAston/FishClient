@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zhanghaodenglu",
+    "texture": "28f27ed1-be78-4a90-a2b7-1aa39ce46a15",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      279,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

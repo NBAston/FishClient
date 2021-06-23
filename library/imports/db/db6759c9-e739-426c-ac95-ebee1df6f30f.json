@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_ty_22",
+    "texture": "43f18476-a68d-4979-8835-5a25ee0d9b84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      345,
+      398
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      345,
+      398
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

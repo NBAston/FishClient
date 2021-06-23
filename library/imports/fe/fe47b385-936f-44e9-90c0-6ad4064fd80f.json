@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_huodejiangli6",
+    "texture": "813ecd33-2edd-4b00-9557-2f9decb5321a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      965,
+      562
+    ],
+    "offset": [
+      -27.5,
+      229
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

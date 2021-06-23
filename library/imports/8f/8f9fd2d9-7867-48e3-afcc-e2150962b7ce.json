@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_fishanniu1",
+    "texture": "2b150a2f-837a-4d67-bf56-b5ed0699a46f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

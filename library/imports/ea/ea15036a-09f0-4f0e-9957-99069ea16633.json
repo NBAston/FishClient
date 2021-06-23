@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_corner_mark4",
+    "texture": "221f53cb-caf5-49da-a5f4-2745e7cb65d6",
+    "atlas": "1156e040-02a9-415d-a4a0-09662ec2ae8e",
+    "rect": [
+      2,
+      2,
+      104,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

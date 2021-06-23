@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_huoyuezhi",
+    "texture": "5e2cf730-3b75-4918-9d2a-0eb06be518eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      107
+    ],
+    "offset": [
+      -17.5,
+      10.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

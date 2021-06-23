@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_youfenge",
+    "texture": "faf1522c-cea9-4b72-9b05-67d638ce0df0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1318,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1318,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

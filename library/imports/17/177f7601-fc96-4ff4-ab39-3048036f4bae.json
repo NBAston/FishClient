@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_zjm_paomadeng2",
+    "texture": "96b5505f-0bae-46e3-a957-5644072144c7",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1846,
+      918
+    ],
+    "offset": [
+      -99,
+      50
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

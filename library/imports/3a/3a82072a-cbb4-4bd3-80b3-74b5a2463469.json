@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_nianhua",
+    "texture": "81776959-be45-40e5-9703-c78d903e9417",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      167,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

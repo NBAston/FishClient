@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zhzc",
+    "texture": "a34df5fc-1d29-476f-a585-f08315361f4e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

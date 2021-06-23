@@ -1,0 +1,381 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_7_9pao_zha",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "LTV0QJhRZcUub8Sx4+EwX681SAU",
+      "spine": "3.6.53",
+      "width": 386.48,
+      "height": 386.48,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "glow_ci",
+        "parent": "root",
+        "length": 29.66,
+        "scaleX": 0.668,
+        "scaleY": 0.668
+      },
+      {
+        "name": "glow_g",
+        "parent": "root",
+        "length": 29.66,
+        "scaleX": 1.51,
+        "scaleY": 1.51
+      },
+      {
+        "name": "glow_g2",
+        "parent": "root",
+        "length": 29.66,
+        "scaleX": 1.51,
+        "scaleY": 1.51
+      },
+      {
+        "name": "quan",
+        "parent": "root",
+        "length": 29.66,
+        "scaleX": 2.023,
+        "scaleY": 2.023
+      },
+      {
+        "name": "quan2",
+        "parent": "root",
+        "length": 29.66,
+        "scaleX": 0.914,
+        "scaleY": 0.914
+      },
+      {
+        "name": "quan3",
+        "parent": "root",
+        "length": 29.66,
+        "scaleX": 0.914,
+        "scaleY": 0.914
+      }
+    ],
+    "slots": [
+      {
+        "name": "Tex_Circle_21",
+        "bone": "glow_g",
+        "attachment": "pai_glow_00006"
+      },
+      {
+        "name": "Tex_Circle_24",
+        "bone": "glow_g2",
+        "attachment": "pai_glow_00006",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_0020",
+        "bone": "glow_ci",
+        "color": "677fffff",
+        "attachment": "Tex_Circle_0020",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_20",
+        "bone": "quan",
+        "attachment": "Tex_Circle_0012",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Circle_23",
+        "bone": "quan3",
+        "attachment": "monk_mystic_00"
+      },
+      {
+        "name": "Tex_Circle_22",
+        "bone": "quan2",
+        "attachment": "monk_mystic_00",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Tex_Circle_0020": {
+          "Tex_Circle_0020": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "Tex_Circle_20": {
+          "Tex_Circle_0012": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Circle_21": {
+          "pai_glow_00006": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Circle_22": {
+          "monk_mystic_00": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Circle_23": {
+          "monk_mystic_00": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "Tex_Circle_24": {
+          "pai_glow_00006": {
+            "width": 256,
+            "height": 256
+          }
+        }
+      }
+    },
+    "animations": {
+      "attack": {
+        "slots": {
+          "Tex_Circle_0020": {
+            "color": [
+              {
+                "time": 0.2333,
+                "color": "677fffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "677eff00"
+              }
+            ]
+          },
+          "Tex_Circle_20": {
+            "color": [
+              {
+                "time": 0,
+                "color": "677eff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "e3e8ff00"
+              }
+            ]
+          },
+          "Tex_Circle_21": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Circle_22": {
+            "color": [
+              {
+                "time": 0,
+                "color": "677eff00"
+              },
+              {
+                "time": 0.1,
+                "color": "677fffff"
+              },
+              {
+                "time": 0.2333,
+                "color": "a5b3ffff"
+              },
+              {
+                "time": 0.3667,
+                "color": "e3e8ff00"
+              }
+            ]
+          },
+          "Tex_Circle_23": {
+            "color": [
+              {
+                "time": 0,
+                "color": "677eff00"
+              },
+              {
+                "time": 0.1,
+                "color": "677fffff"
+              },
+              {
+                "time": 0.2333,
+                "color": "a5b3ffff"
+              },
+              {
+                "time": 0.3667,
+                "color": "e3e8ff00"
+              }
+            ]
+          },
+          "Tex_Circle_24": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "glow_ci": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.0667,
+                "x": 0.748,
+                "y": 0.748
+              },
+              {
+                "time": 0.2333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "quan": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.1,
+                "x": 1.006,
+                "y": 1.006
+              },
+              {
+                "time": 0.3333,
+                "x": 1.422,
+                "y": 1.422
+              }
+            ]
+          },
+          "glow_g": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.1,
+                "x": 0.748,
+                "y": 0.748
+              },
+              {
+                "time": 0.3,
+                "x": 1.026,
+                "y": 1.026
+              }
+            ]
+          },
+          "quan2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3667,
+                "angle": -90
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.006,
+                "y": 1.006
+              },
+              {
+                "time": 0.3667,
+                "x": 1.422,
+                "y": 1.422
+              }
+            ]
+          },
+          "quan3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3667,
+                "angle": -90
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.006,
+                "y": 1.006
+              },
+              {
+                "time": 0.3667,
+                "x": 1.422,
+                "y": 1.422
+              }
+            ]
+          },
+          "glow_g2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.1,
+                "x": 0.748,
+                "y": 0.748
+              },
+              {
+                "time": 0.3,
+                "x": 1.026,
+                "y": 1.026
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_7_9pao_zha.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nTex_Circle_0012\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nTex_Circle_0020\r\n  rotate: false\r\n  xy: 2, 390\r\n  size: 512, 512\r\n  orig: 512, 512\r\n  offset: 0, 0\r\n  index: -1\r\nmonk_mystic_00\r\n  rotate: false\r\n  xy: 2, 132\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\npai_glow_00006\r\n  rotate: false\r\n  xy: 516, 646\r\n  size: 256, 256\r\n  orig: 256, 256\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "18703d96-eb5e-4677-bf0c-8431f9ce4316"
+    }
+  ],
+  "textureNames": [
+    "fx_by_7_9pao_zha.png"
+  ],
+  "scale": 1
+}

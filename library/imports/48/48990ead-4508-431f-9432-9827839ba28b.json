@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jibi",
+    "texture": "e1db1090-734c-4347-81cd-3611fd79f28b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      602,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      174
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

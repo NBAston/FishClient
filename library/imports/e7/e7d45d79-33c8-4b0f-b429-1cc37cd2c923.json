@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_vip_dkan",
+    "texture": "7c58fd0f-5640-4baf-81f7-a1ee5144ce66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

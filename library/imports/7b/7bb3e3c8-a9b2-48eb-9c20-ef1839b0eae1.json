@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_ewaizengsong",
+    "texture": "38369c80-9b51-44f1-9397-b9973cb0c121",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      118
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      123,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shengcaiyoudao",
+    "texture": "3efc4199-010e-499a-9357-e0052f6809a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      461,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      461,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

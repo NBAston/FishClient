@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tqfs",
+    "texture": "0d8e5e82-92a4-4047-a7e5-657c1284696a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

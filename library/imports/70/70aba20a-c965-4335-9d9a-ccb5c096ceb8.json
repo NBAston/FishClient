@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_buobziji",
+    "texture": "5512dfdc-efc2-48a3-8c61-cd984c3324b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      249,
+      119
+    ],
+    "offset": [
+      -3.5,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

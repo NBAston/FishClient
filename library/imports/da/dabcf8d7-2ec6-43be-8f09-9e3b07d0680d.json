@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zhuce",
+    "texture": "493101b3-102a-41b1-a5ea-0a0274d98a1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

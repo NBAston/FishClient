@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiala",
+    "texture": "e0f3cebb-af49-4aa3-ab29-8a71f8b33c7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      25,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      25,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

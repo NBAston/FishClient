@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jigejinbi",
+    "texture": "46c6977f-fcee-46dd-8b84-d2dcb2dfb22d",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      105,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

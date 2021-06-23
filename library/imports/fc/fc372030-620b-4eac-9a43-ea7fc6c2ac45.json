@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_paomadengdi2",
+    "texture": "711a301e-d877-410c-aef2-7eb38f1c373f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1094,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1094,
+      57
+    ],
+    "capInsets": [
+      527,
+      29,
+      528,
+      28
+    ]
+  }
+}

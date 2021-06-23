@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_youhui",
+    "texture": "9e0af534-9701-4746-b93f-470a1033e1d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      583,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      583,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_huozeng",
+    "texture": "83be4148-7fde-4185-9912-577d9f921993",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      326,
+      185
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      326,
+      185
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_yanzhenma",
+    "texture": "046a7aa2-2805-459e-ad90-6c5769c88461",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      98
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      92,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

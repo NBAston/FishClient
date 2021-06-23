@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ft_verifica",
+    "texture": "011d2b0f-e381-4178-a023-ca57284d3dc2",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      239,
+      76
+    ],
+    "offset": [
+      -6.5,
+      89
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

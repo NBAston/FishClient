@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_by_xuanwubuhuo",
+    "texture": "47143646-4c02-4356-b323-15a74231a277",
+    "atlas": "",
+    "rect": [
+      2,
+      114,
+      1952,
+      1890
+    ],
+    "offset": [
+      -46,
+      -35
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiaobeijin",
+    "texture": "1e7158f8-8fed-4b3b-9dd0-87fe7677e8e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

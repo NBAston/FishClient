@@ -1,0 +1,387 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_jubaopen_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "PBtFUFjOfitGZ6PZNkCC1KSXEOY",
+      "spine": "3.6.53",
+      "width": 564,
+      "height": 586.87,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "1",
+        "parent": "root",
+        "length": 84.58
+      },
+      {
+        "name": "glow_03",
+        "parent": "1",
+        "length": 28.04,
+        "rotation": 90,
+        "scaleX": 1.373,
+        "scaleY": 1.373
+      },
+      {
+        "name": "glow_q",
+        "parent": "1",
+        "length": 18.44
+      },
+      {
+        "name": "glow_q2",
+        "parent": "1",
+        "length": 18.44
+      },
+      {
+        "name": "glow_q3",
+        "parent": "1",
+        "length": 18.44,
+        "y": 119.37
+      },
+      {
+        "name": "glow_q4",
+        "parent": "1",
+        "length": 18.44,
+        "rotation": 180
+      },
+      {
+        "name": "xx1",
+        "parent": "1",
+        "length": 18.44
+      }
+    ],
+    "slots": [
+      {
+        "name": "Tex_Glow_0007",
+        "bone": "glow_q",
+        "attachment": "Tex_Glow_07_00",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Glow_9",
+        "bone": "glow_q4",
+        "attachment": "Tex_Glow_07_00",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Glow_7",
+        "bone": "glow_q2",
+        "attachment": "tex_glow_flair09_00",
+        "blend": "additive"
+      },
+      {
+        "name": "xx1",
+        "bone": "xx1",
+        "attachment": "fx_light_y912",
+        "blend": "additive"
+      },
+      {
+        "name": "Tex_Glow_8",
+        "bone": "glow_q3",
+        "attachment": "tex_light_709_0000",
+        "blend": "additive"
+      },
+      {
+        "name": "img_guang3",
+        "bone": "glow_03",
+        "attachment": "Ef_Glow083",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Tex_Glow_0007": {
+          "Tex_Glow_07_00": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "Tex_Glow_7": {
+          "tex_glow_flair09_00": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "Tex_Glow_8": {
+          "tex_light_709_0000": {
+            "x": 18.99,
+            "width": 564,
+            "height": 423
+          }
+        },
+        "Tex_Glow_9": {
+          "Tex_Glow_07_00": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "img_guang3": {
+          "Ef_Glow083": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "xx1": {
+          "fx_light_y912": {
+            "width": 512,
+            "height": 512
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation_1": {
+        "slots": {
+          "Tex_Glow_0007": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Glow_7": {
+            "color": [
+              {
+                "time": 0,
+                "color": "63cdff00"
+              },
+              {
+                "time": 0.2667,
+                "color": "fff163ff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffb86300"
+              }
+            ]
+          },
+          "Tex_Glow_8": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Tex_Glow_9": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "img_guang3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "xx1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "63cdff00"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffb86300"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "glow_q": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 21.36
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.71,
+                "y": 0.71
+              },
+              {
+                "time": 0.2333,
+                "x": 6.212,
+                "y": 6.212
+              },
+              {
+                "time": 0.5,
+                "x": 15,
+                "y": 15
+              }
+            ]
+          },
+          "glow_03": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1667,
+                "x": 5.261,
+                "y": 5.261
+              }
+            ]
+          },
+          "glow_q2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1.1667,
+                "angle": -100
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.71,
+                "y": 0.71
+              },
+              {
+                "time": 0.2667,
+                "x": 3.502,
+                "y": 3.502
+              },
+              {
+                "time": 1.1667,
+                "x": 4.5,
+                "y": 4.5
+              }
+            ]
+          },
+          "glow_q3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.71,
+                "y": 0.71
+              },
+              {
+                "time": 0.2333,
+                "x": 3.264,
+                "y": 3.264
+              },
+              {
+                "time": 0.8667,
+                "x": 4.5,
+                "y": 4.5
+              }
+            ]
+          },
+          "glow_q4": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 21.36
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.71,
+                "y": 0.71
+              },
+              {
+                "time": 0.7667,
+                "x": 17,
+                "y": 17
+              }
+            ]
+          },
+          "xx1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.2667,
+                "x": 1.792,
+                "y": 1.792
+              },
+              {
+                "time": 0.6667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nfx_by_jubaopen_01.png\nsize: 2048,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nEf_Glow083\n  rotate: false\n  xy: 1030, 683\n  size: 256, 256\n  orig: 256, 256\n  offset: 0, 0\n  index: -1\nTex_Glow_07_00\n  rotate: false\n  xy: 568, 297\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nfx_light_y912\n  rotate: false\n  xy: 516, 427\n  size: 512, 512\n  orig: 512, 512\n  offset: 0, 0\n  index: -1\ntex_glow_flair09_00\n  rotate: false\n  xy: 2, 427\n  size: 512, 512\n  orig: 512, 512\n  offset: 0, 0\n  index: -1\ntex_light_709_0000\n  rotate: false\n  xy: 2, 2\n  size: 564, 423\n  orig: 564, 423\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "9427de84-0669-4043-8fe7-7dbac2540768"
+    }
+  ],
+  "textureNames": [
+    "fx_by_jubaopen_01.png"
+  ],
+  "scale": 1
+}

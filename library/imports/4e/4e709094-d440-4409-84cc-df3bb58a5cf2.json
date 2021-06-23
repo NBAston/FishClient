@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_claimbox",
+    "texture": "add4c66c-7e30-4135-b10b-e75ccb638c68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      403,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      403,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

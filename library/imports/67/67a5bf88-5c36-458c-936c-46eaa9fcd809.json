@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shandian_ball5",
+    "texture": "fdfe0f37-565b-4dd1-a2c0-458d05b99b90",
+    "atlas": "9e559c88-5e04-4e33-bb4c-a58d9a866b98",
+    "rect": [
+      498,
+      89,
+      81,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

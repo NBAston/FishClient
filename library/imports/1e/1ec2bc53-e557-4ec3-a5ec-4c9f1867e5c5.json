@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_beishudizuo",
+    "texture": "524286f2-a570-42e5-8f3f-e2ca7ec8fa77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shanchu",
+    "texture": "aba25ab2-148c-4580-ae1e-87e2cc8182a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      241,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      241,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

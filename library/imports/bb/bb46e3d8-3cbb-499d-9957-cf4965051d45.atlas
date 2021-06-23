@@ -1,0 +1,48 @@
+
+fx_by_putongpao02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodi
+  rotate: false
+  xy: 2, 70
+  size: 175, 159
+  orig: 175, 159
+  offset: 0, 0
+  index: -1
+baoshi
+  rotate: true
+  xy: 179, 118
+  size: 111, 178
+  orig: 111, 178
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 359, 131
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: true
+  xy: 119, 3
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+lv
+  rotate: false
+  xy: 2, 2
+  size: 115, 66
+  orig: 115, 66
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 179, 70
+  size: 46, 126
+  orig: 46, 126
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yuqianduo",
+    "texture": "1253c11c-4201-46e0-bbac-d7ac2e3e4969",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      461,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      461,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

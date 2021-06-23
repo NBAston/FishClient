@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_jinqu",
+    "texture": "3fb1da21-6121-4868-8fb2-381dfc0b1ceb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

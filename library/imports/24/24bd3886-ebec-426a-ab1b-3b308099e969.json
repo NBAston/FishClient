@@ -1,0 +1,119 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_miaozhun",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "s3kV9cr/HD0QPj4+6Q5T0TiPKN4",
+      "spine": "3.6.53",
+      "width": 256,
+      "height": 256,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "1",
+        "parent": "root",
+        "length": 33.06
+      }
+    ],
+    "slots": [
+      {
+        "name": "tex_miaozhun04",
+        "bone": "1",
+        "attachment": "tex_miaozhun05"
+      }
+    ],
+    "skins": {
+      "default": {
+        "tex_miaozhun04": {
+          "tex_miaozhun05": {
+            "width": 256,
+            "height": 256
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation_01": {
+        "slots": {
+          "tex_miaozhun04": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 90
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 5.581,
+                "y": 5.581
+              },
+              {
+                "time": 0.5,
+                "x": 0.7,
+                "y": 0.7
+              }
+            ]
+          }
+        }
+      },
+      "animation_02": {
+        "bones": {
+          "1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.7,
+                "y": 0.7
+              },
+              {
+                "time": 0.5,
+                "x": 0.446,
+                "y": 0.446
+              },
+              {
+                "time": 1,
+                "x": 0.7,
+                "y": 0.7
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nfx_by_miaozhun.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ntex_miaozhun05\n  rotate: false\n  xy: 2, 2\n  size: 256, 256\n  orig: 256, 256\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "9076199e-4d7f-41c3-a598-20f4544e6081"
+    }
+  ],
+  "textureNames": [
+    "fx_by_miaozhun.png"
+  ],
+  "scale": 1
+}

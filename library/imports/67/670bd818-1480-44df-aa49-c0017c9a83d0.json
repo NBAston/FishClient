@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jindutiao",
+    "texture": "4f7e5d56-acda-4c2e-bcfe-d806e0931565",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      409,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      409,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_kaiqi",
+    "texture": "2065abf9-8eba-4593-b621-50b29bcf079e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

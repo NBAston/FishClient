@@ -1,0 +1,55 @@
+
+heijin_icon_28g.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+majiang01
+  rotate: false
+  xy: 2, 304
+  size: 313, 197
+  orig: 313, 197
+  offset: 0, 0
+  index: -1
+majiang02
+  rotate: false
+  xy: 317, 334
+  size: 162, 167
+  orig: 162, 167
+  offset: 0, 0
+  index: -1
+touzi01
+  rotate: false
+  xy: 285, 174
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+touzi02
+  rotate: false
+  xy: 285, 63
+  size: 116, 109
+  orig: 116, 109
+  offset: 0, 0
+  index: -1
+yingying
+  rotate: false
+  xy: 2, 77
+  size: 281, 225
+  orig: 281, 225
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 5
+  size: 200, 70
+  orig: 200, 70
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: true
+  xy: 414, 2
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1

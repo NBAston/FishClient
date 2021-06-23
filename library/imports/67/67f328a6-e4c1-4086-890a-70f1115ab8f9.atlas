@@ -1,0 +1,20 @@
+
+fx_by_xuanwubaozha.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 409, 110
+  size: 307, 298
+  orig: 307, 298
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 2
+  size: 405, 406
+  orig: 405, 406
+  offset: 0, 0
+  index: -1

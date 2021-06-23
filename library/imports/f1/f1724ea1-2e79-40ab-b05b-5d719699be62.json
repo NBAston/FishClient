@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_jfdb_huangjin",
+    "texture": "9bba0840-40c0-4033-b205-1acab016e57c",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1020,
+      1019
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

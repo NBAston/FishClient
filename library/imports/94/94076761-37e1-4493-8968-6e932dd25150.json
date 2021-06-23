@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_paodanjiner",
+    "texture": "92658dd3-6f14-45ff-a330-ad9ebb01f1e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

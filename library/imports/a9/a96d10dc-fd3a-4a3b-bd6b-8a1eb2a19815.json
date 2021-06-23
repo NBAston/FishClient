@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_quchu",
+    "texture": "9f1db66a-bd50-4a9d-95b0-d1ccd80f8c68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

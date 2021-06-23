@@ -1,0 +1,111 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -7,
+      "y": 11,
+      "width": 1920,
+      "height": 1046,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "assets"
+            ],
+            "height": 941.5,
+            "type": "panel",
+            "width": 317
+          },
+          {
+            "active": 0,
+            "children": [
+              "hierarchy"
+            ],
+            "height": 941.5,
+            "type": "panel",
+            "width": 253
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene",
+              "console"
+            ],
+            "height": 941.5,
+            "type": "panel",
+            "width": 1034
+          },
+          {
+            "active": 1,
+            "children": [
+              "cocos-services",
+              "inspector",
+              "node-library"
+            ],
+            "height": 941.5,
+            "type": "panel",
+            "width": 307
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "assets",
+        "hierarchy",
+        "scene",
+        "console",
+        "cocos-services",
+        "inspector",
+        "node-library"
+      ]
+    }
+  },
+  "panels": {
+    "cloud-function": {
+      "x": 802,
+      "y": 295,
+      "width": 316,
+      "height": 465
+    },
+    "project-settings": {
+      "x": 1159,
+      "y": 226,
+      "width": 600,
+      "height": 565
+    },
+    "sprite-editor": {
+      "x": -8,
+      "y": -8,
+      "width": 1936,
+      "height": 1062
+    },
+    "timeline": {
+      "x": 333,
+      "y": 172,
+      "width": 1463,
+      "height": 795
+    },
+    "preferences": {
+      "x": 672,
+      "y": 245,
+      "width": 600,
+      "height": 565
+    },
+    "im-plugin": {
+      "x": 726,
+      "y": 108,
+      "width": 1016,
+      "height": 739
+    }
+  },
+  "panelLabelWidth": {
+    "inspector": null,
+    "preferences": null
+  },
+  "panelLabelWidth.inspector": null,
+  "panelLabelWidth.preferences": null
+}

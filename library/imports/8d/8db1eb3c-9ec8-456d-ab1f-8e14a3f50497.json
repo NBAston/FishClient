@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_verticalline",
+    "texture": "56c4b022-d73a-45bd-8017-44c06964fce7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2,
+      691
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2,
+      691
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

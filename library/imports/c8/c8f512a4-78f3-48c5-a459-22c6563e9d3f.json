@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_juxing",
+    "texture": "1e55b42c-0fb1-40e7-b613-d39b613e35a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      272,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

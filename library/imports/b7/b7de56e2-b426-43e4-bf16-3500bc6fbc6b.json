@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_querenxiugai",
+    "texture": "2e4662d5-2a3c-4fd6-a19a-d405bb078ef4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

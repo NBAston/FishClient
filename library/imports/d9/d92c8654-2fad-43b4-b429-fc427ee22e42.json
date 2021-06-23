@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_cjanzi",
+    "texture": "d312154f-200b-4df4-a1d0-940c09ee20e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      253,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      253,
+      70
+    ],
+    "capInsets": [
+      100,
+      0,
+      100,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tishikuang",
+    "texture": "a513f4ec-402a-48fa-ae43-5a1a5120861d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      841,
+      483
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      841,
+      483
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

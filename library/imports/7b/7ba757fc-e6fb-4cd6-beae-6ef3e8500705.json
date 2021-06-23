@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tixianjinerbangdi",
+    "texture": "a3b68230-d15e-4860-90e0-4444f0891934",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      568,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      568,
+      118
+    ],
+    "capInsets": [
+      200,
+      50,
+      200,
+      50
+    ]
+  }
+}

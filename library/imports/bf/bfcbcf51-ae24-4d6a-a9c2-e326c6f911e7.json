@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_xiaod",
+    "texture": "857d7f8e-80d6-4091-b3b1-d965c7769daf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      263
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

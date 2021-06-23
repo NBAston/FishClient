@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zhaocaijinbao",
+    "texture": "674adc44-465e-4b55-be19-a46ef75af704",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      470,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      470,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

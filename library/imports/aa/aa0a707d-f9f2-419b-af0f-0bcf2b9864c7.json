@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_zier",
+    "texture": "c023703f-2419-4243-915f-30c0935242af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      241,
+      141
+    ],
+    "offset": [
+      -7.5,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

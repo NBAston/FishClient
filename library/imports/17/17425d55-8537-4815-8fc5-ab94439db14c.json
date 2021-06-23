@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_wenzidi",
+    "texture": "efa7843e-4747-4dc4-bfb6-8825ffe8f31c",
+    "atlas": "",
+    "rect": [
+      772,
+      861,
+      867,
+      79
+    ],
+    "offset": [
+      0,
+      -360.5
+    ],
+    "originalSize": [
+      2411,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

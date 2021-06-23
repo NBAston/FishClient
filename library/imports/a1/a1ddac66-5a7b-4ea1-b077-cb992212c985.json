@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_sousu",
+    "texture": "c4431ff0-f11c-4d67-bab0-c2722f4878f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

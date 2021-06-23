@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_jianli",
+    "texture": "6a5d5aaa-9356-4293-bcb9-f4faa600a75c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      97
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      104,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

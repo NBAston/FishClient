@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_langhua",
+    "texture": "dad87888-a8a2-4a25-b201-c3c63e256c3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

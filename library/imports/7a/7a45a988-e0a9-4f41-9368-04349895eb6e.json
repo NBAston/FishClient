@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_caiyuangun",
+    "texture": "39c6524f-9dc1-4314-b14c-38653a393033",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      465,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      465,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

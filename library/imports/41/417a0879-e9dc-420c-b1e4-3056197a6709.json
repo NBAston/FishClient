@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "img_video.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "img_video19": {
+      "__uuid__": "c75306e5-6e7f-484b-a3c0-9cd2fa4005d5"
+    },
+    "img_video4": {
+      "__uuid__": "bb859623-4eed-4994-824d-571b1bd29398"
+    },
+    "img_video5": {
+      "__uuid__": "4ed75afb-0d92-45f4-af9d-5256548bb190"
+    },
+    "img_video9": {
+      "__uuid__": "31b8cd7d-3a27-4a0c-abb1-8c970a522775"
+    },
+    "img_video_title19": {
+      "__uuid__": "e05e3495-100e-4804-9449-6fd88d888a3c"
+    },
+    "img_video_title4": {
+      "__uuid__": "96c5bd63-5c6c-444f-91bc-6c7cabd4ea9e"
+    },
+    "img_video_title5": {
+      "__uuid__": "fce42843-a25c-4641-af9f-9a6e3eab98dc"
+    },
+    "img_video_title9": {
+      "__uuid__": "732a43f1-c7e7-4733-8880-749cded9238e"
+    }
+  }
+}

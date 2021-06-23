@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zonge",
+    "texture": "9789e87e-aae4-4b19-9b53-28006cc4c0e9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_touxiangjin",
+    "texture": "20b8c7e6-5658-4659-bdf5-9bbccdb01a73",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

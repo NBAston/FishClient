@@ -1,0 +1,125 @@
+
+zjm_zuanshi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_zi
+  rotate: false
+  xy: 2, 387
+  size: 226, 94
+  orig: 226, 94
+  offset: 0, 0
+  index: -1
+img_zhuanshi
+  rotate: true
+  xy: 395, 237
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+img_zhuanshi1
+  rotate: false
+  xy: 164, 20
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+zi_02/zi_01
+  rotate: false
+  xy: 2, 310
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_02
+  rotate: false
+  xy: 230, 406
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_03
+  rotate: false
+  xy: 2, 233
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_04
+  rotate: false
+  xy: 2, 156
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_05
+  rotate: false
+  xy: 2, 79
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_06
+  rotate: false
+  xy: 2, 2
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_07
+  rotate: true
+  xy: 164, 225
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_08
+  rotate: true
+  xy: 164, 63
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_09
+  rotate: true
+  xy: 241, 244
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_10
+  rotate: true
+  xy: 241, 82
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_11
+  rotate: true
+  xy: 318, 244
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_12
+  rotate: true
+  xy: 318, 82
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_13
+  rotate: false
+  xy: 241, 5
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+zi_02/zi_14
+  rotate: true
+  xy: 395, 321
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zuanshiredban",
+    "texture": "15339666-0204-4d84-b7f9-6b6ac506396f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      317,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      317,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

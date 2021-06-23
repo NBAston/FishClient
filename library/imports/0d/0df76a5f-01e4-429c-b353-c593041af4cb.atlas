@@ -1,0 +1,104 @@
+
+heijin_shouchongfanli.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-3
+  rotate: false
+  xy: 354, 249
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 520, 444
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 354, 206
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+1qqq
+  rotate: false
+  xy: 354, 340
+  size: 164, 158
+  orig: 164, 158
+  offset: 0, 0
+  index: -1
+gggg
+  rotate: false
+  xy: 2, 2
+  size: 195, 144
+  orig: 195, 144
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 148
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 578, 468
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 392, 226
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 445, 305
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 354, 176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 199, 3
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 252, 11
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 520, 416
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+xxxx
+  rotate: false
+  xy: 199, 34
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1

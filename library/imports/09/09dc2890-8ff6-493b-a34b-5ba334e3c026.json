@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_tujian",
+    "texture": "3d6599d9-e043-4b69-b4a7-4e929ba40063",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

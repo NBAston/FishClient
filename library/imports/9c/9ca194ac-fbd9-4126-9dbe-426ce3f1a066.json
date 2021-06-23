@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_icon_hbjl",
+    "texture": "bc48e821-8ca0-48de-b936-6fcffdfcbc86",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      963,
+      507
+    ],
+    "offset": [
+      -28.5,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

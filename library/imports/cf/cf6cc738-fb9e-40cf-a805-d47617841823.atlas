@@ -1,0 +1,41 @@
+
+fx_by_mhzp_03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dian
+  rotate: false
+  xy: 2, 2
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+img_jiang
+  rotate: false
+  xy: 2, 20
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+img_yao
+  rotate: false
+  xy: 168, 185
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+img_zhong
+  rotate: false
+  xy: 43, 20
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+mini_zhuanpan
+  rotate: false
+  xy: 2, 66
+  size: 164, 163
+  orig: 164, 163
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qdduihuan",
+    "texture": "4ee788a1-1248-4271-8f20-42e8abc2f6b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

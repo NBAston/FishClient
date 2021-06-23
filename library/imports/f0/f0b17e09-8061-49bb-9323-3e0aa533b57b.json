@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_yijian",
+    "texture": "7d19c0a8-fe0c-419e-86bf-b19222e81d93",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

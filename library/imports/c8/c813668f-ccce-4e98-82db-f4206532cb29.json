@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_tixianbang",
+    "texture": "19561892-8453-47d7-bf9d-5646ff3398f1",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      209,
+      243
+    ],
+    "offset": [
+      -21.5,
+      3.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

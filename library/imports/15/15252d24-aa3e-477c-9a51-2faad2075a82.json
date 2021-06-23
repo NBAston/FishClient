@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zhuce01",
+    "texture": "7f30bf4a-18cf-49f3-8297-1210bd31df98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      387,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      387,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

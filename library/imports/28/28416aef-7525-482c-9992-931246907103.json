@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_spinebg",
+    "texture": "7cec47b4-27a1-4c72-9dff-79dc18626ced",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      245,
+      232
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      245,
+      232
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

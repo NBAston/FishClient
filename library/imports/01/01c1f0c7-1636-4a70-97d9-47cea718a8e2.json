@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_queren",
+    "texture": "ca0afa2e-b682-4444-9072-3b94d0d0757b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      239,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      239,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

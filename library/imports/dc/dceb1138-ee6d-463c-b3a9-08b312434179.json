@@ -1,0 +1,333 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "heijin_tixianbang",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "N55JESWqWAveRsY7S8uJDLYgb2A",
+      "spine": "3.6.53",
+      "width": 650,
+      "height": 346.96,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 0.75,
+        "scaleY": 0.75
+      },
+      {
+        "name": "jb2",
+        "parent": "root",
+        "length": 7.4,
+        "x": -203.03,
+        "y": 148.78
+      },
+      {
+        "name": "jb3",
+        "parent": "root",
+        "length": 7.4,
+        "x": 211.25,
+        "y": 147.96
+      },
+      {
+        "name": "light_01",
+        "parent": "root",
+        "length": 61.4,
+        "y": 15.8,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "light_02",
+        "parent": "root",
+        "length": 61.4,
+        "y": 17,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "light_03",
+        "parent": "root",
+        "length": 61.4,
+        "y": 17,
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "images/jinbi2",
+        "bone": "jb2",
+        "attachment": "jinbi2"
+      },
+      {
+        "name": "images/jinbi3",
+        "bone": "jb3",
+        "attachment": "jinbi3"
+      },
+      {
+        "name": "light1",
+        "bone": "light_01",
+        "attachment": "lightd"
+      },
+      {
+        "name": "images/deng4",
+        "bone": "light_03",
+        "attachment": "light_03_00"
+      },
+      {
+        "name": "images/deng3",
+        "bone": "light_02",
+        "attachment": "light_02_00"
+      }
+    ],
+    "skins": {
+      "default": {
+        "images/deng3": {
+          "light_02_00": {
+            "width": 278,
+            "height": 91
+          }
+        },
+        "images/deng4": {
+          "light_03_00": {
+            "width": 278,
+            "height": 91
+          }
+        },
+        "images/jinbi2": {
+          "jinbi2": {
+            "x": -8.19,
+            "y": -1.53,
+            "width": 73,
+            "height": 59
+          }
+        },
+        "images/jinbi3": {
+          "jinbi3": {
+            "x": 2.39,
+            "y": 0.5,
+            "width": 56,
+            "height": 59
+          }
+        },
+        "light1": {
+          "lightd": {
+            "width": 269,
+            "height": 77
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "images/deng3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2667,
+                "name": "light_02_00"
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              },
+              {
+                "time": 0.8,
+                "name": "light_02_00"
+              },
+              {
+                "time": 1.0667,
+                "name": null
+              },
+              {
+                "time": 1.3333,
+                "name": "light_02_00"
+              },
+              {
+                "time": 1.6,
+                "name": null
+              },
+              {
+                "time": 1.8667,
+                "name": "light_02_00"
+              },
+              {
+                "time": 2.1333,
+                "name": "light_02_00"
+              }
+            ]
+          },
+          "images/deng4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "light_03_00"
+              },
+              {
+                "time": 0.2667,
+                "name": null
+              },
+              {
+                "time": 0.5333,
+                "name": "light_03_00"
+              },
+              {
+                "time": 0.8,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "light_03_00"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6,
+                "name": "light_03_00"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "jb2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.0667,
+                "angle": 13.11,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.1333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 37.27,
+                "y": -9.32,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.0667,
+                "x": 15.21,
+                "y": 14.75,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.1333,
+                "x": 37.27,
+                "y": -9.32
+              }
+            ]
+          },
+          "jb3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.0667,
+                "angle": -10.4,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.1333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 5.93,
+                "y": 16.94,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.0667,
+                "x": -20.89,
+                "y": 1.86,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.1333,
+                "x": 5.93,
+                "y": 16.94
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nheijin_tixianbang.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\njinbi2\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 55, 44\r\n  orig: 55, 44\r\n  offset: 0, 0\r\n  index: -1\r\njinbi3\r\n  rotate: false\r\n  xy: 59, 2\r\n  size: 42, 44\r\n  orig: 42, 44\r\n  offset: 0, 0\r\n  index: -1\r\nlight_02_00\r\n  rotate: false\r\n  xy: 2, 178\r\n  size: 209, 68\r\n  orig: 209, 68\r\n  offset: 0, 0\r\n  index: -1\r\nlight_03_00\r\n  rotate: false\r\n  xy: 2, 108\r\n  size: 209, 68\r\n  orig: 209, 68\r\n  offset: 0, 0\r\n  index: -1\r\nlightd\r\n  rotate: false\r\n  xy: 2, 48\r\n  size: 202, 58\r\n  orig: 202, 58\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "19561892-8453-47d7-bf9d-5646ff3398f1"
+    }
+  ],
+  "textureNames": [
+    "heijin_tixianbang.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yinyueqiehuan1",
+    "texture": "9139d2a6-ad27-449e-ad35-801f989107e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

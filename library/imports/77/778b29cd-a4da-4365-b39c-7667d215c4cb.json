@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lightsi",
+    "texture": "170cac7a-d32e-43d1-bff4-95afe926095c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      972,
+      825
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      972,
+      825
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

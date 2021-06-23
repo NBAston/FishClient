@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_buyu2",
+    "texture": "794f6f1f-8cbe-4798-b1e6-bfab3c4d4172",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gongxifacai",
+    "texture": "13a6320f-1aff-4ed7-b573-6741e45e71ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      474,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      474,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

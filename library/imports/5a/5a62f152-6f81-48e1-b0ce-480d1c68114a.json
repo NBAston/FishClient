@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_title_ckxq",
+    "texture": "ab67daad-2e8b-4d6b-9951-f6e80e192c34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      109,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

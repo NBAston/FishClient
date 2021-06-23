@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_buobzijier",
+    "texture": "4b89d19a-6460-4d0a-8b03-a415d5be64bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      249,
+      119
+    ],
+    "offset": [
+      -3.5,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+
+biaoti.png
+size: 1874,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0.1
+  rotate: false
+  xy: 1815, 141
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+0.2
+  rotate: false
+  xy: 1815, 82
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+0.3
+  rotate: false
+  xy: 1815, 23
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+1.1
+  rotate: false
+  xy: 1657, 120
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+1.2
+  rotate: false
+  xy: 1657, 40
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+1.3
+  rotate: false
+  xy: 1736, 120
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+1.4
+  rotate: false
+  xy: 1736, 40
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00000
+  rotate: false
+  xy: 2, 101
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00001
+  rotate: false
+  xy: 2, 2
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00002
+  rotate: false
+  xy: 333, 101
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00003
+  rotate: false
+  xy: 333, 2
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00004
+  rotate: false
+  xy: 664, 101
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00005
+  rotate: false
+  xy: 664, 2
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00006
+  rotate: false
+  xy: 995, 101
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00007
+  rotate: false
+  xy: 995, 2
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00008
+  rotate: false
+  xy: 1326, 101
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1
+banzishanshuo/bzxl_00009
+  rotate: false
+  xy: 1326, 2
+  size: 329, 97
+  orig: 329, 97
+  offset: 0, 0
+  index: -1

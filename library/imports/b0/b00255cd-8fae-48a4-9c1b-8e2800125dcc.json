@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_complainNum",
+    "texture": "369dac8e-3a81-4142-9a46-04a71013e837",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      136
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      152,
+      139
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

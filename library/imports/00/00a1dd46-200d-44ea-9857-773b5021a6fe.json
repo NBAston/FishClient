@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_wenhao",
+    "texture": "b930f9db-0600-4cea-9763-ed7dfe3c2abc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

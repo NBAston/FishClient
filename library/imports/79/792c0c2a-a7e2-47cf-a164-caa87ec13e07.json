@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_by_zidongsuoding",
+    "texture": "37ba1a3a-0ccc-4b78-9289-0352b653721b",
+    "atlas": "",
+    "rect": [
+      52,
+      87,
+      1664,
+      1921
+    ],
+    "offset": [
+      -140,
+      -23.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fengexian",
+    "texture": "dd4ee9f2-62b8-4f23-9aab-592e0c6f65e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      857,
+      3
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      857,
+      3
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_putongyu1",
+    "texture": "0cdebea1-13f5-48d0-8a08-76ac4001b090",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+
+tc_jinrufangjian.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banG
+  rotate: false
+  xy: 2, 16
+  size: 342, 71
+  orig: 342, 71
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 2, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dou
+  rotate: false
+  xy: 1219, 462
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 405, 306
+  size: 349, 8
+  orig: 349, 8
+  offset: 0, 0
+  index: -1
+heidi
+  rotate: false
+  xy: 405, 316
+  size: 613, 160
+  orig: 613, 160
+  offset: 0, 0
+  index: -1
+img_rw
+  rotate: false
+  xy: 2, 89
+  size: 401, 387
+  orig: 401, 387
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 478
+  size: 1246, 2
+  orig: 1246, 2
+  offset: 0, 0
+  index: -1
+liujiao
+  rotate: true
+  xy: 538, 194
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+pei
+  rotate: false
+  xy: 1020, 418
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+pi
+  rotate: false
+  xy: 405, 246
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: true
+  xy: 346, 21
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+zi10
+  rotate: false
+  xy: 1154, 420
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+zi11
+  rotate: false
+  xy: 602, 251
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+zi12
+  rotate: false
+  xy: 405, 131
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+zi13
+  rotate: false
+  xy: 1087, 419
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+zi2
+  rotate: false
+  xy: 472, 248
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+zi3
+  rotate: false
+  xy: 667, 255
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+zi4
+  rotate: false
+  xy: 405, 188
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+zi5
+  rotate: false
+  xy: 538, 250
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+zi6
+  rotate: false
+  xy: 472, 193
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+zi7
+  rotate: false
+  xy: 1087, 360
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+zi8
+  rotate: false
+  xy: 1020, 301
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+zi9
+  rotate: false
+  xy: 1020, 358
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1

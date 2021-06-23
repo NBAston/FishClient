@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_title_depositamount",
+    "texture": "cfb99676-03a9-423f-92e4-3812a416a37d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

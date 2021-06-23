@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_guanfang1",
+    "texture": "cbd02c64-1321-423c-a965-f995c24ab07b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

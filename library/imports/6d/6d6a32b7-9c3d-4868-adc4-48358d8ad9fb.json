@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zyxrk_by_tiyanfang",
+    "texture": "89ff3445-ec76-45bf-8dee-393ca3ba090b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      905,
+      500
+    ],
+    "offset": [
+      -57.5,
+      4
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

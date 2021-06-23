@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_weixuan",
+    "texture": "155726b6-ba92-4d5f-a5cc-07fca6a1dac6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

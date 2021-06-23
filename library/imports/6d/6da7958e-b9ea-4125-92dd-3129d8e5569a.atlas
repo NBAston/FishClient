@@ -1,0 +1,97 @@
+
+heijin_icon_by3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef_Waterfall_005_N
+  rotate: false
+  xy: 479, 255
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 250, 225
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+bizui
+  rotate: false
+  xy: 479, 321
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+buyu
+  rotate: false
+  xy: 798, 440
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+maowei
+  rotate: false
+  xy: 545, 260
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 2
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+qian02
+  rotate: false
+  xy: 928, 440
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+qiang01
+  rotate: false
+  xy: 299, 280
+  size: 178, 133
+  orig: 178, 133
+  offset: 0, 0
+  index: -1
+qiang03
+  rotate: true
+  xy: 127, 3
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+shanghe
+  rotate: false
+  xy: 631, 416
+  size: 165, 93
+  orig: 165, 93
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 88
+  size: 246, 196
+  orig: 246, 196
+  offset: 0, 0
+  index: -1
+shuicao
+  rotate: false
+  xy: 2, 286
+  size: 295, 223
+  orig: 295, 223
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 299, 415
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1

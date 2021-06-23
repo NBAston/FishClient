@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_diamonds",
+    "texture": "ef4f09e7-a6fc-44c1-afac-5151f9e28ed3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_jfdb_zuanshi",
+    "texture": "48ab28f8-0957-4c1c-9db6-ca78b1c09368",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1980,
+      1019
+    ],
+    "offset": [
+      -32,
+      -0.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

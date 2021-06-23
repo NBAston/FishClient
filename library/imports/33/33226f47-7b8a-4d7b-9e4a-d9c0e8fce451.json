@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "fx_ptbs_baozha.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nfx_ptbs_baozha.png\nsize: 1024,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nTex_Circle_0001\n  rotate: false\n  xy: 2, 42\n  size: 183, 191\n  orig: 256, 256\n  offset: 31, 32\n  index: -1\nTex_Circle_0013\n  rotate: false\n  xy: 894, 115\n  size: 118, 118\n  orig: 128, 128\n  offset: 5, 5\n  index: -1\nTex_Glow_0001\n  rotate: false\n  xy: 506, 105\n  size: 125, 128\n  orig: 128, 128\n  offset: 1, 0\n  index: -1\nbaozha_04/01\n  rotate: false\n  xy: 187, 4\n  size: 106, 92\n  orig: 256, 256\n  offset: 81, 84\n  index: -1\nbaozha_04/02\n  rotate: false\n  xy: 765, 2\n  size: 118, 118\n  orig: 256, 256\n  offset: 72, 70\n  index: -1\nbaozha_04/03\n  rotate: false\n  xy: 765, 122\n  size: 127, 111\n  orig: 256, 256\n  offset: 67, 76\n  index: -1\nbaozha_04/04\n  rotate: false\n  xy: 187, 98\n  size: 166, 135\n  orig: 256, 256\n  offset: 51, 62\n  index: -1\nbaozha_04/05\n  rotate: false\n  xy: 355, 100\n  size: 149, 133\n  orig: 256, 256\n  offset: 54, 63\n  index: -1\nbaozha_04/06\n  rotate: false\n  xy: 633, 113\n  size: 130, 120\n  orig: 256, 256\n  offset: 71, 66\n  index: -1\n"
+}

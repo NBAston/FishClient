@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_danriyongjinmingxi",
+    "texture": "b9a960d5-4cbe-473f-8ff8-dd764826655a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      410,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      410,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

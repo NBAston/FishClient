@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_fenlianjie",
+    "texture": "ab905134-541c-40d1-80f1-9d1fae52e3d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

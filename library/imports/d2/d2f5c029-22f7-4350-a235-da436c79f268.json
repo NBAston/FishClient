@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_zjm_tgzq",
+    "texture": "3eae1ccc-6373-4870-8f56-29bee53fffad",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      833,
+      483
+    ],
+    "offset": [
+      -93.5,
+      12.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

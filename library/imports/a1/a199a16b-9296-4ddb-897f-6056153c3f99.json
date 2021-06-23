@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_silverselect",
+    "texture": "87ba9415-f29d-42b2-9104-e089b7c47e50",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      291,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      297,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

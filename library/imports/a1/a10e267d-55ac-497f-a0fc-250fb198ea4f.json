@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuzi_0",
+    "texture": "dc65821d-0ff3-45c3-b58b-9be4b88636ca",
+    "atlas": "",
+    "rect": [
+      9,
+      9,
+      234,
+      188
+    ],
+    "offset": [
+      -2,
+      25
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_topmonthgift",
+    "texture": "f3c61ea2-8798-455c-9f69-cb147b2eb866",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      299,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

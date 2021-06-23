@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_yidu",
+    "texture": "3d224074-664d-4cfc-86cc-1b469096da04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      241,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      241,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

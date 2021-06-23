@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yinhangkashurukuang",
+    "texture": "d3eab284-c064-4706-9992-43c5ccd9cdba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      788,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      788,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

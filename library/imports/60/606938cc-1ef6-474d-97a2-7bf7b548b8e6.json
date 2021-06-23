@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fenge",
+    "texture": "1f6ef14a-719a-4476-9747-d699eaa15451",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      345,
+      6
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      345,
+      6
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

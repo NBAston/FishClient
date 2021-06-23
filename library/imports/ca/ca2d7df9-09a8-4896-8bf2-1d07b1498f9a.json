@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yuanpandi",
+    "texture": "550e678c-fea0-493e-8e82-ce2b526b53b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      914,
+      913
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      914,
+      913
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

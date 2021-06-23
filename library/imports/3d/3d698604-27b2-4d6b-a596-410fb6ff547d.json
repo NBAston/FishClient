@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_xzdk",
+    "texture": "28273cca-8af8-4323-965c-a2cc4958fe6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      638,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      638,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

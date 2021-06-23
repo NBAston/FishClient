@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shouchongfanlibiaoti",
+    "texture": "3f11227e-5176-4f8f-adc7-093b39a91585",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      527,
+      177
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      527,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

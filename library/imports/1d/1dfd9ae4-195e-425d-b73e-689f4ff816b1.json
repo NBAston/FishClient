@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jinriyongjin",
+    "texture": "0470762c-5f1d-4922-9030-9894cdf47e73",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      747,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      747,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

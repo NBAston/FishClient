@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_kefudianhua1",
+    "texture": "c0162437-217f-4aa5-87e3-9a2d307ec106",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      165,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      165,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

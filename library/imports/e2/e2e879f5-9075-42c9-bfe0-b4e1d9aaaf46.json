@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_type_xuan",
+    "texture": "0cb878fe-37a0-47dd-9c17-64c73a32911d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      356,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      356,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

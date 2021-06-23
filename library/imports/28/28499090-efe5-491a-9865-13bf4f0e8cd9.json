@@ -1,0 +1,375 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "zjm_zhanji",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "OhfJxvKLJhzGy2+XLwuXux4HTVg",
+      "spine": "3.6.53",
+      "width": 240,
+      "height": 112.5,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "zuanshi",
+        "parent": "root",
+        "length": 16.12
+      },
+      {
+        "name": "7",
+        "parent": "zuanshi",
+        "length": 16.12
+      },
+      {
+        "name": "bone2",
+        "parent": "zuanshi",
+        "length": 15.97,
+        "x": -55.24,
+        "y": -2.28
+      },
+      {
+        "name": "bone4",
+        "parent": "zuanshi",
+        "length": 15.97,
+        "x": -55.24,
+        "y": -2.28
+      },
+      {
+        "name": "zuanshi2",
+        "parent": "zuanshi",
+        "length": 23.33,
+        "scaleX": 1.5,
+        "scaleY": 1.5
+      }
+    ],
+    "slots": [
+      {
+        "name": "btn_zi",
+        "bone": "7",
+        "attachment": "btn_huang"
+      },
+      {
+        "name": "img_zhuanshi1",
+        "bone": "bone2",
+        "attachment": "img_jiangbei"
+      },
+      {
+        "name": "img_zhuanshi2",
+        "bone": "bone4",
+        "attachment": "img_jiangbei",
+        "blend": "additive"
+      },
+      {
+        "name": "7",
+        "bone": "7",
+        "attachment": "img_zhanji"
+      },
+      {
+        "name": "zi_02/zi_01",
+        "bone": "zuanshi2",
+        "attachment": "zi_02/zi_14",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "7": {
+          "img_zhanji": {
+            "x": 33,
+            "width": 80,
+            "height": 40
+          }
+        },
+        "btn_zi": {
+          "btn_huang": {
+            "width": 232,
+            "height": 98
+          }
+        },
+        "img_zhuanshi1": {
+          "img_jiangbei": {
+            "width": 41,
+            "height": 43
+          }
+        },
+        "img_zhuanshi2": {
+          "img_jiangbei": {
+            "width": 41,
+            "height": 43
+          }
+        },
+        "zi_02/zi_01": {
+          "zi_02/zi_01": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_02": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_03": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_04": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_05": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_06": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_07": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_08": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_09": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_10": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_11": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_12": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_13": {
+            "width": 160,
+            "height": 75
+          },
+          "zi_02/zi_14": {
+            "width": 160,
+            "height": 75
+          }
+        }
+      }
+    },
+    "animations": {
+      "zuanshi": {
+        "slots": {
+          "7": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "img_zhanji"
+              },
+              {
+                "time": 2,
+                "name": "img_zhanji"
+              },
+              {
+                "time": 4,
+                "name": "img_zhanji"
+              }
+            ]
+          },
+          "btn_zi": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "btn_huang"
+              },
+              {
+                "time": 2,
+                "name": "btn_huang"
+              },
+              {
+                "time": 4,
+                "name": "btn_huang"
+              }
+            ]
+          },
+          "img_zhuanshi1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "img_jiangbei"
+              },
+              {
+                "time": 2,
+                "name": "img_jiangbei"
+              },
+              {
+                "time": 4,
+                "name": "img_jiangbei"
+              }
+            ]
+          },
+          "img_zhuanshi2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffe228ff"
+              },
+              {
+                "time": 2,
+                "color": "ffeca300"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "img_jiangbei"
+              },
+              {
+                "time": 2,
+                "name": "img_jiangbei"
+              },
+              {
+                "time": 4,
+                "name": "img_jiangbei"
+              }
+            ]
+          },
+          "zi_02/zi_01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffe0f8ff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffe0f8ff"
+              },
+              {
+                "time": 2,
+                "color": "ffe0f800"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0667,
+                "name": "zi_02/zi_01"
+              },
+              {
+                "time": 0.1333,
+                "name": "zi_02/zi_02"
+              },
+              {
+                "time": 0.2,
+                "name": "zi_02/zi_03"
+              },
+              {
+                "time": 0.2667,
+                "name": "zi_02/zi_04"
+              },
+              {
+                "time": 0.3333,
+                "name": "zi_02/zi_05"
+              },
+              {
+                "time": 0.4,
+                "name": "zi_02/zi_06"
+              },
+              {
+                "time": 0.4667,
+                "name": "zi_02/zi_07"
+              },
+              {
+                "time": 0.5333,
+                "name": "zi_02/zi_08"
+              },
+              {
+                "time": 0.6,
+                "name": "zi_02/zi_09"
+              },
+              {
+                "time": 0.6667,
+                "name": "zi_02/zi_10"
+              },
+              {
+                "time": 0.7333,
+                "name": "zi_02/zi_11"
+              },
+              {
+                "time": 0.8,
+                "name": "zi_02/zi_12"
+              },
+              {
+                "time": 0.8667,
+                "name": "zi_02/zi_13"
+              },
+              {
+                "time": 0.9333,
+                "name": "zi_02/zi_14"
+              },
+              {
+                "time": 2,
+                "name": "zi_02/zi_14"
+              },
+              {
+                "time": 4,
+                "name": "zi_02/zi_14"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone4": {
+            "scale": [
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 1.318,
+                "y": 1.318
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          },
+          {
+            "time": 2
+          },
+          {
+            "time": 4
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\r\nzjm_zhanji.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nbtn_huang\r\n  rotate: false\r\n  xy: 2, 387\r\n  size: 232, 98\r\n  orig: 232, 98\r\n  offset: 0, 0\r\n  index: -1\r\nimg_jiangbei\r\n  rotate: false\r\n  xy: 164, 18\r\n  size: 41, 43\r\n  orig: 41, 43\r\n  offset: 0, 0\r\n  index: -1\r\nimg_zhanji\r\n  rotate: false\r\n  xy: 398, 445\r\n  size: 80, 40\r\n  orig: 80, 40\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_01\r\n  rotate: false\r\n  xy: 2, 310\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_02\r\n  rotate: false\r\n  xy: 236, 410\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_03\r\n  rotate: false\r\n  xy: 2, 233\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_04\r\n  rotate: false\r\n  xy: 2, 156\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_05\r\n  rotate: false\r\n  xy: 2, 79\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_06\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_07\r\n  rotate: true\r\n  xy: 164, 225\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_08\r\n  rotate: true\r\n  xy: 164, 63\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_09\r\n  rotate: true\r\n  xy: 241, 248\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_10\r\n  rotate: true\r\n  xy: 241, 86\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_11\r\n  rotate: true\r\n  xy: 318, 248\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_12\r\n  rotate: true\r\n  xy: 318, 86\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_13\r\n  rotate: false\r\n  xy: 241, 9\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\nzi_02/zi_14\r\n  rotate: true\r\n  xy: 395, 248\r\n  size: 160, 75\r\n  orig: 160, 75\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "b03445a9-c55e-4b16-8e23-5d3c970fc61a"
+    }
+  ],
+  "textureNames": [
+    "zjm_zhanji.png"
+  ],
+  "scale": 1
+}

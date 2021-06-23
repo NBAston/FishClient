@@ -1,0 +1,323 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_nizaizheli",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "JbSUofia+PlBLrnKR/gyTSWmsik",
+      "spine": "3.6.53",
+      "width": 265.5,
+      "height": 477.47,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "jiantou",
+        "parent": "root",
+        "length": 16,
+        "y": 236.03
+      },
+      {
+        "name": "quan",
+        "parent": "root",
+        "length": 16
+      },
+      {
+        "name": "zi",
+        "parent": "root",
+        "length": 16,
+        "y": 324.72,
+        "scaleX": 1.5,
+        "scaleY": 1.5
+      }
+    ],
+    "slots": [
+      {
+        "name": "tex_lv",
+        "bone": "quan",
+        "attachment": "tex_lv"
+      },
+      {
+        "name": "Tex_by_nzzl_jt",
+        "bone": "jiantou",
+        "attachment": "Tex_by_nzzl_jt"
+      },
+      {
+        "name": "zi",
+        "bone": "zi",
+        "attachment": "zi_lv"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Tex_by_nzzl_jt": {
+          "Tex_by_nzzl_jt": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "tex_lv": {
+          "tex_lv": {
+            "width": 263,
+            "height": 244
+          }
+        },
+        "zi": {
+          "zi_lv": {
+            "width": 177,
+            "height": 41
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation1": {
+        "bones": {
+          "quan": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.384,
+                "y": 1.384,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.5,
+                "x": 0.86,
+                "y": 0.86,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "x": 1.384,
+                "y": 1.384
+              }
+            ]
+          },
+          "jiantou": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": -46.48,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "zi": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": -20.39,
+                "curve": [
+                  0.234,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "animation2": {
+        "bones": {
+          "quan": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.384,
+                "y": 1.384,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.5,
+                "x": 0.86,
+                "y": 0.86,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "x": 1.384,
+                "y": 1.384
+              }
+            ]
+          },
+          "jiantou": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": -46.48,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "zi": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": -20.39,
+                "curve": [
+                  0.234,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": -1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nfx_by_nizaizheli.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nTex_by_nzzl_jt\n  rotate: false\n  xy: 267, 118\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\ntex_lv\n  rotate: false\n  xy: 2, 2\n  size: 263, 244\n  orig: 263, 244\n  offset: 0, 0\n  index: -1\nzi_lv\n  rotate: false\n  xy: 267, 75\n  size: 177, 41\n  orig: 177, 41\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "089c753c-f160-4258-bea5-04a0972b6fce"
+    }
+  ],
+  "textureNames": [
+    "fx_by_nizaizheli.png"
+  ],
+  "scale": 1
+}

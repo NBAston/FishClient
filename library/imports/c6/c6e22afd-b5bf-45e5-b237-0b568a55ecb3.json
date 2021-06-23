@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_dailichongzhiweixuan",
+    "texture": "edea02b5-0fa4-4b26-9665-77a07987277a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

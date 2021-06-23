@@ -1,0 +1,62 @@
+
+heijin_tc_zhuceyouli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: true
+  xy: 735, 286
+  size: 713, 116
+  orig: 713, 116
+  offset: 0, 0
+  index: -1
+dadiban
+  rotate: false
+  xy: 2, 3
+  size: 491, 274
+  orig: 491, 274
+  offset: 0, 0
+  index: -1
+diban
+  rotate: true
+  xy: 853, 386
+  size: 613, 144
+  orig: 613, 144
+  offset: 0, 0
+  index: -1
+fang
+  rotate: true
+  xy: 999, 974
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+guang02
+  rotate: true
+  xy: 586, 260
+  size: 739, 147
+  orig: 739, 147
+  offset: 0, 0
+  index: -1
+lijizhuce
+  rotate: true
+  xy: 495, 2
+  size: 275, 61
+  orig: 275, 61
+  offset: 0, 0
+  index: -1
+meinv
+  rotate: false
+  xy: 2, 279
+  size: 582, 720
+  orig: 582, 720
+  offset: 0, 0
+  index: -1
+zhucesonghaoli
+  rotate: false
+  xy: 558, 180
+  size: 317, 78
+  orig: 317, 78
+  offset: 0, 0
+  index: -1

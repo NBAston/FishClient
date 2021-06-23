@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_offzidong",
+    "texture": "9e155bbc-99e1-4933-bba4-c40594d210cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

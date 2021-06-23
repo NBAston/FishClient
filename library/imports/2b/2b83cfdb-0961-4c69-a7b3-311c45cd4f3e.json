@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_xiugaimima",
+    "texture": "f6b4de37-d801-4fc1-a4f3-e31a72c5387b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      355,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      355,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

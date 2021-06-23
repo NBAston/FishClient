@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fengeban",
+    "texture": "20d2e1e9-ded1-4c14-b5a3-2f7b2e298e87",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      101
+    ],
+    "capInsets": [
+      13,
+      0,
+      10,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lingqujilu",
+    "texture": "18b5ae65-cb2d-469e-9bd8-b8afd0ceb294",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      842,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      842,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

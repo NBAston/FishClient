@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_by_longxipao",
+    "texture": "26df0230-9872-4259-9e5e-49cc803f25f9",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1014,
+      250
+    ],
+    "offset": [
+      -2,
+      0
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

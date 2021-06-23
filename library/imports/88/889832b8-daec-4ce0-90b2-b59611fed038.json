@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lightwu",
+    "texture": "3ac9328d-84a5-47bb-a2d8-083f88ab314b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      974,
+      803
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      974,
+      803
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

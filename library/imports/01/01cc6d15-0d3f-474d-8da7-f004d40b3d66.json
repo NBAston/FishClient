@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_chongzhianniuxia",
+    "texture": "e6346e37-830a-4166-b1a6-8007cea0df21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

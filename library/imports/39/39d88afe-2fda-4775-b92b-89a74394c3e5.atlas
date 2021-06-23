@@ -1,0 +1,34 @@
+
+fx_by_yaojiangzhong.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dian
+  rotate: true
+  xy: 2, 2
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+img_jiang
+  rotate: false
+  xy: 2, 15
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+img_yao
+  rotate: false
+  xy: 43, 15
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+img_zhong
+  rotate: false
+  xy: 84, 15
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1

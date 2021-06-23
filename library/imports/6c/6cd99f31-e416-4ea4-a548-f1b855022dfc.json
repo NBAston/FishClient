@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yinghangkaguanli_1",
+    "texture": "90474b26-783d-476d-a6a2-d92062fc5f19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      284,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      284,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

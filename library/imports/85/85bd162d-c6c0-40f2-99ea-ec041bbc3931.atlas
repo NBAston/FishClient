@@ -1,0 +1,132 @@
+
+fx_by_bhjlzp_j3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef_Glow083
+  rotate: false
+  xy: 383, 479
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_Glow_0007
+  rotate: false
+  xy: 827, 607
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+img_guang
+  rotate: false
+  xy: 2, 641
+  size: 379, 380
+  orig: 379, 380
+  offset: 0, 0
+  index: -1
+img_pan_er
+  rotate: false
+  xy: 2, 2
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
+img_pan_san
+  rotate: false
+  xy: 2, 277
+  size: 362, 362
+  orig: 362, 362
+  offset: 0, 0
+  index: -1
+img_pan_yi
+  rotate: false
+  xy: 641, 551
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_00
+  rotate: false
+  xy: 277, 179
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_01
+  rotate: false
+  xy: 277, 81
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_02
+  rotate: false
+  xy: 366, 381
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_03
+  rotate: false
+  xy: 366, 283
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_04
+  rotate: false
+  xy: 464, 381
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_05
+  rotate: false
+  xy: 464, 283
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_06
+  rotate: false
+  xy: 375, 185
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_07
+  rotate: false
+  xy: 375, 87
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_08
+  rotate: false
+  xy: 473, 185
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_09
+  rotate: false
+  xy: 473, 87
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+tex_deng02
+  rotate: false
+  xy: 383, 737
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1
+tex_deng03
+  rotate: false
+  xy: 669, 737
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1

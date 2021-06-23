@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shuilang",
+    "texture": "97e467c2-374c-43d2-9a11-0ff13d93cf5d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      228,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      228,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

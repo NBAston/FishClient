@@ -1,0 +1,766 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_putongpao01",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "eptnR9ObQpvGgZngIuNnMMrVUCY",
+      "spine": "3.6.53",
+      "width": 350,
+      "height": 350,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "zong",
+        "parent": "root",
+        "y": -89.78,
+        "scaleX": 0.75,
+        "scaleY": 0.75
+      },
+      {
+        "name": "baodi",
+        "parent": "zong",
+        "length": 25.08,
+        "rotation": 91.25,
+        "x": 0.16,
+        "y": -6.07
+      },
+      {
+        "name": "baoshi",
+        "parent": "zong",
+        "length": 16.93,
+        "rotation": 93.69,
+        "x": 2.89,
+        "y": 74.59
+      },
+      {
+        "name": "lun1",
+        "parent": "zong",
+        "length": 13.62,
+        "rotation": -180,
+        "x": -48.89,
+        "y": 47.34
+      },
+      {
+        "name": "lun2",
+        "parent": "zong",
+        "length": 13.08,
+        "x": 47.58,
+        "y": 44.07
+      },
+      {
+        "name": "lv",
+        "parent": "zong",
+        "length": 14.21,
+        "rotation": 94.4,
+        "x": 1.25,
+        "y": 111.11
+      },
+      {
+        "name": "pao2",
+        "parent": "zong",
+        "length": 18.54,
+        "rotation": 91.68,
+        "x": 0.71,
+        "y": 101.84
+      }
+    ],
+    "slots": [
+      {
+        "name": "lun1",
+        "bone": "lun1",
+        "attachment": "lun1"
+      },
+      {
+        "name": "lun2",
+        "bone": "lun2",
+        "attachment": "lun2"
+      },
+      {
+        "name": "pao2",
+        "bone": "pao2",
+        "attachment": "pao2"
+      },
+      {
+        "name": "lv",
+        "bone": "lv",
+        "attachment": "lv"
+      },
+      {
+        "name": "baodi",
+        "bone": "baodi",
+        "attachment": "baodi"
+      },
+      {
+        "name": "baoshi",
+        "bone": "baoshi",
+        "attachment": "baoshi"
+      }
+    ],
+    "skins": {
+      "default": {
+        "baodi": {
+          "baodi": {
+            "x": 59.35,
+            "y": -1.8,
+            "rotation": -91.25,
+            "width": 175,
+            "height": 159
+          }
+        },
+        "baoshi": {
+          "baoshi": {
+            "x": 2.35,
+            "y": 2.06,
+            "rotation": -93.69,
+            "width": 111,
+            "height": 178
+          }
+        },
+        "lun1": {
+          "lun1": {
+            "x": 28.44,
+            "y": -0.46,
+            "rotation": 180,
+            "width": 65,
+            "height": 98
+          }
+        },
+        "lun2": {
+          "lun2": {
+            "x": 31.1,
+            "y": 3.73,
+            "width": 65,
+            "height": 98
+          }
+        },
+        "lv": {
+          "lv": {
+            "x": 26.66,
+            "y": -1.47,
+            "rotation": -94.4,
+            "width": 115,
+            "height": 66
+          }
+        },
+        "pao2": {
+          "pao2": {
+            "x": 71.45,
+            "y": -1.57,
+            "rotation": -91.68,
+            "width": 72,
+            "height": 147
+          }
+        }
+      }
+    },
+    "animations": {
+      "attack": {
+        "bones": {
+          "baoshi": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0,
+                "y": -11.17,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 0,
+                "y": 10.47,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0.849,
+                "y": 0.849,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 1.086,
+                "y": 1.086,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "baodi": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 0,
+                "y": 5.58,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0.891,
+                "y": 0.891,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 1.045,
+                "y": 1.045,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lun1": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0,
+                "y": -5.58,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 0,
+                "y": 3.49,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0.9,
+                "y": 0.9,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lun2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0,
+                "y": -4.89,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 0,
+                "y": 3.93,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0.9,
+                "y": 0.9,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "pao2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0,
+                "y": -14.34,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1667,
+                "x": 0,
+                "y": 24.15,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0.708,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1667,
+                "x": 1.03,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lv": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0,
+                "y": -28.62,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 0,
+                "y": 8.55,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "x": 0.92,
+                "y": 0.92,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 1.047,
+                "y": 1.047,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "idle": {
+        "bones": {
+          "baoshi": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "baodi": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lun1": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lun2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "pao2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lv": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_putongpao01.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nbaodi\r\n  rotate: false\r\n  xy: 2, 76\r\n  size: 175, 159\r\n  orig: 175, 159\r\n  offset: 0, 0\r\n  index: -1\r\nbaoshi\r\n  rotate: true\r\n  xy: 179, 124\r\n  size: 111, 178\r\n  orig: 111, 178\r\n  offset: 0, 0\r\n  index: -1\r\nlun1\r\n  rotate: true\r\n  xy: 179, 57\r\n  size: 65, 98\r\n  orig: 65, 98\r\n  offset: 0, 0\r\n  index: -1\r\nlun2\r\n  rotate: true\r\n  xy: 279, 57\r\n  size: 65, 98\r\n  orig: 65, 98\r\n  offset: 0, 0\r\n  index: -1\r\nlv\r\n  rotate: false\r\n  xy: 359, 169\r\n  size: 115, 66\r\n  orig: 115, 66\r\n  offset: 0, 0\r\n  index: -1\r\npao2\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 72, 147\r\n  orig: 72, 147\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "01a50c0b-5f0b-4e0f-9916-896516449adb"
+    }
+  ],
+  "textureNames": [
+    "fx_by_putongpao01.png"
+  ],
+  "scale": 1
+}

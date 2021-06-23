@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "missile.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "missile_0": {
+      "__uuid__": "f78be9b3-f2da-485e-a6b1-9086641affd2"
+    },
+    "missile_1": {
+      "__uuid__": "1ddf731d-e97c-45f5-9b1c-844cbc4e1a06"
+    },
+    "missile_10": {
+      "__uuid__": "686f6539-c28f-4652-85c7-314d68fb3c2c"
+    },
+    "missile_11": {
+      "__uuid__": "89af0e82-7e03-42bd-974e-2bd593ead974"
+    },
+    "missile_2": {
+      "__uuid__": "75d2128f-4502-48bf-9bcf-34a304862924"
+    },
+    "missile_3": {
+      "__uuid__": "c4671756-b06c-4778-8af3-37f5b5b62898"
+    },
+    "missile_4": {
+      "__uuid__": "16a68cf2-a8d2-46cb-a6d2-daa9a1635332"
+    },
+    "missile_5": {
+      "__uuid__": "4c4cfa08-d1b7-4f5d-a140-7e789f13e0d3"
+    },
+    "missile_6": {
+      "__uuid__": "0066a086-9f33-4575-9607-51c6ad203848"
+    },
+    "missile_7": {
+      "__uuid__": "53b75408-43c6-4261-b5f6-e32aebcd5067"
+    },
+    "missile_8": {
+      "__uuid__": "5762ef25-4dfd-456a-a90b-e1abd7985e93"
+    },
+    "missile_9": {
+      "__uuid__": "12ff11c1-b07b-4f49-bc34-cd197ba53418"
+    }
+  }
+}

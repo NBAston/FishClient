@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_title_ljdml",
+    "texture": "bf3be21d-2c3d-4806-82ca-6215e2e12f6a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

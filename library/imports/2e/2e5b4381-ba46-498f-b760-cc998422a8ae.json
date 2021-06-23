@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fish16.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "fish16_move1": {
+      "__uuid__": "9ad5c904-6221-4e93-852a-de91c4180aaa"
+    },
+    "fish16_move10": {
+      "__uuid__": "3ed66315-f928-46e6-9327-2114e1119206"
+    },
+    "fish16_move2": {
+      "__uuid__": "add965b7-64bb-4a3a-960c-36e7f06b487c"
+    },
+    "fish16_move3": {
+      "__uuid__": "88b7b747-1142-473a-a1f7-4da0abc205dc"
+    },
+    "fish16_move4": {
+      "__uuid__": "fc42995f-9665-45ca-9f01-a3b7c624b1b7"
+    },
+    "fish16_move5": {
+      "__uuid__": "e3c3a249-cbc2-4e5d-8c7d-160187e5b465"
+    },
+    "fish16_move6": {
+      "__uuid__": "6399cddc-b3f7-4a42-bc06-0a96bcff6651"
+    },
+    "fish16_move7": {
+      "__uuid__": "4208010a-26d2-4dbe-9d9f-5550de2b636b"
+    },
+    "fish16_move8": {
+      "__uuid__": "037f89b9-f7cc-46cd-bbbb-8fed2b571115"
+    },
+    "fish16_move9": {
+      "__uuid__": "df3b060b-8516-4866-ae78-822358d8428e"
+    }
+  }
+}

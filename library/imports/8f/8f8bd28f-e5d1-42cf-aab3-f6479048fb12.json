@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tiqujilu",
+    "texture": "6064331d-77b8-4ba9-b904-60eef2617441",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      770,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      770,
+      246
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

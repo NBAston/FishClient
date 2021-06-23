@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_duizhandi",
+    "texture": "fd83f33c-2a0a-4130-ba5f-0b63c282558d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      439,
+      830
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      439,
+      830
+    ],
+    "capInsets": [
+      257,
+      0,
+      182,
+      0
+    ]
+  }
+}

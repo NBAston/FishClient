@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qwcz_scfl",
+    "texture": "80b1f5b7-f812-4e61-9f25-0a3b30f5fef0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      176,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

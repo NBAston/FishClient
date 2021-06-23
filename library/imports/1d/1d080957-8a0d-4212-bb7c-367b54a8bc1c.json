@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_longwangtuiqu",
+    "texture": "f7f485d6-999e-44ed-9e71-8f9bfd8b8487",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      521,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      521,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_duanxiantishi",
+    "texture": "d3739eff-5d3b-48b3-9d6c-7845ad2d339d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      410,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      410,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

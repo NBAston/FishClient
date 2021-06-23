@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_sanqian",
+    "texture": "3edd866a-2b7d-41f8-8944-92c92aafbe91",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_paobeikuang1",
+    "texture": "9e073e77-4e0d-4a3e-8636-1012a412b04a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

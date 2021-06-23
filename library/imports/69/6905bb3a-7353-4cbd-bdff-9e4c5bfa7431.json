@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_youshibiaoti",
+    "texture": "1bce68ca-e89b-472c-bfad-94b524fac4b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      971,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      971,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

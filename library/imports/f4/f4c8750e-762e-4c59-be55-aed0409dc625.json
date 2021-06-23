@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "specialFishIcon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "img_icon23": {
+      "__uuid__": "bbb459d6-f700-4dd0-bcbc-25d59999affa"
+    },
+    "img_icon24": {
+      "__uuid__": "d61e4f8f-3006-4b8e-93a0-32bacc258828"
+    },
+    "img_icon25": {
+      "__uuid__": "54c070b4-2fd7-49bc-b3af-1c5150d895c7"
+    },
+    "img_icon26": {
+      "__uuid__": "c8f23ea1-14dc-4cab-acc9-da692caf03fe"
+    },
+    "img_icon27": {
+      "__uuid__": "44627c19-55c8-4fdf-9481-6f4095f89678"
+    },
+    "img_icon28": {
+      "__uuid__": "f13b5e00-2f06-40a4-ba63-e436c184c0be"
+    },
+    "img_icon29": {
+      "__uuid__": "86123df6-61e8-4364-8764-d5d296570a76"
+    },
+    "img_icon30": {
+      "__uuid__": "132ad929-d863-47a6-aeae-051740d224a8"
+    },
+    "img_icon31": {
+      "__uuid__": "ba78e888-b6e6-47fa-93d3-f3cbc4a70e90"
+    }
+  }
+}

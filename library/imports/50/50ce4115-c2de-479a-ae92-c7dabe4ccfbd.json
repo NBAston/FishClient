@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_yinhangka",
+    "texture": "6c6e3e3a-98dd-4dd2-aaff-fb2152cf2d1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      293,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      293,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

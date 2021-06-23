@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_wodefanshui",
+    "texture": "6827c3a2-e981-4e01-a5e1-f3edafb751cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      842,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      842,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

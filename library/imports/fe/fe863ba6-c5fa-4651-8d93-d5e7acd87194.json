@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_renyitiyan",
+    "texture": "e7e1fb96-1bb7-450d-bbeb-5bebd2aa726a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      209,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      209,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

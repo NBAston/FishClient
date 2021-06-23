@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fz_by_potongpao10_zha",
+    "texture": "8cfd7cdb-5842-4b0a-ae40-2dbf2b152afb",
+    "atlas": "",
+    "rect": [
+      2,
+      50,
+      794,
+      932
+    ],
+    "offset": [
+      -113,
+      -4
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

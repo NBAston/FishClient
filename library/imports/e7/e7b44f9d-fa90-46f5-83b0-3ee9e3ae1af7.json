@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fullscreen",
+    "texture": "5810d3f5-1d25-47a7-94c3-76de4827a73c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

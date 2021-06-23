@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jinbilang",
+    "texture": "e3bcbd4b-dd16-4514-885c-f30fa1cf31e9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      248,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

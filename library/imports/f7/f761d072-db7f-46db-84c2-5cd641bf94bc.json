@@ -1,0 +1,264 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "bullet_11",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "FYN8XTfTtImZBbQU+CxuCm/yaT4",
+      "spine": "3.6.53",
+      "width": 283.2,
+      "height": 3876,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "zhuguge",
+        "parent": "root"
+      },
+      {
+        "name": "tx",
+        "parent": "zhuguge",
+        "y": -2889,
+        "scaleX": 2.4,
+        "scaleY": 6
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhezhao",
+        "bone": "tx",
+        "attachment": "zhezhao"
+      },
+      {
+        "name": "tx",
+        "bone": "tx",
+        "attachment": "tx_00000"
+      }
+    ],
+    "skins": {
+      "default": {
+        "tx": {
+          "tx_00000": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00001": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00002": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00003": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00004": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00005": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00006": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00007": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00008": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00009": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00010": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          },
+          "tx_00011": {
+            "y": 465.76,
+            "width": 118,
+            "height": 646
+          }
+        },
+        "zhezhao": {
+          "zhezhao": {
+            "type": "clipping",
+            "end": "tx",
+            "vertexCount": 4,
+            "vertices": [
+              -220.32,
+              1178.73,
+              158.46,
+              1174.03,
+              138.63,
+              0.16,
+              -116.97,
+              0.18
+            ],
+            "color": "ce3a3aff"
+          }
+        }
+      }
+    },
+    "animations": {
+      "attack": {
+        "slots": {
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": null
+              },
+              {
+                "time": 0.1333,
+                "name": "tx_00000"
+              },
+              {
+                "time": 0.1667,
+                "name": "tx_00001"
+              },
+              {
+                "time": 0.2,
+                "name": "tx_00002"
+              },
+              {
+                "time": 0.2333,
+                "name": "tx_00003"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "tx": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1333,
+                "x": 0.306,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "idle": {
+        "slots": {
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "tx_00003"
+              },
+              {
+                "time": 0.0333,
+                "name": "tx_00004"
+              },
+              {
+                "time": 0.0667,
+                "name": "tx_00005"
+              },
+              {
+                "time": 0.1,
+                "name": "tx_00006"
+              },
+              {
+                "time": 0.1333,
+                "name": "tx_00007"
+              },
+              {
+                "time": 0.1667,
+                "name": "tx_00008"
+              },
+              {
+                "time": 0.2,
+                "name": "tx_00009"
+              },
+              {
+                "time": 0.2333,
+                "name": "tx_00010"
+              },
+              {
+                "time": 0.2667,
+                "name": "tx_00011"
+              },
+              {
+                "time": 0.3,
+                "name": "tx_00000"
+              },
+              {
+                "time": 0.3333,
+                "name": "tx_00001"
+              },
+              {
+                "time": 0.3667,
+                "name": "tx_00002"
+              },
+              {
+                "time": 0.4,
+                "name": "tx_00003"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbullet_11.png\nsize: 999,970\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ntx_00000\n  rotate: false\n  xy: 891, 373\n  size: 106, 595\n  orig: 118, 646\n  offset: 0, 25\n  index: -1\ntx_00001\n  rotate: false\n  xy: 669, 352\n  size: 109, 616\n  orig: 118, 646\n  offset: 0, 5\n  index: -1\ntx_00002\n  rotate: false\n  xy: 228, 347\n  size: 107, 621\n  orig: 118, 646\n  offset: 0, 0\n  index: -1\ntx_00003\n  rotate: true\n  xy: 2, 2\n  size: 109, 619\n  orig: 118, 646\n  offset: 0, 0\n  index: -1\ntx_00004\n  rotate: false\n  xy: 2, 343\n  size: 113, 625\n  orig: 118, 646\n  offset: 0, 0\n  index: -1\ntx_00005\n  rotate: true\n  xy: 2, 226\n  size: 115, 595\n  orig: 118, 646\n  offset: 0, 27\n  index: -1\ntx_00006\n  rotate: true\n  xy: 2, 113\n  size: 111, 616\n  orig: 118, 646\n  offset: 1, 5\n  index: -1\ntx_00007\n  rotate: false\n  xy: 561, 348\n  size: 106, 620\n  orig: 118, 646\n  offset: 0, 0\n  index: -1\ntx_00008\n  rotate: false\n  xy: 117, 347\n  size: 109, 621\n  orig: 118, 646\n  offset: 0, 0\n  index: -1\ntx_00009\n  rotate: false\n  xy: 337, 347\n  size: 107, 621\n  orig: 118, 646\n  offset: 0, 0\n  index: -1\ntx_00010\n  rotate: false\n  xy: 780, 376\n  size: 109, 592\n  orig: 118, 646\n  offset: 0, 27\n  index: -1\ntx_00011\n  rotate: false\n  xy: 446, 348\n  size: 113, 620\n  orig: 118, 646\n  offset: 0, 5\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "1d107617-4ecc-4303-82e6-86de7fc2e907"
+    }
+  ],
+  "textureNames": [
+    "bullet_11.png"
+  ],
+  "scale": 1
+}

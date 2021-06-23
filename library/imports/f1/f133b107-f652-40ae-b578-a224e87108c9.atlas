@@ -1,0 +1,27 @@
+
+fx_by_nizaizheli.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_by_nzzl_jt
+  rotate: false
+  xy: 267, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tex_lv
+  rotate: false
+  xy: 2, 2
+  size: 263, 244
+  orig: 263, 244
+  offset: 0, 0
+  index: -1
+zi_lv
+  rotate: false
+  xy: 267, 75
+  size: 177, 41
+  orig: 177, 41
+  offset: 0, 0
+  index: -1

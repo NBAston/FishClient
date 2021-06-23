@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jindubiankuang",
+    "texture": "e3b524b0-7557-4b14-afc3-46940075ed82",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      105
+    ],
+    "capInsets": [
+      57,
+      0,
+      56,
+      0
+    ]
+  }
+}

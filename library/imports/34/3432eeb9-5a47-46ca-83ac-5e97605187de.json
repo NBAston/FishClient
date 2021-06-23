@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_qianwanzhuce",
+    "texture": "bfd673d9-9a6d-4513-b53a-09d4058ef998",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      141,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

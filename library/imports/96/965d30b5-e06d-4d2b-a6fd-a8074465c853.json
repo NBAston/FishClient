@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "fx_by_ryxwrcdh.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nfx_by_ryxwrcdh.png\nsize: 2048,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimg_xuanwudi\n  rotate: false\n  xy: 2, 165\n  size: 945, 290\n  orig: 945, 301\n  offset: 0, 5\n  index: -1\nimg_xuanwugui\n  rotate: false\n  xy: 964, 665\n  size: 265, 233\n  orig: 271, 238\n  offset: 3, 2\n  index: -1\nimg_xuanwukuang\n  rotate: false\n  xy: 2, 457\n  size: 960, 540\n  orig: 960, 540\n  offset: 0, 0\n  index: -1\nimg_xuanwumiaoshu\n  rotate: false\n  xy: 964, 900\n  size: 769, 97\n  orig: 769, 97\n  offset: 0, 0\n  index: -1\nimg_xuanwumingzi\n  rotate: false\n  xy: 2, 2\n  size: 508, 161\n  orig: 509, 161\n  offset: 1, 0\n  index: -1\n"
+}

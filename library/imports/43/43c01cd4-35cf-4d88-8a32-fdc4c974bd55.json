@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_diban",
+    "texture": "edd85742-4990-4ae6-8dae-57729afb6ca2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      788,
+      674
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      788,
+      674
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heijin_icon_13shui",
+    "texture": "91ab8032-5ee2-46b7-b6fc-e5c49246b60b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1019,
+      497
+    ],
+    "offset": [
+      -0.5,
+      5.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

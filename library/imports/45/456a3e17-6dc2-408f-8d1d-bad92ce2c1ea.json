@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_shenghezhong",
+    "texture": "4230f351-e506-48a5-931a-2f6bf858e628",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

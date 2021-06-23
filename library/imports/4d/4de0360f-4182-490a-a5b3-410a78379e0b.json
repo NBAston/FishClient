@@ -1,0 +1,893 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fx_by_ryxwrcdh",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "wPEdnbOXc9sAHO0gByS4Wnw0rNU",
+      "spine": "3.6.53",
+      "width": 1920,
+      "height": 872.29,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "eff",
+        "parent": "root",
+        "length": 31.43
+      },
+      {
+        "name": "di1",
+        "parent": "eff",
+        "length": 31.43,
+        "x": -1.81,
+        "y": -2.69,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "wugui",
+        "parent": "eff",
+        "length": 74.65,
+        "y": 144.95
+      },
+      {
+        "name": "xingxing",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 132.34,
+        "y": 156.58
+      },
+      {
+        "name": "xing1",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": 235.15,
+        "y": -96.12,
+        "scaleX": 2.641,
+        "scaleY": 2.641
+      },
+      {
+        "name": "xing2",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -204.73,
+        "y": -170.61,
+        "scaleX": 2.641,
+        "scaleY": 2.641
+      },
+      {
+        "name": "xing3",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": 86.39,
+        "y": 153.52,
+        "scaleX": 1.798,
+        "scaleY": 1.798
+      },
+      {
+        "name": "xing4",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": 155.49,
+        "y": -394.95,
+        "scaleX": 1.798,
+        "scaleY": 1.798
+      },
+      {
+        "name": "xing5",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -426.06,
+        "y": -322.22,
+        "scaleX": 1.798,
+        "scaleY": 1.798
+      },
+      {
+        "name": "xing6",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -535.67,
+        "y": -95.77,
+        "scaleX": 3.062,
+        "scaleY": 3.062
+      },
+      {
+        "name": "xing7",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": 273,
+        "y": 231.58,
+        "scaleX": 1.864,
+        "scaleY": 1.864
+      },
+      {
+        "name": "xing8",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -136.92,
+        "y": 13.53,
+        "scaleX": 1.864,
+        "scaleY": 1.864
+      },
+      {
+        "name": "xing9",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -235.48,
+        "y": -402.11,
+        "scaleX": 1.864,
+        "scaleY": 1.864
+      },
+      {
+        "name": "xing10",
+        "parent": "xingxing",
+        "length": 18.64,
+        "x": -308.53,
+        "y": 148.83,
+        "scaleX": 1.104,
+        "scaleY": 1.104
+      },
+      {
+        "name": "zi2",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 2.48,
+        "y": -28.56,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "zi3",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 253.78,
+        "y": -202.47
+      },
+      {
+        "name": "zi2add",
+        "parent": "eff",
+        "length": 31.43,
+        "x": 2.48,
+        "y": -28.56,
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "di_01",
+        "bone": "di1",
+        "attachment": "di_01"
+      },
+      {
+        "name": "gui",
+        "bone": "wugui",
+        "attachment": "gui"
+      },
+      {
+        "name": "zi_cs",
+        "bone": "zi2",
+        "attachment": "zi_cs"
+      },
+      {
+        "name": "zi_cs2",
+        "bone": "zi2add",
+        "attachment": "zi_cs",
+        "blend": "additive"
+      },
+      {
+        "name": "zi_xiao",
+        "bone": "zi3",
+        "attachment": "zi_xiao"
+      },
+      {
+        "name": "xing1",
+        "bone": "xing1",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing7",
+        "bone": "xing7",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing8",
+        "bone": "xing8",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing9",
+        "bone": "xing9",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing10",
+        "bone": "xing10",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing2",
+        "bone": "xing2",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing3",
+        "bone": "xing3",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing4",
+        "bone": "xing4",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing5",
+        "bone": "xing5",
+        "attachment": "xx_512",
+        "blend": "additive"
+      },
+      {
+        "name": "xing6",
+        "bone": "xing6",
+        "attachment": "xx_512",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "di_01": {
+          "di_01": {
+            "width": 960,
+            "height": 304
+          }
+        },
+        "gui": {
+          "gui": {
+            "width": 776,
+            "height": 674
+          }
+        },
+        "xing1": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing10": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing2": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing3": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing4": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing5": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing6": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing7": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing8": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "xing9": {
+          "xx_512": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "zi_cs": {
+          "zi_cs": {
+            "width": 415,
+            "height": 107
+          }
+        },
+        "zi_cs2": {
+          "zi_cs": {
+            "width": 415,
+            "height": 107
+          }
+        },
+        "zi_xiao": {
+          "zi_xiao": {
+            "width": 587,
+            "height": 102
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "di_01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "gui": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing7": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing8": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing9": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "xing10": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "zi_cs": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "zi_cs2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff84"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff84"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "zi_xiao": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zi2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 1172.56,
+                "y": 0
+              },
+              {
+                "time": 0.2667,
+                "x": -68.24,
+                "y": 0
+              },
+              {
+                "time": 0.4333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "di1": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -977.13,
+                "y": 0
+              },
+              {
+                "time": 0.2333,
+                "x": 55.84,
+                "y": 0
+              },
+              {
+                "time": 0.3667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "zi2add": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 1172.56,
+                "y": 0
+              },
+              {
+                "time": 0.2667,
+                "x": -68.24,
+                "y": 0
+              },
+              {
+                "time": 0.4333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing1": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing4": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing6": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "xing7": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.7333,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "xing8": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.7333,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "xing9": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.7333,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "xing10": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.7333,
+                "x": 0.481,
+                "y": 0.481
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "eff": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.2667,
+                "x": 1794.23,
+                "y": 0
+              }
+            ]
+          },
+          "wugui": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.1667,
+                "x": 1.498,
+                "y": 1.498
+              },
+              {
+                "time": 0.2667,
+                "x": 0.9,
+                "y": 0.9
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfx_by_ryxwrcdh.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\ndi_01\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 960, 304\r\n  orig: 960, 304\r\n  offset: 0, 0\r\n  index: -1\r\ngui\r\n  rotate: false\r\n  xy: 2, 308\r\n  size: 776, 674\r\n  orig: 776, 674\r\n  offset: 0, 0\r\n  index: -1\r\nxx_512\r\n  rotate: false\r\n  xy: 884, 437\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nzi_cs\r\n  rotate: true\r\n  xy: 884, 567\r\n  size: 415, 107\r\n  orig: 415, 107\r\n  offset: 0, 0\r\n  index: -1\r\nzi_xiao\r\n  rotate: true\r\n  xy: 780, 395\r\n  size: 587, 102\r\n  orig: 587, 102\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "e07a25d5-75b0-46f8-b2b5-af90bc288935"
+    }
+  ],
+  "textureNames": [
+    "fx_by_ryxwrcdh.png"
+  ],
+  "scale": 1
+}

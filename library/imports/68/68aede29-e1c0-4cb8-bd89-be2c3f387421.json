@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_chongzhianniu",
+    "texture": "f9b498d3-0f39-4eb9-a642-7c7c008c01f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

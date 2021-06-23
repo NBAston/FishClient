@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_rewu",
+    "texture": "fed0f549-0c01-4960-9f13-84f0ccc4199f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      425,
+      944
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      425,
+      944
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

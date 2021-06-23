@@ -1,0 +1,128 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "heijin_huodejiangli5",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "2zKBLuzzj1zfIka2h1kOHaMaYPE",
+      "spine": "3.6.53",
+      "width": 300,
+      "height": 300,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 0.75,
+        "scaleY": 0.75
+      },
+      {
+        "name": "ani2",
+        "parent": "root",
+        "length": 39.69
+      },
+      {
+        "name": "2kk",
+        "parent": "ani2",
+        "length": 55.13,
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "k01/k_00",
+        "bone": "2kk",
+        "attachment": "k01/k_00",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "k01/k_00": {
+          "k01/k_00": {
+            "width": 150,
+            "height": 150
+          },
+          "k01/k_01": {
+            "width": 150,
+            "height": 150
+          },
+          "k01/k_02": {
+            "width": 150,
+            "height": 150
+          },
+          "k01/k_03": {
+            "width": 150,
+            "height": 150
+          },
+          "k01/k_04": {
+            "width": 150,
+            "height": 150
+          },
+          "k01/k_05": {
+            "width": 150,
+            "height": 150
+          },
+          "k01/k_06": {
+            "width": 150,
+            "height": 150
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation2": {
+        "slots": {
+          "k01/k_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "k01/k_00"
+              },
+              {
+                "time": 0.1,
+                "name": "k01/k_01"
+              },
+              {
+                "time": 0.2,
+                "name": "k01/k_02"
+              },
+              {
+                "time": 0.3,
+                "name": "k01/k_03"
+              },
+              {
+                "time": 0.4,
+                "name": "k01/k_04"
+              },
+              {
+                "time": 0.5,
+                "name": "k01/k_05"
+              },
+              {
+                "time": 0.6,
+                "name": "k01/k_06"
+              },
+              {
+                "time": 0.7,
+                "name": "k01/k_00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nheijin_huodejiangli5.png\r\nsize: 1024,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nk01/k_00\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 113, 113\r\n  orig: 113, 113\r\n  offset: 0, 0\r\n  index: -1\r\nk01/k_01\r\n  rotate: false\r\n  xy: 117, 2\r\n  size: 113, 113\r\n  orig: 113, 113\r\n  offset: 0, 0\r\n  index: -1\r\nk01/k_02\r\n  rotate: false\r\n  xy: 232, 2\r\n  size: 113, 113\r\n  orig: 113, 113\r\n  offset: 0, 0\r\n  index: -1\r\nk01/k_03\r\n  rotate: false\r\n  xy: 347, 2\r\n  size: 113, 113\r\n  orig: 113, 113\r\n  offset: 0, 0\r\n  index: -1\r\nk01/k_04\r\n  rotate: false\r\n  xy: 462, 2\r\n  size: 113, 113\r\n  orig: 113, 113\r\n  offset: 0, 0\r\n  index: -1\r\nk01/k_05\r\n  rotate: false\r\n  xy: 577, 2\r\n  size: 113, 113\r\n  orig: 113, 113\r\n  offset: 0, 0\r\n  index: -1\r\nk01/k_06\r\n  rotate: false\r\n  xy: 692, 2\r\n  size: 113, 113\r\n  orig: 113, 113\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "971e6023-cce8-4e71-a25a-35fac533815e"
+    }
+  ],
+  "textureNames": [
+    "heijin_huodejiangli5.png"
+  ],
+  "scale": 1
+}

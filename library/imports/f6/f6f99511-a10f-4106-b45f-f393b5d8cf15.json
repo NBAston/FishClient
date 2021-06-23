@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bangzitiao",
+    "texture": "ab6eb891-97eb-4327-9272-3634a0cf0c57",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      118
+    ],
+    "capInsets": [
+      70,
+      55,
+      70,
+      55
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_diabng",
+    "texture": "708e352c-1f3d-46f3-bd8a-158f18ec1b7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      176,
+      323
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      323
+    ],
+    "capInsets": [
+      33,
+      61,
+      36,
+      86
+    ]
+  }
+}

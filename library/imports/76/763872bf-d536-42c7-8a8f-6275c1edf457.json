@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gerenweixuan",
+    "texture": "077e9a88-3b56-4d86-8045-fd9a49b48e50",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      167,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

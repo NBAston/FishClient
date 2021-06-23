@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_fama",
+    "texture": "3fc52380-c70d-4e95-96b0-0dcaede04bc0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
