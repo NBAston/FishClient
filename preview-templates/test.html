@@ -1,0 +1,20 @@
+<html>
+<body>
+    <dev>
+        <input type="button" value="触发" onclick="onClick()"/>
+    </dev>
+</body>
+<script>
+    function onClick () {
+        // 这里的 parent 其实就是外部的 window
+        // 这样一来就可以访问到定义在 cc 的函数了
+        //parent.cc.TestCode();
+        // 如果 TestCode 是定义在 window 上，则
+        //parent.TestCode("hello world");
+		
+		if(parent.glGame) {
+			parent.glGame.emitter.emit("gameWebNotify", {code: 0, state: 0});
+		}
+    }
+</script>
+</html>

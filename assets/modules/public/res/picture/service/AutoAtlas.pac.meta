@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.0",
+  "uuid": "c8d49705-3e10-46aa-a892-d07c39ded424",
+  "maxWidth": 2048,
+  "maxHeight": 2048,
+  "padding": 2,
+  "allowRotation": true,
+  "forceSquared": false,
+  "powerOfTwo": false,
+  "algorithm": "MaxRects",
+  "format": "png",
+  "quality": 80,
+  "contourBleed": false,
+  "paddingBleed": false,
+  "filterUnused": false,
+  "packable": false,
+  "premultiplyAlpha": false,
+  "filterMode": "bilinear",
+  "platformSettings": {
+    "web": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 90
+        },
+        {
+          "name": "png",
+          "quality": 90
+        }
+      ]
+    }
+  },
+  "subMetas": {}
+}

@@ -1,0 +1,153 @@
+
+chongzhidaozhang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_00
+  rotate: false
+  xy: 2, 360
+  size: 450, 150
+  orig: 450, 150
+  offset: 0, 0
+  index: -1
+jb1
+  rotate: false
+  xy: 2, 2
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+jb2
+  rotate: false
+  xy: 54, 2
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+jb3
+  rotate: false
+  xy: 106, 2
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+jb4
+  rotate: false
+  xy: 158, 2
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+p_05
+  rotate: false
+  xy: 2, 130
+  size: 227, 228
+  orig: 227, 228
+  offset: 0, 0
+  index: -1
+xian01/xian01_00
+  rotate: false
+  xy: 454, 435
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_05
+  rotate: false
+  xy: 454, 435
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_10
+  rotate: false
+  xy: 454, 435
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_01
+  rotate: false
+  xy: 2, 53
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_06
+  rotate: false
+  xy: 2, 53
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_11
+  rotate: false
+  xy: 2, 53
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_02
+  rotate: true
+  xy: 231, 133
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_07
+  rotate: true
+  xy: 231, 133
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_12
+  rotate: true
+  xy: 231, 133
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_03
+  rotate: false
+  xy: 681, 435
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_04
+  rotate: true
+  xy: 308, 133
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_09
+  rotate: true
+  xy: 308, 133
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_14
+  rotate: true
+  xy: 308, 133
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_08
+  rotate: false
+  xy: 454, 358
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+xian01/xian01_13
+  rotate: false
+  xy: 454, 358
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1

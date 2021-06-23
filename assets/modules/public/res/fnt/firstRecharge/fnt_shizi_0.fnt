@@ -1,0 +1,16 @@
+info face="·½Õý´ÖÔ²¼òÌå" size=100 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,30,30,30 spacing=1,1 outline=0
+common lineHeight=100 base=80 scaleW=1500 scaleH=150 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="fnt_shizi_0.png"
+chars count=12
+char id=37   x=0     y=0     width=120   height=96    xoffset=-28   yoffset=15    xadvance=64    page=0  chnl=15
+char id=46   x=1176  y=0     width=76    height=44    xoffset=-26   yoffset=67    xadvance=24    page=0  chnl=15
+char id=48   x=121   y=0     width=109   height=96    xoffset=-29   yoffset=15    xadvance=51    page=0  chnl=15
+char id=49   x=1088  y=0     width=87    height=94    xoffset=-29   yoffset=16    xadvance=33    page=0  chnl=15
+char id=50   x=769   y=0     width=105   height=95    xoffset=-27   yoffset=15    xadvance=51    page=0  chnl=15
+char id=51   x=447   y=0     width=105   height=96    xoffset=-28   yoffset=15    xadvance=51    page=0  chnl=15
+char id=52   x=659   y=0     width=109   height=95    xoffset=-29   yoffset=15    xadvance=51    page=0  chnl=15
+char id=53   x=875   y=0     width=105   height=95    xoffset=-28   yoffset=16    xadvance=51    page=0  chnl=15
+char id=54   x=231   y=0     width=107   height=96    xoffset=-28   yoffset=15    xadvance=51    page=0  chnl=15
+char id=55   x=981   y=0     width=106   height=94    xoffset=-29   yoffset=16    xadvance=48    page=0  chnl=15
+char id=56   x=553   y=0     width=105   height=96    xoffset=-27   yoffset=15    xadvance=51    page=0  chnl=15
+char id=57   x=339   y=0     width=107   height=96    xoffset=-28   yoffset=15    xadvance=51    page=0  chnl=15

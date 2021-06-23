@@ -1,0 +1,55 @@
+
+heijin_huodejiangli4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bao_12
+  rotate: false
+  xy: 2, 573
+  size: 443, 405
+  orig: 443, 405
+  offset: 0, 0
+  index: -1
+fx_light_825
+  rotate: false
+  xy: 2, 196
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 2, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 763, 786
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+jt
+  rotate: false
+  xy: 447, 588
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 379, 541
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 447, 664
+  size: 314, 314
+  orig: 314, 314
+  offset: 0, 0
+  index: -1

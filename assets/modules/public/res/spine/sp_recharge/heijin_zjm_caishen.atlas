@@ -1,0 +1,167 @@
+
+heijin_zjm_caishen.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_mi_light_606_00000
+  rotate: false
+  xy: 2, 76
+  size: 179, 176
+  orig: 179, 176
+  offset: 0, 0
+  index: -1
+huzi01
+  rotate: true
+  xy: 482, 156
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+huzi02
+  rotate: true
+  xy: 283, 4
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+huzi03
+  rotate: true
+  xy: 447, 156
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+jmao/jmao_00
+  rotate: false
+  xy: 680, 191
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_01
+  rotate: false
+  xy: 766, 191
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_02
+  rotate: false
+  xy: 852, 191
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_03
+  rotate: false
+  xy: 938, 191
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_04
+  rotate: false
+  xy: 680, 128
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_05
+  rotate: false
+  xy: 766, 128
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_06
+  rotate: false
+  xy: 852, 128
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_07
+  rotate: false
+  xy: 938, 128
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_08
+  rotate: false
+  xy: 134, 13
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+jmao/jmao_09
+  rotate: true
+  xy: 220, 2
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: true
+  xy: 286, 79
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 2, 4
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 447, 175
+  size: 125, 77
+  orig: 125, 77
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 314, 5
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 574, 151
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+x702/002
+  rotate: false
+  xy: 183, 145
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+x702/003
+  rotate: false
+  xy: 316, 157
+  size: 129, 95
+  orig: 129, 95
+  offset: 0, 0
+  index: -1
+xx01
+  rotate: false
+  xy: 283, 29
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 183, 88
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1

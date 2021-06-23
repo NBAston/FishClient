@@ -1,0 +1,1 @@
+npm install --save shelljs && npm install --save adm-zip@0.4.11 && npm install archiver --save

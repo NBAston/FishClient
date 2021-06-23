@@ -1,0 +1,125 @@
+
+heijin_zjm_paomadeng2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_light_603
+  rotate: false
+  xy: 654, 125
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+pic_pmd1
+  rotate: false
+  xy: 2, 594
+  size: 1551, 107
+  orig: 1551, 107
+  offset: 0, 0
+  index: -1
+pic_pmd1-1
+  rotate: false
+  xy: 2, 703
+  size: 1587, 108
+  orig: 1587, 108
+  offset: 0, 0
+  index: -1
+pic_pmd2
+  rotate: false
+  xy: 2, 813
+  size: 1588, 108
+  orig: 1588, 108
+  offset: 0, 0
+  index: -1
+pic_pmd2-1
+  rotate: false
+  xy: 2, 813
+  size: 1588, 108
+  orig: 1588, 108
+  offset: 0, 0
+  index: -1
+pmd_01_00
+  rotate: false
+  xy: 2, 383
+  size: 1231, 209
+  orig: 1231, 209
+  offset: 0, 0
+  index: -1
+xxx/xxx_00
+  rotate: false
+  xy: 1592, 896
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_01
+  rotate: false
+  xy: 1235, 567
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_02
+  rotate: false
+  xy: 2, 29
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_03
+  rotate: false
+  xy: 654, 98
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_04
+  rotate: true
+  xy: 1168, 125
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_05
+  rotate: false
+  xy: 1592, 869
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_06
+  rotate: false
+  xy: 1235, 540
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_07
+  rotate: false
+  xy: 2, 2
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_08
+  rotate: false
+  xy: 260, 29
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+xxx/xxx_09
+  rotate: false
+  xy: 654, 71
+  size: 256, 25
+  orig: 256, 25
+  offset: 0, 0
+  index: -1
+yixian_2_00
+  rotate: false
+  xy: 2, 56
+  size: 650, 325
+  orig: 650, 325
+  offset: 0, 0
+  index: -1

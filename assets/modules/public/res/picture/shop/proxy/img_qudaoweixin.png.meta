@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "313cd079-5013-4dce-854a-99d00c09b7f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 42,
+  "platformSettings": {},
+  "subMetas": {
+    "img_qudaoweixin": {
+      "ver": "1.0.4",
+      "uuid": "eda4c33e-ca45-4e07-ac08-9908fc75d77c",
+      "rawTextureUuid": "313cd079-5013-4dce-854a-99d00c09b7f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 54,
+      "height": 42,
+      "rawWidth": 54,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

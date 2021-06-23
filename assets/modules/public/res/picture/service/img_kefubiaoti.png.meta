@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ed88c4df-2551-41da-a01d-968eebf79937",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 239,
+  "height": 68,
+  "platformSettings": {},
+  "subMetas": {
+    "img_kefubiaoti": {
+      "ver": "1.0.4",
+      "uuid": "abdb2774-aa3c-404e-b87a-671762d96456",
+      "rawTextureUuid": "ed88c4df-2551-41da-a01d-968eebf79937",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 239,
+      "height": 68,
+      "rawWidth": 239,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

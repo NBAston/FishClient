@@ -1,0 +1,42 @@
+{
+    "title": {
+        "explain": "项目名",
+        "value": "kxqp"
+    },
+    "platform": {
+        "explain": "构建的平台 [web-mobile, web-desktop, android, win32, ios, mac, qqplay, wechatgame, fb-instant-games]",
+        "value": "web-desktop"
+    },
+    "debug": {
+        "explain": "是否为 debug 模式",
+        "value": false
+    },
+    "sourceMaps": {
+        "explain": "是否需要加入 source maps",
+        "value": false
+    },
+	"webOrientation": {
+		"explain": "web mobile 平台（不含微信小游戏）下的旋转选项 [landscape, portrait, auto]",
+		"value": "landscape"
+	},
+	"renderMode": {
+		"explain": "设置渲染类型 0 - 由引擎自动选择. 1 - 强制使用 Canvas 渲染模式 2 - 强制使用 Webgl 渲染模式，但是在移动浏览器中这个选项会被忽略",
+		"value": 2
+	},
+    "inlineSpriteFrames": {
+        "explain": "是否内联所有 SpriteFrame",
+        "value": true
+    },
+    "mergeStartScene": {
+        "explain": "是否合并初始场景依赖的所有 JSON",
+        "value": true
+    },
+    "optimizeHotUpdate": {
+        "explain": "是否将图集中的全部 SpriteFrame 合并到同一个包中",
+        "value": true
+    },
+    "md5Cache": {
+        "explain": "是否开启 md5 缓存",
+        "value": true
+    }
+}

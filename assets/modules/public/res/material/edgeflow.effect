@@ -1,0 +1,72 @@
+
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: vs
+      frag: fs
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: none
+      properties:
+        texture: { value: white }
+        time: {value: 0.5}          // 时间
+        lightwidth: {value: 0.25}   // 高亮宽度(百分比)
+        duration: {value: 2.0}      // 持续时间
+        brightness: {value: 1.1}    // 亮度
+}%
+
+CCProgram vs %{
+
+precision highp float;
+
+#include <cc-global>
+
+in vec3 a_position;
+
+in mediump vec2 a_uv0;
+out mediump vec2 v_uv0;
+
+in vec4 a_color;
+out vec4 v_color;
+
+void main () {
+  gl_Position = cc_matViewProj * vec4(a_position, 1);
+  v_uv0 = a_uv0;
+  v_color = a_color;
+}
+
+}%
+
+CCProgram fs %{
+
+precision highp float;
+
+#include <texture>
+
+uniform sampler2D texture;
+in mediump vec2 v_uv0;
+in vec4 v_color;
+
+uniform TIME {
+    float time;
+    float lightwidth;
+    float duration;
+    float brightness;
+};
+
+void main () {
+  vec4 color = v_color;
+  CCTexture(texture, v_uv0, color);
+
+  float dis = abs(v_uv0.x - time / duration);
+  if(dis < lightwidth) {
+       float r = (lightwidth - dis) / lightwidth;
+       gl_FragColor = color * r * r * brightness;
+  } else {
+       gl_FragColor = vec4(0.0, 0.0, 0.0, 0.0);
+  }
+}
+
+}%

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "da2979fb-6a11-4a07-b2cc-3de49726dbe5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 592,
+  "height": 151,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_xlight04": {
+      "ver": "1.0.4",
+      "uuid": "7fd04884-1d41-42eb-8990-2ff2694f8c97",
+      "rawTextureUuid": "da2979fb-6a11-4a07-b2cc-3de49726dbe5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 592,
+      "height": 151,
+      "rawWidth": 592,
+      "rawHeight": 151,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

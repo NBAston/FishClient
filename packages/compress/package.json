@@ -1,0 +1,21 @@
+{
+  "name": "compress",
+  "version": "0.0.1",
+  "description": "一份简单的扩展包",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "tools/quality 90%": {
+      "message": "compress:quality90"
+    },
+    "tools/quality 80%": {
+      "message": "compress:quality80"
+    },
+    "tools/quality 70%": {
+      "message": "compress:quality70"
+    },
+    "tools/clear": {
+      "message": "compress:clear"
+    }
+  }
+}
