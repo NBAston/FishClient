@@ -11,6 +11,8 @@
 ## npm run s 运行/调试
 ## npm run packager2 打包 win安装包
 
+# 捕鱼客户端资源所在目录 ： assets/modules/games/nfish 【大厅模式】
+
 ============ 打包流程============
 
 一、配置
