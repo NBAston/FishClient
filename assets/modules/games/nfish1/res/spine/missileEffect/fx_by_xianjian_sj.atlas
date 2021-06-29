@@ -1,0 +1,41 @@
+
+fx_by_xianjian_sj.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 291, 191
+  orig: 291, 191
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 295, 2
+  size: 291, 191
+  orig: 291, 191
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 588, 2
+  size: 291, 191
+  orig: 291, 191
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 881, 2
+  size: 291, 191
+  orig: 291, 191
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1174, 2
+  size: 291, 191
+  orig: 291, 191
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "87a5768f-6029-4de7-b7d3-0fd142535c87",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 331,
+  "height": 126,
+  "platformSettings": {},
+  "subMetas": {
+    "Grove_10": {
+      "ver": "1.0.4",
+      "uuid": "c2895095-0e01-4c61-ba63-afeb50b57140",
+      "rawTextureUuid": "87a5768f-6029-4de7-b7d3-0fd142535c87",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16.5,
+      "offsetY": 0,
+      "trimX": 33,
+      "trimY": 0,
+      "width": 298,
+      "height": 126,
+      "rawWidth": 331,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,132 @@
+
+zyxrk_bu_guibingfang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Turtlehead
+  rotate: false
+  xy: 2, 38
+  size: 193, 182
+  orig: 193, 182
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 212, 201
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+bz
+  rotate: true
+  xy: 594, 529
+  size: 174, 143
+  orig: 174, 143
+  offset: 0, 0
+  index: -1
+cao
+  rotate: true
+  xy: 2, 2
+  size: 34, 135
+  orig: 34, 135
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 435, 449
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+foot_1
+  rotate: false
+  xy: 212, 285
+  size: 125, 141
+  orig: 125, 141
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: false
+  xy: 339, 314
+  size: 106, 124
+  orig: 106, 124
+  offset: 0, 0
+  index: -1
+foot_3
+  rotate: true
+  xy: 293, 130
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+hongchou
+  rotate: false
+  xy: 754, 950
+  size: 268, 65
+  orig: 268, 65
+  offset: 0, 0
+  index: -1
+img_guibinfang
+  rotate: false
+  xy: 513, 705
+  size: 214, 84
+  orig: 214, 84
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 513, 791
+  size: 239, 224
+  orig: 239, 224
+  offset: 0, 0
+  index: -1
+rock_00
+  rotate: false
+  xy: 2, 428
+  size: 272, 255
+  orig: 272, 255
+  offset: 0, 0
+  index: -1
+shanhu
+  rotate: false
+  xy: 2, 222
+  size: 208, 204
+  orig: 208, 204
+  offset: 0, 0
+  index: -1
+shanhu01
+  rotate: false
+  xy: 276, 440
+  size: 157, 243
+  orig: 157, 243
+  offset: 0, 0
+  index: -1
+shanhu03
+  rotate: false
+  xy: 754, 827
+  size: 228, 121
+  orig: 228, 121
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 2, 685
+  size: 509, 330
+  orig: 509, 330
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 197, 85
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+zz
+  rotate: true
+  xy: 435, 491
+  size: 192, 157
+  orig: 192, 157
+  offset: 0, 0
+  index: -1

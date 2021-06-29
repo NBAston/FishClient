@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "da561058-2cec-4742-91e6-a361b13098cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 457,
+  "height": 77,
+  "platformSettings": {},
+  "subMetas": {
+    "img_dajidali": {
+      "ver": "1.0.4",
+      "uuid": "da05cc84-8a4e-44d5-97ea-174a75249691",
+      "rawTextureUuid": "da561058-2cec-4742-91e6-a361b13098cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 457,
+      "height": 77,
+      "rawWidth": 457,
+      "rawHeight": 77,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

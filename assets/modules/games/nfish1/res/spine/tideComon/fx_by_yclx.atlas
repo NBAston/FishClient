@@ -1,0 +1,118 @@
+
+fx_by_yclx.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef_Glow_Flair08
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 516
+  size: 789, 440
+  orig: 789, 440
+  offset: 0, 0
+  index: -1
+tex_light_710
+  rotate: false
+  xy: 793, 533
+  size: 564, 423
+  orig: 564, 423
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1359, 771
+  size: 653, 185
+  orig: 653, 185
+  offset: 0, 0
+  index: -1
+zis/sao_00
+  rotate: true
+  xy: 516, 194
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_01
+  rotate: false
+  xy: 1359, 679
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_02
+  rotate: true
+  xy: 608, 194
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_03
+  rotate: false
+  xy: 1359, 587
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_04
+  rotate: false
+  xy: 1681, 679
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_05
+  rotate: true
+  xy: 700, 194
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_06
+  rotate: false
+  xy: 1681, 587
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_07
+  rotate: false
+  xy: 1359, 495
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_08
+  rotate: false
+  xy: 1681, 495
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_09
+  rotate: false
+  xy: 516, 102
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_10
+  rotate: false
+  xy: 516, 10
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1
+zis/sao_11
+  rotate: true
+  xy: 792, 194
+  size: 320, 90
+  orig: 320, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+fx_ptbs_shandian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_Circle_0001
+  rotate: false
+  xy: 2, 2
+  size: 183, 191
+  orig: 256, 256
+  offset: 31, 32
+  index: -1
+Tex_Circle_0012
+  rotate: false
+  xy: 829, 75
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+Tex_Glow_0001
+  rotate: false
+  xy: 577, 65
+  size: 125, 128
+  orig: 128, 128
+  offset: 1, 0
+  index: -1
+Tex_Light_0002_000
+  rotate: false
+  xy: 187, 65
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex_Light_0002_001
+  rotate: false
+  xy: 317, 65
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex_Light_0002_002
+  rotate: false
+  xy: 447, 65
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex_Light_0002_003
+  rotate: false
+  xy: 704, 65
+  size: 123, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+fz_by_potongpao10_zha.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha_00000
+  rotate: false
+  xy: 2, 448
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00001
+  rotate: true
+  xy: 260, 816
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00002
+  rotate: false
+  xy: 2, 170
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00003
+  rotate: true
+  xy: 538, 816
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00004
+  rotate: false
+  xy: 170, 448
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00005
+  rotate: false
+  xy: 170, 170
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00006
+  rotate: true
+  xy: 2, 2
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00007
+  rotate: false
+  xy: 338, 538
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00008
+  rotate: false
+  xy: 338, 260
+  size: 166, 276
+  orig: 166, 276
+  offset: 0, 0
+  index: -1
+baozha_00009
+  rotate: false
+  xy: 506, 540
+  size: 164, 274
+  orig: 164, 274
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: false
+  xy: 2, 726
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

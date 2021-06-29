@@ -1,0 +1,153 @@
+
+zyxrk_by_fuhaofang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 2, 663
+  size: 402, 359
+  orig: 402, 359
+  offset: 0, 0
+  index: -1
+Treasure1
+  rotate: false
+  xy: 811, 882
+  size: 191, 140
+  orig: 191, 140
+  offset: 0, 0
+  index: -1
+Treasure2
+  rotate: false
+  xy: 811, 882
+  size: 191, 140
+  orig: 191, 140
+  offset: 0, 0
+  index: -1
+erduoyou
+  rotate: false
+  xy: 290, 342
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+erduozuo
+  rotate: true
+  xy: 559, 571
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+hongbao
+  rotate: false
+  xy: 2, 383
+  size: 286, 278
+  orig: 286, 278
+  offset: 0, 0
+  index: -1
+huxu
+  rotate: true
+  xy: 724, 777
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+huxuyou
+  rotate: true
+  xy: 811, 810
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+huxuzuo
+  rotate: true
+  xy: 610, 770
+  size: 58, 112
+  orig: 58, 112
+  offset: 0, 0
+  index: -1
+img_fuhaofang
+  rotate: true
+  xy: 185, 167
+  size: 214, 85
+  orig: 214, 85
+  offset: 0, 0
+  index: -1
+meimaoyou
+  rotate: true
+  xy: 653, 656
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+meimaozuo
+  rotate: false
+  xy: 185, 146
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: false
+  xy: 406, 693
+  size: 268, 65
+  orig: 268, 65
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 406, 760
+  size: 202, 262
+  orig: 202, 262
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 924, 818
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 122
+  size: 181, 259
+  orig: 181, 259
+  offset: 0, 0
+  index: -1
+tripod
+  rotate: true
+  xy: 290, 431
+  size: 230, 137
+  orig: 230, 137
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 610, 830
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: true
+  xy: 2, 2
+  size: 118, 193
+  orig: 118, 193
+  offset: 0, 0
+  index: -1
+xiuzidi
+  rotate: false
+  xy: 429, 439
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+xx_512
+  rotate: false
+  xy: 429, 563
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

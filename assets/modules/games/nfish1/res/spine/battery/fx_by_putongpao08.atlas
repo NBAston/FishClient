@@ -1,0 +1,181 @@
+
+fx_by_putongpao08.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 377, 97
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 487, 20
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 401, 3
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 444, 3
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+c5
+  rotate: true
+  xy: 487, 2
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 536, 20
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+chi1
+  rotate: false
+  xy: 2, 27
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+chi2
+  rotate: false
+  xy: 318, 165
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+guan
+  rotate: true
+  xy: 151, 103
+  size: 54, 138
+  orig: 54, 138
+  offset: 0, 0
+  index: -1
+x/x_00
+  rotate: false
+  xy: 435, 172
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_01
+  rotate: false
+  xy: 548, 172
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_02
+  rotate: false
+  xy: 661, 172
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_03
+  rotate: false
+  xy: 774, 172
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_04
+  rotate: false
+  xy: 887, 172
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_05
+  rotate: false
+  xy: 119, 19
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_06
+  rotate: false
+  xy: 232, 19
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_07
+  rotate: false
+  xy: 435, 88
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_08
+  rotate: false
+  xy: 548, 88
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_09
+  rotate: false
+  xy: 661, 88
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_10
+  rotate: false
+  xy: 774, 88
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+x/x_11
+  rotate: false
+  xy: 887, 88
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 2, 118
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+xindi
+  rotate: false
+  xy: 151, 159
+  size: 165, 95
+  orig: 165, 95
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: true
+  xy: 291, 103
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+zi2
+  rotate: false
+  xy: 345, 2
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1

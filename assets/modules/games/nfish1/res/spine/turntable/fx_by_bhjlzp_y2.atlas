@@ -1,0 +1,111 @@
+
+fx_by_bhjlzp_y2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef_Glow083
+  rotate: false
+  xy: 723, 226
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_Glow_0007
+  rotate: false
+  xy: 392, 14
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+img_guang
+  rotate: false
+  xy: 2, 102
+  size: 379, 380
+  orig: 379, 380
+  offset: 0, 0
+  index: -1
+img_yuanguang
+  rotate: false
+  xy: 2, 2
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+img_yuanhuan
+  rotate: false
+  xy: 383, 144
+  size: 338, 338
+  orig: 338, 338
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_00
+  rotate: false
+  xy: 98, 4
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_01
+  rotate: false
+  xy: 196, 4
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_02
+  rotate: false
+  xy: 294, 4
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_03
+  rotate: false
+  xy: 522, 46
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_04
+  rotate: false
+  xy: 620, 46
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_05
+  rotate: false
+  xy: 718, 46
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_06
+  rotate: false
+  xy: 816, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_07
+  rotate: false
+  xy: 914, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_08
+  rotate: false
+  xy: 816, 30
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+jinbi2/jinbi_09
+  rotate: false
+  xy: 914, 30
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fx_by_csjf.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_caishen
+  rotate: false
+  xy: 357, 2
+  size: 272, 212
+  orig: 272, 212
+  offset: 0, 0
+  index: -1
+img_caishendi
+  rotate: false
+  xy: 631, 75
+  size: 293, 139
+  orig: 293, 139
+  offset: 0, 0
+  index: -1
+img_guang
+  rotate: false
+  xy: 2, 49
+  size: 353, 165
+  orig: 353, 165
+  offset: 0, 0
+  index: -1
+img_guangdian
+  rotate: false
+  xy: 631, 28
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+img_gxfc
+  rotate: false
+  xy: 2, 10
+  size: 130, 37
+  orig: 130, 37
+  offset: 0, 0
+  index: -1

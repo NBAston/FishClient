@@ -1,0 +1,69 @@
+
+fx_ptbs_baozha.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_Circle_0001
+  rotate: false
+  xy: 2, 42
+  size: 183, 191
+  orig: 256, 256
+  offset: 31, 32
+  index: -1
+Tex_Circle_0013
+  rotate: false
+  xy: 894, 115
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+Tex_Glow_0001
+  rotate: false
+  xy: 506, 105
+  size: 125, 128
+  orig: 128, 128
+  offset: 1, 0
+  index: -1
+baozha_04/01
+  rotate: false
+  xy: 187, 4
+  size: 106, 92
+  orig: 256, 256
+  offset: 81, 84
+  index: -1
+baozha_04/02
+  rotate: false
+  xy: 765, 2
+  size: 118, 118
+  orig: 256, 256
+  offset: 72, 70
+  index: -1
+baozha_04/03
+  rotate: false
+  xy: 765, 122
+  size: 127, 111
+  orig: 256, 256
+  offset: 67, 76
+  index: -1
+baozha_04/04
+  rotate: false
+  xy: 187, 98
+  size: 166, 135
+  orig: 256, 256
+  offset: 51, 62
+  index: -1
+baozha_04/05
+  rotate: false
+  xy: 355, 100
+  size: 149, 133
+  orig: 256, 256
+  offset: 54, 63
+  index: -1
+baozha_04/06
+  rotate: false
+  xy: 633, 113
+  size: 130, 120
+  orig: 256, 256
+  offset: 71, 66
+  index: -1

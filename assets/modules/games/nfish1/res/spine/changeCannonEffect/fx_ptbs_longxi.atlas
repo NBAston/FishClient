@@ -1,0 +1,48 @@
+
+fx_ptbs_longxi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_Circle_0001
+  rotate: false
+  xy: 304, 227
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_Glow_0001
+  rotate: false
+  xy: 1078, 355
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pai_glow_611
+  rotate: false
+  xy: 2, 183
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+quan726
+  rotate: false
+  xy: 562, 227
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tex_tb_cm_01
+  rotate: false
+  xy: 820, 227
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 179, 264
+  orig: 179, 264
+  offset: 0, 0
+  index: -1

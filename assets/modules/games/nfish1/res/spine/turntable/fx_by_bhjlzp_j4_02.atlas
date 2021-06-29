@@ -1,0 +1,83 @@
+
+fx_by_bhjlzp_j4_02.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef_Glow083
+  rotate: false
+  xy: 1756, 735
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_Glow_0007
+  rotate: false
+  xy: 445, 110
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+img_digu
+  rotate: false
+  xy: 2, 219
+  size: 356, 258
+  orig: 356, 258
+  offset: 0, 0
+  index: -1
+img_fly
+  rotate: true
+  xy: 2, 2
+  size: 215, 283
+  orig: 215, 283
+  offset: 0, 0
+  index: -1
+img_fly_er
+  rotate: true
+  xy: 360, 240
+  size: 237, 188
+  orig: 237, 188
+  offset: 0, 0
+  index: -1
+img_hangg
+  rotate: true
+  xy: 287, 3
+  size: 214, 156
+  orig: 214, 156
+  offset: 0, 0
+  index: -1
+img_light_er
+  rotate: true
+  xy: 1452, 690
+  size: 301, 302
+  orig: 301, 302
+  offset: 0, 0
+  index: -1
+img_loadding_light
+  rotate: false
+  xy: 1082, 571
+  size: 316, 175
+  orig: 316, 175
+  offset: 0, 0
+  index: -1
+tex_deng
+  rotate: false
+  xy: 1082, 748
+  size: 368, 243
+  orig: 368, 243
+  offset: 0, 0
+  index: -1
+tex_glow_flair079
+  rotate: false
+  xy: 2, 479
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tex_light_709_0000
+  rotate: false
+  xy: 516, 568
+  size: 564, 423
+  orig: 564, 423
+  offset: 0, 0
+  index: -1

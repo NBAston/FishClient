@@ -1,0 +1,62 @@
+
+fx_by_shandianpao_xl.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/Tex_Light_0004_1_000
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+1/Tex_Light_0004_1_001
+  rotate: false
+  xy: 522, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+1/Tex_Light_0004_1_002
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+1/Tex_Light_0004_1_003
+  rotate: false
+  xy: 588, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+2/Tex_Light_0002_000
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+2/Tex_Light_0002_001
+  rotate: false
+  xy: 132, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+2/Tex_Light_0002_002
+  rotate: false
+  xy: 262, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+2/Tex_Light_0002_003
+  rotate: false
+  xy: 392, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+fx_by_putongpao06.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo
+  rotate: false
+  xy: 218, 27
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 218, 78
+  size: 164, 159
+  orig: 164, 159
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 57
+  size: 214, 180
+  orig: 214, 180
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: true
+  xy: 2, 2
+  size: 53, 102
+  orig: 53, 102
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: false
+  xy: 384, 59
+  size: 78, 178
+  orig: 78, 178
+  offset: 0, 0
+  index: -1
+pao3
+  rotate: true
+  xy: 106, 2
+  size: 53, 102
+  orig: 53, 102
+  offset: 0, 0
+  index: -1

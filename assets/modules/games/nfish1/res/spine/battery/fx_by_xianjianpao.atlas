@@ -1,0 +1,20 @@
+
+fx_by_xianjianpao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: true
+  xy: 2, 96
+  size: 137, 352
+  orig: 137, 352
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 356, 2
+  size: 253, 231
+  orig: 253, 231
+  offset: 0, 0
+  index: -1

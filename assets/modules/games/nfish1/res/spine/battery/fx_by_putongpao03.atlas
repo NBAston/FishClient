@@ -1,0 +1,62 @@
+
+fx_by_putongpao03.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodi
+  rotate: false
+  xy: 2, 76
+  size: 175, 159
+  orig: 175, 159
+  offset: 0, 0
+  index: -1
+baoshi
+  rotate: true
+  xy: 179, 124
+  size: 111, 178
+  orig: 111, 178
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: true
+  xy: 151, 6
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 280, 24
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+lv
+  rotate: false
+  xy: 359, 169
+  size: 115, 66
+  orig: 115, 66
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: true
+  xy: 179, 73
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: true
+  xy: 2, 2
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+pao3
+  rotate: true
+  xy: 359, 118
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1

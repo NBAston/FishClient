@@ -1,0 +1,17 @@
+info face="Arial" size=134 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=134 base=107 scaleW=512 scaleH=272 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_caishen.png"
+chars count=13
+char id=32   x=370   y=135   width=72    height=0     xoffset=0     yoffset=0     xadvance=72    page=0  chnl=15
+char id=48   x=268   y=0     width=65    height=134   xoffset=0     yoffset=0     xadvance=65    page=0  chnl=15
+char id=49   x=323   y=135   width=46    height=134   xoffset=0     yoffset=0     xadvance=46    page=0  chnl=15
+char id=50   x=0     y=135   width=64    height=134   xoffset=0     yoffset=0     xadvance=64    page=0  chnl=15
+char id=51   x=65    y=135   width=64    height=134   xoffset=0     yoffset=0     xadvance=64    page=0  chnl=15
+char id=52   x=121   y=0     width=73    height=134   xoffset=0     yoffset=0     xadvance=73    page=0  chnl=15
+char id=53   x=195   y=135   width=63    height=134   xoffset=0     yoffset=0     xadvance=63    page=0  chnl=15
+char id=54   x=334   y=0     width=65    height=134   xoffset=0     yoffset=0     xadvance=65    page=0  chnl=15
+char id=55   x=130   y=135   width=64    height=134   xoffset=0     yoffset=0     xadvance=64    page=0  chnl=15
+char id=56   x=259   y=135   width=63    height=134   xoffset=0     yoffset=0     xadvance=63    page=0  chnl=15
+char id=57   x=400   y=0     width=65    height=134   xoffset=0     yoffset=0     xadvance=65    page=0  chnl=15
+char id=126  x=195   y=0     width=72    height=134   xoffset=0     yoffset=0     xadvance=72    page=0  chnl=15
+char id=20493 x=0     y=0     width=120   height=134   xoffset=0     yoffset=0     xadvance=120   page=0  chnl=15

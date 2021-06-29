@@ -1,0 +1,104 @@
+
+fx_by_xuanwubuhuo.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef_Glow083
+  rotate: false
+  xy: 1016, 1111
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_Glow_0007
+  rotate: false
+  xy: 1490, 1693
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+img_caidai
+  rotate: false
+  xy: 765, 1823
+  size: 871, 181
+  orig: 871, 181
+  offset: 0, 0
+  index: -1
+img_light_er
+  rotate: false
+  xy: 713, 1065
+  size: 301, 302
+  orig: 301, 302
+  offset: 0, 0
+  index: -1
+img_loadding_light
+  rotate: false
+  xy: 1638, 1829
+  size: 316, 175
+  orig: 316, 175
+  offset: 0, 0
+  index: -1
+img_pauo
+  rotate: false
+  xy: 1330, 1694
+  size: 158, 127
+  orig: 158, 127
+  offset: 0, 0
+  index: -1
+img_xw
+  rotate: false
+  xy: 2, 941
+  size: 596, 556
+  orig: 596, 556
+  offset: 0, 0
+  index: -1
+img_xwdier
+  rotate: false
+  xy: 2, 1499
+  size: 761, 505
+  orig: 761, 505
+  offset: 0, 0
+  index: -1
+img_xwdiye
+  rotate: false
+  xy: 765, 1595
+  size: 563, 226
+  orig: 563, 226
+  offset: 0, 0
+  index: -1
+tex_deng1
+  rotate: true
+  xy: 600, 949
+  size: 548, 111
+  orig: 548, 111
+  offset: 0, 0
+  index: -1
+tex_deng2
+  rotate: false
+  xy: 765, 1482
+  size: 548, 111
+  orig: 548, 111
+  offset: 0, 0
+  index: -1
+tex_deng_00
+  rotate: false
+  xy: 713, 1369
+  size: 548, 111
+  orig: 548, 111
+  offset: 0, 0
+  index: -1
+tex_glow_flair079
+  rotate: false
+  xy: 2, 427
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tex_light_709_0000
+  rotate: false
+  xy: 2, 2
+  size: 564, 423
+  orig: 564, 423
+  offset: 0, 0
+  index: -1

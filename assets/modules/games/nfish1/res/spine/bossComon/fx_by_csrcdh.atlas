@@ -1,0 +1,146 @@
+
+fx_by_csrcdh.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_01
+  rotate: false
+  xy: 2, 2
+  size: 387, 111
+  orig: 387, 111
+  offset: 0, 0
+  index: -1
+di_02
+  rotate: false
+  xy: 2, 270
+  size: 412, 183
+  orig: 412, 183
+  offset: 0, 0
+  index: -1
+erduoyou
+  rotate: false
+  xy: 1618, 423
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+erduozuo
+  rotate: false
+  xy: 1169, 224
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+hongbao
+  rotate: false
+  xy: 677, 232
+  size: 286, 278
+  orig: 286, 278
+  offset: 0, 0
+  index: -1
+huxu
+  rotate: false
+  xy: 1565, 378
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+huxuyou
+  rotate: false
+  xy: 391, 2
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+huxuzuo
+  rotate: true
+  xy: 1724, 452
+  size: 58, 112
+  orig: 58, 112
+  offset: 0, 0
+  index: -1
+meimaoyou
+  rotate: false
+  xy: 421, 121
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+meimaozuo
+  rotate: false
+  xy: 621, 491
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 965, 248
+  size: 202, 262
+  orig: 202, 262
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 1291, 227
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 416, 272
+  size: 181, 259
+  orig: 181, 259
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 1169, 318
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: true
+  xy: 1370, 323
+  size: 118, 193
+  orig: 118, 193
+  offset: 0, 0
+  index: -1
+xiuzidi
+  rotate: false
+  xy: 551, 148
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+xx_512
+  rotate: false
+  xy: 421, 142
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+zi_boss
+  rotate: false
+  xy: 1370, 443
+  size: 246, 67
+  orig: 246, 67
+  offset: 0, 0
+  index: -1
+zi_cs
+  rotate: false
+  xy: 2, 115
+  size: 417, 153
+  orig: 417, 153
+  offset: 0, 0
+  index: -1
+zi_xiao
+  rotate: false
+  xy: 2, 455
+  size: 617, 55
+  orig: 617, 55
+  offset: 0, 0
+  index: -1
