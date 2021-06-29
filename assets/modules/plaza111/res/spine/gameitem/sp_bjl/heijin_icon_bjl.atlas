@@ -1,0 +1,174 @@
+
+heijin_icon_bjl.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9
+  rotate: false
+  xy: 521, 173
+  size: 168, 185
+  orig: 168, 185
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 2, 2
+  size: 212, 204
+  orig: 212, 204
+  offset: 0, 0
+  index: -1
+baijiale
+  rotate: true
+  xy: 216, 13
+  size: 193, 70
+  orig: 193, 70
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: false
+  xy: 691, 271
+  size: 138, 143
+  orig: 138, 143
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: false
+  xy: 2, 208
+  size: 316, 302
+  orig: 316, 302
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 320, 360
+  size: 315, 150
+  orig: 315, 150
+  offset: 0, 0
+  index: -1
+jinbi01
+  rotate: false
+  xy: 969, 449
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+jinbi02
+  rotate: false
+  xy: 591, 51
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+sg/sg_00
+  rotate: false
+  xy: 691, 184
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_05
+  rotate: false
+  xy: 691, 184
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_01
+  rotate: true
+  xy: 444, 31
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_06
+  rotate: true
+  xy: 444, 31
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_02
+  rotate: false
+  xy: 531, 86
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_07
+  rotate: false
+  xy: 531, 86
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_03
+  rotate: false
+  xy: 831, 220
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_08
+  rotate: false
+  xy: 831, 220
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_04
+  rotate: false
+  xy: 826, 133
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+sg/sg_09
+  rotate: false
+  xy: 826, 133
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 320, 166
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+xignxing01
+  rotate: false
+  xy: 637, 364
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+xignxing02
+  rotate: false
+  xy: 831, 307
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+xignxing03
+  rotate: true
+  xy: 531, 29
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+zhuang
+  rotate: true
+  xy: 288, 15
+  size: 149, 154
+  orig: 149, 154
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 637, 416
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1

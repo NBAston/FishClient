@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "826626da-c8dd-40de-b6b5-542d00c7994c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 67,
+  "height": 68,
+  "platformSettings": {},
+  "subMetas": {
+    "img_guanyuwomentubiao": {
+      "ver": "1.0.4",
+      "uuid": "7121b7c1-873e-466a-8f11-4a6f39b9a8fe",
+      "rawTextureUuid": "826626da-c8dd-40de-b6b5-542d00c7994c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 67,
+      "height": 68,
+      "rawWidth": 67,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,153 @@
+
+heijin_jfdb_zuanshi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ssd_0000
+  rotate: true
+  xy: 296, 2
+  size: 214, 204
+  orig: 214, 204
+  offset: 0, 0
+  index: -1
+ssd_0004
+  rotate: true
+  xy: 971, 128
+  size: 208, 203
+  orig: 208, 203
+  offset: 0, 0
+  index: -1
+ssd_0008
+  rotate: false
+  xy: 587, 558
+  size: 222, 217
+  orig: 222, 217
+  offset: 0, 0
+  index: -1
+ssd_0012
+  rotate: true
+  xy: 578, 338
+  size: 218, 222
+  orig: 218, 222
+  offset: 0, 0
+  index: -1
+ssd_0016
+  rotate: false
+  xy: 1303, 803
+  size: 226, 219
+  orig: 226, 219
+  offset: 0, 0
+  index: -1
+ssd_0020
+  rotate: false
+  xy: 1073, 803
+  size: 228, 219
+  orig: 228, 219
+  offset: 0, 0
+  index: -1
+ssd_0024
+  rotate: false
+  xy: 531, 121
+  size: 219, 215
+  orig: 219, 215
+  offset: 0, 0
+  index: -1
+ssd_0028
+  rotate: false
+  xy: 1531, 807
+  size: 227, 215
+  orig: 227, 215
+  offset: 0, 0
+  index: -1
+zpsd/zpsd0
+  rotate: false
+  xy: 2, 43
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+zpsd/zpsd1
+  rotate: true
+  xy: 811, 609
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+zpsd/zpsd10
+  rotate: false
+  xy: 2, 420
+  size: 292, 300
+  orig: 292, 300
+  offset: 0, 0
+  index: -1
+zpsd/zpsd11
+  rotate: false
+  xy: 296, 728
+  size: 289, 294
+  orig: 289, 294
+  offset: 0, 0
+  index: -1
+zpsd/zpsd12
+  rotate: true
+  xy: 802, 338
+  size: 218, 213
+  orig: 218, 213
+  offset: 0, 0
+  index: -1
+zpsd/zpsd2
+  rotate: false
+  xy: 752, 119
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+zpsd/zpsd3
+  rotate: false
+  xy: 587, 777
+  size: 253, 245
+  orig: 253, 245
+  offset: 0, 0
+  index: -1
+zpsd/zpsd4
+  rotate: true
+  xy: 1760, 805
+  size: 217, 224
+  orig: 217, 224
+  offset: 0, 0
+  index: -1
+zpsd/zpsd5
+  rotate: false
+  xy: 296, 453
+  size: 280, 273
+  orig: 280, 273
+  offset: 0, 0
+  index: -1
+zpsd/zpsd6
+  rotate: false
+  xy: 2, 132
+  size: 292, 286
+  orig: 292, 286
+  offset: 0, 0
+  index: -1
+zpsd/zpsd7
+  rotate: false
+  xy: 296, 218
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+zpsd/zpsd8
+  rotate: false
+  xy: 842, 799
+  size: 229, 223
+  orig: 229, 223
+  offset: 0, 0
+  index: -1
+zpsd/zpsd9
+  rotate: false
+  xy: 2, 722
+  size: 292, 300
+  orig: 292, 300
+  offset: 0, 0
+  index: -1

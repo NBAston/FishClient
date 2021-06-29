@@ -1,0 +1,69 @@
+
+heijin_icon_lp.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma
+  rotate: true
+  xy: 403, 25
+  size: 126, 157
+  orig: 126, 157
+  offset: 0, 0
+  index: -1
+jb2
+  rotate: false
+  xy: 993, 107
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+jb3
+  rotate: true
+  xy: 247, 10
+  size: 141, 154
+  orig: 141, 154
+  offset: 0, 0
+  index: -1
+pan1
+  rotate: false
+  xy: 2, 2
+  size: 243, 245
+  orig: 243, 245
+  offset: 0, 0
+  index: -1
+pan2
+  rotate: false
+  xy: 816, 72
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+pan4
+  rotate: false
+  xy: 1128, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 615, 55
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 993, 179
+  size: 133, 68
+  orig: 133, 68
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 247, 153
+  size: 366, 94
+  orig: 366, 94
+  offset: 0, 0
+  index: -1

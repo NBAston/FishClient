@@ -1,0 +1,146 @@
+
+zjm_jiarufangjian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_lan/btn_lan_00
+  rotate: false
+  xy: 2, 111
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_01
+  rotate: false
+  xy: 2, 45
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_02
+  rotate: false
+  xy: 303, 362
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_03
+  rotate: false
+  xy: 504, 362
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_04
+  rotate: false
+  xy: 705, 362
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_05
+  rotate: false
+  xy: 291, 296
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_06
+  rotate: false
+  xy: 291, 230
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_07
+  rotate: false
+  xy: 492, 296
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_08
+  rotate: false
+  xy: 492, 230
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lan/btn_lan_09
+  rotate: false
+  xy: 693, 296
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+btn_lanll
+  rotate: false
+  xy: 2, 408
+  size: 299, 95
+  orig: 299, 95
+  offset: 0, 0
+  index: -1
+img_jiantou
+  rotate: false
+  xy: 939, 467
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+img_jrfj
+  rotate: false
+  xy: 2, 2
+  size: 158, 41
+  orig: 158, 41
+  offset: 0, 0
+  index: -1
+lanse/lanse_00
+  rotate: false
+  xy: 2, 331
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1
+lanse/lanse_01
+  rotate: false
+  xy: 303, 428
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1
+lanse/lanse_02
+  rotate: false
+  xy: 2, 254
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1
+lanse/lanse_03
+  rotate: false
+  xy: 515, 428
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1
+lanse/lanse_04
+  rotate: false
+  xy: 2, 177
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1
+lanse/lanse_05
+  rotate: true
+  xy: 214, 196
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1
+lanse/lanse_06
+  rotate: false
+  xy: 727, 428
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1

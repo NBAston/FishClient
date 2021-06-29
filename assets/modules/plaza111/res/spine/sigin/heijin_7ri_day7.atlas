@@ -1,0 +1,83 @@
+
+heijin_7ri_day7.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggy_sg_1
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_10
+  rotate: false
+  xy: 762, 97
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_2
+  rotate: false
+  xy: 281, 249
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_3
+  rotate: false
+  xy: 433, 249
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_4
+  rotate: false
+  xy: 585, 249
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_5
+  rotate: false
+  xy: 737, 249
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_6
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_7
+  rotate: false
+  xy: 306, 97
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_8
+  rotate: false
+  xy: 458, 97
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ggy_sg_9
+  rotate: false
+  xy: 610, 97
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_07_qd
+  rotate: false
+  xy: 2, 154
+  size: 277, 245
+  orig: 277, 245
+  offset: 0, 0
+  index: -1

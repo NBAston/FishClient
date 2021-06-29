@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "plaza_down",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 899
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": -937
+        },
+        {
+          "frame": 4,
+          "value": -937
+        }
+      ]
+    }
+  },
+  "events": []
+}

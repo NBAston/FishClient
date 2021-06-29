@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ccf0c6ef-093a-46d8-9187-4c20e55e3d00",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 160,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "img_guanyuwomen1": {
+      "ver": "1.0.4",
+      "uuid": "b140850b-57a7-4c9e-925f-21b2bd13bebb",
+      "rawTextureUuid": "ccf0c6ef-093a-46d8-9187-4c20e55e3d00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 160,
+      "height": 43,
+      "rawWidth": 160,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

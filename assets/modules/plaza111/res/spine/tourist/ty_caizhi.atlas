@@ -1,0 +1,55 @@
+
+ty_caizhi.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cd1
+  rotate: true
+  xy: 2, 14
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+cd2
+  rotate: true
+  xy: 135, 23
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+cd3
+  rotate: false
+  xy: 85, 22
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+cd4
+  rotate: false
+  xy: 184, 33
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+cd5
+  rotate: false
+  xy: 85, 5
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+cd6
+  rotate: false
+  xy: 184, 23
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+cd7
+  rotate: false
+  xy: 2, 2
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1

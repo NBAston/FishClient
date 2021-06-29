@@ -1,0 +1,55 @@
+
+heijin_icon_hhdz.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma
+  rotate: false
+  xy: 609, 68
+  size: 187, 186
+  orig: 187, 186
+  offset: 0, 0
+  index: -1
+hongheidazhan
+  rotate: false
+  xy: 343, 185
+  size: 264, 69
+  orig: 264, 69
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 798, 145
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 798, 200
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 185, 2
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 2, 2
+  size: 156, 181
+  orig: 156, 181
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 2, 160
+  size: 339, 94
+  orig: 339, 94
+  offset: 0, 0
+  index: -1

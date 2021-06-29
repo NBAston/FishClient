@@ -1,0 +1,26 @@
+info face="微软雅黑" size=36 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=3,3
+common lineHeight=36 base=26 scaleW=138 scaleH=139 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_vipzi.png"
+chars count=19
+char id=86 x=40 y=81 width=26 height=31 xoffset=0 yoffset=5 xadvance=30 page=0 chnl=0 letter="V"
+char id=73 x=125 y=34 width=6 height=31 xoffset=0 yoffset=5 xadvance=10 page=0 chnl=0 letter="I"
+char id=80 x=102 y=34 width=20 height=31 xoffset=0 yoffset=5 xadvance=24 page=0 chnl=0 letter="P"
+char id=49 x=114 y=0 width=12 height=31 xoffset=0 yoffset=5 xadvance=16 page=0 chnl=0 letter="1"
+char id=50 x=93 y=105 width=20 height=31 xoffset=0 yoffset=5 xadvance=24 page=0 chnl=0 letter="2"
+char id=51 x=116 y=103 width=19 height=32 xoffset=0 yoffset=5 xadvance=23 page=0 chnl=0 letter="3"
+char id=52 x=41 y=0 width=23 height=31 xoffset=0 yoffset=5 xadvance=27 page=0 chnl=0 letter="4"
+char id=53 x=116 y=68 width=19 height=32 xoffset=0 yoffset=5 xadvance=23 page=0 chnl=0 letter="5"
+char id=54 x=93 y=70 width=20 height=32 xoffset=0 yoffset=5 xadvance=24 page=0 chnl=0 letter="6"
+char id=55 x=91 y=0 width=20 height=31 xoffset=0 yoffset=5 xadvance=24 page=0 chnl=0 letter="7"
+char id=56 x=67 y=0 width=21 height=32 xoffset=0 yoffset=5 xadvance=25 page=0 chnl=0 letter="8"
+char id=57 x=79 y=35 width=20 height=32 xoffset=0 yoffset=5 xadvance=24 page=0 chnl=0 letter="9"
+char id=48 x=69 y=81 width=21 height=32 xoffset=0 yoffset=5 xadvance=25 page=0 chnl=0 letter="0"
+char id=19987 x=0 y=81 width=37 height=39 xoffset=0 yoffset=2 xadvance=41 page=0 chnl=0 letter="专"
+char id=23646 x=40 y=41 width=36 height=37 xoffset=0 yoffset=4 xadvance=40 page=0 chnl=0 letter="属"
+char id=26435 x=0 y=0 width=38 height=38 xoffset=0 yoffset=3 xadvance=42 page=0 chnl=0 letter="权"
+char id=30410 x=0 y=41 width=37 height=37 xoffset=0 yoffset=2 xadvance=41 page=0 chnl=0 letter="益"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=1
+kerning first=80  second=80  amount=-1

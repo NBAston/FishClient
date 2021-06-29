@@ -1,0 +1,20 @@
+
+heijin_7ri_day5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_05_qd
+  rotate: false
+  xy: 203, 39
+  size: 180, 155
+  orig: 180, 155
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 2, 2
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1

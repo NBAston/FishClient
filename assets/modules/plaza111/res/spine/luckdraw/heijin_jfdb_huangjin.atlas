@@ -1,0 +1,279 @@
+
+heijin_jfdb_huangjin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan01
+  rotate: false
+  xy: 2, 719
+  size: 303, 303
+  orig: 303, 303
+  offset: 0, 0
+  index: -1
+sg/sg0
+  rotate: false
+  xy: 359, 8
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+sg/sg1
+  rotate: false
+  xy: 970, 576
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+sg/sg10
+  rotate: false
+  xy: 226, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+sg/sg11
+  rotate: true
+  xy: 980, 972
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+sg/sg12
+  rotate: false
+  xy: 318, 3
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+sg/sg13
+  rotate: true
+  xy: 912, 451
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+sg/sg14
+  rotate: false
+  xy: 912, 509
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+sg/sg2
+  rotate: false
+  xy: 277, 3
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+sg/sg3
+  rotate: false
+  xy: 57, 8
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+sg/sg4
+  rotate: false
+  xy: 116, 11
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+sg/sg5
+  rotate: false
+  xy: 912, 567
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+sg/sg6
+  rotate: true
+  xy: 971, 622
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+sg/sg7
+  rotate: true
+  xy: 2, 2
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+sg/sg8
+  rotate: true
+  xy: 174, 7
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+sg/sg9
+  rotate: false
+  xy: 912, 622
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+shandian/xsd0
+  rotate: false
+  xy: 307, 692
+  size: 230, 109
+  orig: 230, 109
+  offset: 0, 0
+  index: -1
+shandian/xsd1
+  rotate: false
+  xy: 539, 688
+  size: 230, 114
+  orig: 230, 114
+  offset: 0, 0
+  index: -1
+shandian/xsd10
+  rotate: false
+  xy: 680, 430
+  size: 230, 122
+  orig: 230, 122
+  offset: 0, 0
+  index: -1
+shandian/xsd11
+  rotate: true
+  xy: 501, 75
+  size: 230, 124
+  orig: 230, 124
+  offset: 0, 0
+  index: -1
+shandian/xsd12
+  rotate: false
+  xy: 673, 310
+  size: 230, 118
+  orig: 230, 118
+  offset: 0, 0
+  index: -1
+shandian/xsd13
+  rotate: true
+  xy: 863, 78
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+shandian/xsd14
+  rotate: true
+  xy: 739, 78
+  size: 230, 122
+  orig: 230, 122
+  offset: 0, 0
+  index: -1
+shandian/xsd16
+  rotate: false
+  xy: 680, 554
+  size: 230, 123
+  orig: 230, 123
+  offset: 0, 0
+  index: -1
+shandian/xsd2
+  rotate: false
+  xy: 771, 679
+  size: 230, 126
+  orig: 230, 126
+  offset: 0, 0
+  index: -1
+shandian/xsd22
+  rotate: false
+  xy: 448, 554
+  size: 230, 132
+  orig: 230, 132
+  offset: 0, 0
+  index: -1
+shandian/xsd3
+  rotate: true
+  xy: 364, 49
+  size: 230, 135
+  orig: 230, 135
+  offset: 0, 0
+  index: -1
+shandian/xsd4
+  rotate: true
+  xy: 226, 49
+  size: 230, 136
+  orig: 230, 136
+  offset: 0, 0
+  index: -1
+shandian/xsd5
+  rotate: false
+  xy: 448, 437
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+shandian/xsd7
+  rotate: true
+  xy: 627, 75
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+shandian/xsd9
+  rotate: false
+  xy: 441, 307
+  size: 230, 128
+  orig: 230, 128
+  offset: 0, 0
+  index: -1
+ssd_0000
+  rotate: false
+  xy: 232, 486
+  size: 214, 204
+  orig: 214, 204
+  offset: 0, 0
+  index: -1
+ssd_0004
+  rotate: false
+  xy: 231, 281
+  size: 208, 203
+  orig: 208, 203
+  offset: 0, 0
+  index: -1
+ssd_0008
+  rotate: false
+  xy: 2, 62
+  size: 222, 217
+  orig: 222, 217
+  offset: 0, 0
+  index: -1
+ssd_0012
+  rotate: true
+  xy: 535, 804
+  size: 218, 222
+  orig: 218, 222
+  offset: 0, 0
+  index: -1
+ssd_0016
+  rotate: false
+  xy: 307, 803
+  size: 226, 219
+  orig: 226, 219
+  offset: 0, 0
+  index: -1
+ssd_0020
+  rotate: false
+  xy: 2, 498
+  size: 228, 219
+  orig: 228, 219
+  offset: 0, 0
+  index: -1
+ssd_0024
+  rotate: false
+  xy: 759, 807
+  size: 219, 215
+  orig: 219, 215
+  offset: 0, 0
+  index: -1
+ssd_0028
+  rotate: false
+  xy: 2, 281
+  size: 227, 215
+  orig: 227, 215
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+heijin_icon_brnn.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma
+  rotate: false
+  xy: 763, 293
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+chouma1
+  rotate: false
+  xy: 2, 9
+  size: 109, 61
+  orig: 109, 61
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 763, 391
+  size: 133, 119
+  orig: 133, 119
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 403, 94
+  size: 169, 118
+  orig: 169, 118
+  offset: 0, 0
+  index: -1
+k1
+  rotate: false
+  xy: 2, 72
+  size: 194, 219
+  orig: 194, 219
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 435, 214
+  size: 149, 200
+  orig: 149, 200
+  offset: 0, 0
+  index: -1
+k3
+  rotate: true
+  xy: 198, 75
+  size: 154, 203
+  orig: 154, 203
+  offset: 0, 0
+  index: -1
+k4
+  rotate: true
+  xy: 217, 231
+  size: 183, 216
+  orig: 183, 216
+  offset: 0, 0
+  index: -1
+k5
+  rotate: false
+  xy: 2, 293
+  size: 213, 217
+  orig: 213, 217
+  offset: 0, 0
+  index: -1
+maotiao
+  rotate: true
+  xy: 898, 385
+  size: 125, 107
+  orig: 125, 107
+  offset: 0, 0
+  index: -1
+maozhong
+  rotate: false
+  xy: 586, 366
+  size: 175, 144
+  orig: 175, 144
+  offset: 0, 0
+  index: -1
+xinxin
+  rotate: true
+  xy: 586, 220
+  size: 144, 163
+  orig: 144, 163
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 198, 2
+  size: 259, 71
+  orig: 259, 71
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 217, 416
+  size: 332, 94
+  orig: 332, 94
+  offset: 0, 0
+  index: -1

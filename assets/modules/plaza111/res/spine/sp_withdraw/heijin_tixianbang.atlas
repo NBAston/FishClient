@@ -1,0 +1,41 @@
+
+heijin_tixianbang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi2
+  rotate: false
+  xy: 2, 2
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 59, 2
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+light_02_00
+  rotate: false
+  xy: 2, 178
+  size: 209, 68
+  orig: 209, 68
+  offset: 0, 0
+  index: -1
+light_03_00
+  rotate: false
+  xy: 2, 108
+  size: 209, 68
+  orig: 209, 68
+  offset: 0, 0
+  index: -1
+lightd
+  rotate: false
+  xy: 2, 48
+  size: 202, 58
+  orig: 202, 58
+  offset: 0, 0
+  index: -1

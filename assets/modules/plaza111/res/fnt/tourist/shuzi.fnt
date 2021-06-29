@@ -1,0 +1,20 @@
+info face="微软雅黑" size=118 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=3,3
+common lineHeight=118 base=26 scaleW=367 scaleH=366 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="shuzi.png"
+chars count=14
+char id=49 x=277 y=246 width=69 height=116 xoffset=0 yoffset=0 xadvance=73 page=0 chnl=0 letter="1"
+char id=50 x=0 y=122 width=92 height=117 xoffset=0 yoffset=-1 xadvance=96 page=0 chnl=0 letter="2"
+char id=51 x=186 y=244 width=88 height=119 xoffset=0 yoffset=-1 xadvance=92 page=0 chnl=0 letter="3"
+char id=52 x=95 y=244 width=88 height=116 xoffset=0 yoffset=0 xadvance=92 page=0 chnl=0 letter="4"
+char id=53 x=0 y=242 width=92 height=117 xoffset=0 yoffset=1 xadvance=96 page=0 chnl=0 letter="5"
+char id=54 x=277 y=123 width=87 height=120 xoffset=0 yoffset=-2 xadvance=91 page=0 chnl=0 letter="6"
+char id=55 x=189 y=123 width=82 height=115 xoffset=0 yoffset=1 xadvance=86 page=0 chnl=0 letter="7"
+char id=56 x=95 y=122 width=91 height=119 xoffset=0 yoffset=-1 xadvance=95 page=0 chnl=0 letter="8"
+char id=57 x=122 y=0 width=89 height=119 xoffset=0 yoffset=-1 xadvance=93 page=0 chnl=0 letter="9"
+char id=48 x=214 y=0 width=87 height=120 xoffset=0 yoffset=-2 xadvance=91 page=0 chnl=0 letter="0"
+char id=46 x=304 y=0 width=36 height=45 xoffset=0 yoffset=72 xadvance=40 page=0 chnl=0 letter="."
+char id=20803 x=0 y=0 width=119 height=119 xoffset=0 yoffset=0 xadvance=123 page=0 chnl=0 letter="元"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

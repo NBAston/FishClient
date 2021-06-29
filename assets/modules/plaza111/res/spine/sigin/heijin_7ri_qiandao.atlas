@@ -1,0 +1,160 @@
+
+heijin_7ri_qiandao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 875, 235
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 167, 72
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 135, 42
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 129, 28
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 536, 128
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+d6
+  rotate: true
+  xy: 875, 221
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 2, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+d9
+  rotate: false
+  xy: 841, 205
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+djb1
+  rotate: false
+  xy: 464, 143
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+djb3
+  rotate: false
+  xy: 464, 143
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+djb2
+  rotate: false
+  xy: 571, 143
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 464, 94
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+hb2
+  rotate: false
+  xy: 787, 150
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+jb4
+  rotate: false
+  xy: 841, 221
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+jb4-1
+  rotate: false
+  xy: 83, 42
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+sd1
+  rotate: false
+  xy: 515, 105
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+sd2
+  rotate: true
+  xy: 83, 19
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+shuzi7_01
+  rotate: true
+  xy: 2, 93
+  size: 161, 460
+  orig: 161, 460
+  offset: 0, 0
+  index: -1
+xxb
+  rotate: false
+  xy: 787, 202
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+xxh
+  rotate: false
+  xy: 135, 62
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+xxx1
+  rotate: false
+  xy: 2, 13
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+xxx2
+  rotate: false
+  xy: 678, 146
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1

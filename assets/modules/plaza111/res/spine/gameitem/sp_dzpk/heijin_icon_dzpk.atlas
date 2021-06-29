@@ -1,0 +1,76 @@
+
+heijin_icon_dzpk.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 199
+  size: 201, 210
+  orig: 201, 210
+  offset: 0, 0
+  index: -1
+A
+  rotate: true
+  xy: 2, 2
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 343, 215
+  size: 189, 218
+  orig: 189, 218
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 406, 23
+  size: 156, 190
+  orig: 156, 190
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 599, 361
+  size: 144, 182
+  orig: 144, 182
+  offset: 0, 0
+  index: -1
+dezhoupuke
+  rotate: false
+  xy: 336, 435
+  size: 261, 70
+  orig: 261, 70
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 783, 326
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 205, 205
+  size: 204, 136
+  orig: 204, 136
+  offset: 0, 0
+  index: -1
+xg
+  rotate: true
+  xy: 212, 4
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 2, 411
+  size: 332, 94
+  orig: 332, 94
+  offset: 0, 0
+  index: -1

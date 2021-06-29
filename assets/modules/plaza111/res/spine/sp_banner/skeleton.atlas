@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: false
+  xy: 2, 1448
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_01
+  rotate: false
+  xy: 2, 966
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_02
+  rotate: false
+  xy: 314, 1448
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_03
+  rotate: false
+  xy: 2, 484
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_04
+  rotate: false
+  xy: 314, 966
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_05
+  rotate: false
+  xy: 626, 1448
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_06
+  rotate: false
+  xy: 2, 2
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_07
+  rotate: false
+  xy: 314, 484
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_08
+  rotate: false
+  xy: 626, 966
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_09
+  rotate: false
+  xy: 938, 1448
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_10
+  rotate: false
+  xy: 314, 2
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: false
+  xy: 626, 484
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: false
+  xy: 938, 966
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: false
+  xy: 1250, 1448
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_14
+  rotate: false
+  xy: 626, 2
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_15
+  rotate: false
+  xy: 938, 484
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_16
+  rotate: false
+  xy: 1250, 966
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_17
+  rotate: false
+  xy: 1562, 1448
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_18
+  rotate: false
+  xy: 938, 2
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: false
+  xy: 1250, 484
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+1_20
+  rotate: false
+  xy: 1562, 966
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+heijin_icon_sgj.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gua1_y
+  rotate: false
+  xy: 606, 143
+  size: 258, 102
+  orig: 258, 102
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 1190, 6
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+ningmeng
+  rotate: false
+  xy: 1428, 123
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+putao
+  rotate: false
+  xy: 2, 81
+  size: 270, 164
+  orig: 270, 164
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_00
+  rotate: false
+  xy: 1592, 137
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_01
+  rotate: false
+  xy: 1694, 137
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_02
+  rotate: false
+  xy: 1796, 137
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_03
+  rotate: false
+  xy: 1898, 137
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_04
+  rotate: true
+  xy: 274, 49
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_05
+  rotate: true
+  xy: 384, 49
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_06
+  rotate: true
+  xy: 494, 49
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_07
+  rotate: true
+  xy: 604, 41
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_08
+  rotate: true
+  xy: 714, 41
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+sgj_qian/sgj_qian_09
+  rotate: true
+  xy: 1080, 2
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+shuiguoji
+  rotate: false
+  xy: 2, 10
+  size: 195, 69
+  orig: 195, 69
+  offset: 0, 0
+  index: -1
+xigua
+  rotate: true
+  xy: 866, 46
+  size: 199, 212
+  orig: 199, 212
+  offset: 0, 0
+  index: -1
+xigua1
+  rotate: false
+  xy: 1260, 105
+  size: 166, 140
+  orig: 166, 140
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 1080, 104
+  size: 178, 141
+  orig: 178, 141
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 274, 151
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1

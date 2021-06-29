@@ -1,0 +1,76 @@
+
+heijin_icon_hbjl.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guang_2
+  rotate: false
+  xy: 539, 298
+  size: 231, 212
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+baodian_00000
+  rotate: false
+  xy: 2, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hongbao01
+  rotate: false
+  xy: 2, 2
+  size: 231, 250
+  orig: 231, 250
+  offset: 0, 0
+  index: -1
+jb01
+  rotate: false
+  xy: 659, 101
+  size: 177, 99
+  orig: 177, 99
+  offset: 0, 0
+  index: -1
+kai
+  rotate: false
+  xy: 772, 300
+  size: 194, 210
+  orig: 194, 210
+  offset: 0, 0
+  index: -1
+meijin01
+  rotate: false
+  xy: 436, 57
+  size: 221, 143
+  orig: 221, 143
+  offset: 0, 0
+  index: -1
+qianbao02
+  rotate: true
+  xy: 260, 312
+  size: 198, 277
+  orig: 198, 277
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 235, 46
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 260, 240
+  size: 266, 70
+  orig: 266, 70
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 528, 202
+  size: 330, 94
+  orig: 330, 94
+  offset: 0, 0
+  index: -1

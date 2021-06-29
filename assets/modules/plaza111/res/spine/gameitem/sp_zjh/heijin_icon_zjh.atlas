@@ -1,0 +1,125 @@
+
+heijin_icon_zjh.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChouMa
+  rotate: false
+  xy: 1786, 372
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+DaoDan
+  rotate: true
+  xy: 968, 224
+  size: 146, 174
+  orig: 146, 174
+  offset: 0, 0
+  index: -1
+DaoDan_Guang_You
+  rotate: false
+  xy: 267, 228
+  size: 247, 238
+  orig: 247, 238
+  offset: 0, 0
+  index: -1
+DaoDan_Guang_Zuo
+  rotate: false
+  xy: 516, 240
+  size: 225, 226
+  orig: 225, 226
+  offset: 0, 0
+  index: -1
+DaoDan_YingZi
+  rotate: true
+  xy: 1502, 324
+  size: 142, 165
+  orig: 142, 165
+  offset: 0, 0
+  index: -1
+Di_1
+  rotate: false
+  xy: 2, 176
+  size: 263, 290
+  orig: 263, 290
+  offset: 0, 0
+  index: -1
+Hua_Guang
+  rotate: false
+  xy: 743, 247
+  size: 223, 219
+  orig: 223, 219
+  offset: 0, 0
+  index: -1
+Hua_YingZi
+  rotate: true
+  xy: 202, 47
+  size: 127, 57
+  orig: 127, 57
+  offset: 0, 0
+  index: -1
+Pai_1
+  rotate: false
+  xy: 1144, 213
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+Pai_2
+  rotate: false
+  xy: 1302, 232
+  size: 158, 162
+  orig: 158, 162
+  offset: 0, 0
+  index: -1
+Pai_3
+  rotate: false
+  xy: 1669, 328
+  size: 115, 138
+  orig: 115, 138
+  offset: 0, 0
+  index: -1
+TX/TX_33_td
+  rotate: false
+  xy: 372, 135
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+TX/XingDian
+  rotate: false
+  xy: 1902, 385
+  size: 118, 81
+  orig: 118, 81
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 2
+  size: 198, 172
+  orig: 198, 172
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 267, 132
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1299, 396
+  size: 201, 70
+  orig: 201, 70
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 968, 372
+  size: 329, 94
+  orig: 329, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+heijin_chongzhichenggong.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_xg
+  rotate: false
+  xy: 1681, 291
+  size: 220, 219
+  orig: 220, 219
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1111, 253
+  size: 257, 310
+  orig: 257, 310
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 2, 204
+  size: 305, 306
+  orig: 305, 306
+  offset: 0, 0
+  index: -1
+cd1
+  rotate: true
+  xy: 278, 2
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+cd2
+  rotate: false
+  xy: 403, 3
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+cd3
+  rotate: true
+  xy: 361, 2
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+cd4
+  rotate: true
+  xy: 278, 166
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+cd5
+  rotate: false
+  xy: 839, 179
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+cd6
+  rotate: true
+  xy: 823, 148
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+cd7
+  rotate: false
+  xy: 744, 378
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 309, 367
+  size: 433, 143
+  orig: 433, 143
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 645, 173
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+guang01
+  rotate: false
+  xy: 309, 123
+  size: 334, 242
+  orig: 334, 242
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 839, 196
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 1903, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: false
+  xy: 1423, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hehuaguang1
+  rotate: false
+  xy: 1903, 269
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+jb
+  rotate: false
+  xy: 1033, 329
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+pet
+  rotate: true
+  xy: 2, 20
+  size: 182, 274
+  orig: 182, 274
+  offset: 0, 0
+  index: -1
+pet1
+  rotate: true
+  xy: 645, 2
+  size: 169, 176
+  orig: 169, 176
+  offset: 0, 0
+  index: -1
+poke
+  rotate: false
+  xy: 1781, 235
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+poke2
+  rotate: false
+  xy: 1681, 202
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+poke3
+  rotate: true
+  xy: 583, 68
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: false
+  xy: 744, 390
+  size: 365, 120
+  orig: 365, 120
+  offset: 0, 0
+  index: -1
+zi2
+  rotate: false
+  xy: 278, 52
+  size: 303, 69
+  orig: 303, 69
+  offset: 0, 0
+  index: -1

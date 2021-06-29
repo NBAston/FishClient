@@ -1,0 +1,76 @@
+
+heijin_jfdb_baiyin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan01
+  rotate: false
+  xy: 2, 223
+  size: 303, 303
+  orig: 303, 303
+  offset: 0, 0
+  index: -1
+guangquan02
+  rotate: false
+  xy: 2, 528
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+sd02/ssd_0000
+  rotate: true
+  xy: 813, 664
+  size: 214, 204
+  orig: 214, 204
+  offset: 0, 0
+  index: -1
+sd02/ssd_0004
+  rotate: true
+  xy: 451, 10
+  size: 208, 203
+  orig: 208, 203
+  offset: 0, 0
+  index: -1
+sd02/ssd_0008
+  rotate: false
+  xy: 354, 440
+  size: 222, 217
+  orig: 222, 217
+  offset: 0, 0
+  index: -1
+sd02/ssd_0012
+  rotate: true
+  xy: 307, 220
+  size: 218, 222
+  orig: 218, 222
+  offset: 0, 0
+  index: -1
+sd02/ssd_0016
+  rotate: false
+  xy: 2, 2
+  size: 226, 219
+  orig: 226, 219
+  offset: 0, 0
+  index: -1
+sd02/ssd_0020
+  rotate: false
+  xy: 354, 659
+  size: 228, 219
+  orig: 228, 219
+  offset: 0, 0
+  index: -1
+sd02/ssd_0024
+  rotate: false
+  xy: 230, 3
+  size: 219, 215
+  orig: 219, 215
+  offset: 0, 0
+  index: -1
+sd02/ssd_0028
+  rotate: false
+  xy: 584, 663
+  size: 227, 215
+  orig: 227, 215
+  offset: 0, 0
+  index: -1

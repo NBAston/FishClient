@@ -1,0 +1,90 @@
+
+heijin_icon_13shui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_DDZ_2067
+  rotate: false
+  xy: 2, 2
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+meihua01
+  rotate: true
+  xy: 843, 237
+  size: 167, 125
+  orig: 167, 125
+  offset: 0, 0
+  index: -1
+meihua02
+  rotate: false
+  xy: 970, 370
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+meihua03
+  rotate: false
+  xy: 937, 427
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+puke01
+  rotate: true
+  xy: 2, 25
+  size: 206, 254
+  orig: 206, 254
+  offset: 0, 0
+  index: -1
+puke02
+  rotate: true
+  xy: 596, 220
+  size: 184, 245
+  orig: 184, 245
+  offset: 0, 0
+  index: -1
+puke03
+  rotate: false
+  xy: 2, 233
+  size: 266, 267
+  orig: 266, 267
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 270, 319
+  size: 324, 181
+  orig: 324, 181
+  offset: 0, 0
+  index: -1
+shisanshui
+  rotate: false
+  xy: 270, 248
+  size: 193, 69
+  orig: 193, 69
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 465, 271
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+yezi02
+  rotate: true
+  xy: 970, 321
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+zi_di
+  rotate: false
+  xy: 596, 406
+  size: 339, 94
+  orig: 339, 94
+  offset: 0, 0
+  index: -1
