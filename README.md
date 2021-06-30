@@ -7,9 +7,19 @@
 ### 导出web版本到 以下项目的 根目录 \web-mobile
 
 ## 捕鱼鱼线 编辑器 壳（打包exe、dmg）  https://github.com/NBAston/fishEditor 【electron@9.1.2 版本 文档： http://www.electronjs.org/docs 】
-### npm i 初始化
-### npm run s 运行/调试
-### npm run packager2 打包 win安装包
+### 初始化
+```
+ npm i 
+```
+### 运行/调试
+```
+ npm run s 
+```
+
+### 打包 win安装包
+```
+npm run packager2 
+```
 
 ### 捕鱼客户端资源所在目录 ： assets/modules/games/nfish 【大厅模式】
 
