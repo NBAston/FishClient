@@ -98,7 +98,7 @@ http://192.168.3.107/customCard/
           }
 四、拉取大厅工程到
         \dw-master\assets\modules\plaza
-四、拉取子游戏：
+五、拉取子游戏：
        \dw-master\assets\modules\games\honghei
        ...
 
