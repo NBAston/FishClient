@@ -87,18 +87,18 @@ http://192.168.3.107/customCard/
 
 =========================================== 项目流程
 
-一、git拉取 dw-master 大厅到本地
-二、在工程 \dw-master\assets\modules\ 下建立：
+##### 一、git拉取 dw-master 大厅到本地
+##### 二、在工程 \dw-master\assets\modules\ 下建立：
         games 文件夹
-三、获取localsetting.json文件存储到 \dw-master\assets\config\下
+##### 三、获取localsetting.json文件存储到 \dw-master\assets\config\下
        内容：{
              "cfgurl" : "http://192.168.3.108",
              "logenable" : true,
              "producttag" : "test"
           }
-四、拉取大厅工程到
+##### 四、拉取大厅工程到
         \dw-master\assets\modules\plaza
-五、拉取子游戏：
+##### 五、拉取子游戏：
        \dw-master\assets\modules\games\honghei
        ...
 
